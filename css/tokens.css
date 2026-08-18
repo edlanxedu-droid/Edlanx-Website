@@ -1,0 +1,159 @@
+/* ============================================================
+   EDLANX WEBSITE — Design Tokens
+   Extends the brand system in D:\edlanx-design-system with
+   web-specific additions (layout, shadow, motion, z-index).
+   Brand colors/type are canonical — do not invent new ones.
+   ============================================================ */
+
+@import url('https://api.fontshare.com/v2/css?f[]=clash-display@400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* ---- Brand palette (canonical) ---- */
+  --orange-100: #FFE4D9;
+  --orange-200: #FFB088;
+  --orange-500: #FF4800;
+  --orange-600: #E23F00;
+  --orange-700: #B93300;
+
+  --black-900: #0A0A0A;
+  --black-800: #1A1A1A;
+  --black-700: #262626;
+
+  --white-000: #FFFFFF;
+  --white-050: #F7F7F5;
+
+  --gray-100: #E8E8E6;
+  --gray-300: #B8B8B5;
+  --gray-500: #7A7A77;
+  --gray-700: #4A4A48;
+
+  /* ---- Semantic ---- */
+  --color-cta: var(--orange-500);
+  --color-cta-hover: var(--orange-600);
+  --color-cta-pressed: var(--orange-700);
+  --color-cta-tint: var(--orange-100);
+  --color-accent: var(--orange-500);
+
+  --color-surface-dark: var(--black-900);
+  --color-surface-dark-alt: var(--black-800);
+  --color-surface-light: var(--white-000);
+  --color-surface-light-alt: var(--white-050);
+
+  --color-text-primary: var(--black-900);
+  --color-text-primary-inverse: var(--white-000);
+  --color-text-secondary: var(--gray-700);
+  --color-text-secondary-inverse: var(--gray-300);
+  --color-text-muted: var(--gray-500);
+  --color-text-muted-inverse: var(--gray-300);
+
+  --color-border: var(--gray-100);
+  --color-border-dark: var(--black-800);
+  --color-border-on-dark: rgba(255, 255, 255, 0.12);
+
+  /* ---- Typography ---- */
+  --font-display: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Clash Display', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --fs-display: clamp(2.5rem, 5vw, 4.25rem);
+  --fs-h1: clamp(2rem, 3.6vw, 3rem);
+  --fs-h2: clamp(1.5rem, 2.8vw, 2.25rem);
+  --fs-h3: 1.25rem;
+  --fs-h4: 1.0625rem;
+  --fs-body: 1rem;
+  --fs-body-lg: 1.125rem;
+  --fs-caption: 0.8125rem;
+  --fs-cta-label: 0.9375rem;
+
+  --lh-display: 1.04;
+  --lh-h1: 1.08;
+  --lh-h2: 1.18;
+  --lh-h3: 1.3;
+  --lh-body: 1.6;
+
+  --ls-display: -0.02em;
+  --ls-h1: -0.02em;
+  --ls-h2: -0.01em;
+  --ls-cta-label: 0.03em;
+  --ls-caption: 0.06em;
+
+  --fw-display: 700;
+  --fw-h1: 700;
+  --fw-h2: 700;
+  --fw-h3: 600;
+  --fw-body: 400;
+  --fw-body-medium: 500;
+  --fw-cta-label: 700;
+
+  /* ---- Radii (locked scale: sharp structure, pill actions) ---- */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+
+  /* ---- Spacing ---- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --space-6: 48px;
+  --space-7: 64px;
+  --space-8: 96px;
+  --space-9: 128px;
+
+  /* ---- Layout ---- */
+  --container-max: 1440px;
+  --container-pad: clamp(20px, 4vw, 56px);
+  --nav-height: 76px;
+
+  /* ---- Shadow (tinted to ink, never pure black) ---- */
+  --shadow-sm: 0 2px 8px rgba(10, 10, 10, 0.06);
+  --shadow-md: 0 8px 24px rgba(10, 10, 10, 0.10);
+  --shadow-lg: 0 20px 48px rgba(10, 10, 10, 0.14);
+  --shadow-cta: 0 10px 28px rgba(255, 72, 0, 0.28);
+
+  /* ---- Motion ---- */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast: 0.18s;
+  --dur-base: 0.32s;
+  --dur-slow: 0.6s;
+
+  /* ---- Z-index scale ---- */
+  --z-nav: 100;
+  --z-dropdown: 110;
+  --z-modal: 200;
+  --z-toast: 210;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--color-text-primary);
+  background: var(--color-surface-light);
+  -webkit-font-smoothing: antialiased;
+}
+
+.text-display { font-family: var(--font-display); font-size: var(--fs-display); line-height: var(--lh-display); letter-spacing: var(--ls-display); font-weight: var(--fw-display); margin: 0; }
+.text-h1 { font-family: var(--font-display); font-size: var(--fs-h1); line-height: var(--lh-h1); letter-spacing: var(--ls-h1); font-weight: var(--fw-h1); margin: 0; }
+.text-h2 { font-family: var(--font-display); font-size: var(--fs-h2); line-height: var(--lh-h2); letter-spacing: var(--ls-h2); font-weight: var(--fw-h2); margin: 0; }
+.text-h3 { font-family: var(--font-display); font-size: var(--fs-h3); line-height: var(--lh-h3); font-weight: var(--fw-h3); margin: 0; }
+.text-h4 { font-family: var(--font-display); font-size: var(--fs-h4); line-height: 1.3; font-weight: var(--fw-h3); margin: 0; }
+.text-body { font-family: var(--font-body); font-size: var(--fs-body); line-height: var(--lh-body); font-weight: var(--fw-body); margin: 0; }
+.text-body-lg { font-family: var(--font-body); font-size: var(--fs-body-lg); line-height: var(--lh-body); font-weight: var(--fw-body); margin: 0; }
+.text-caption { font-family: var(--font-body); font-size: var(--fs-caption); line-height: 1.4; letter-spacing: var(--ls-caption); font-weight: var(--fw-body-medium); margin: 0; text-transform: uppercase; }
+.text-accent { color: var(--color-cta); }

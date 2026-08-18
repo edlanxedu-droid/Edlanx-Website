@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Biological Blueprint: Sequence Analysis",
+    "topics": [
+      "Alignment Logic",
+      "Heuristic Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Structural Architecture: Proteomics & Folding",
+    "topics": [
+      "Conformational Structural Logic",
+      "Prediction Governance (Homology & AlphaFold)",
+      "Molecular Interaction Blueprinting",
+      "Dynamics & Simulation Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Database Logic: Biological Information Systems",
+    "topics": [
+      "Repository Architecture & Schema Logic",
+      "Relational & Non-Relational Governance",
+      "Data Annotation & Ontology Strategy",
+      "Programmatic Retrieval Architecture",
+      "PDB & Structural Data Governance",
+      "Interoperability & Metadata Logic"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Genomics Logic: Genome Assembly & Annotation",
+    "topics": [
+      "Assembly Structural Logic",
+      "Variant Discovery Governance",
+      "Functional Annotation Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Transcriptomics Architecture: RNA-Seq & Expression Analysis",
+    "topics": [
+      "RNA-Seq Pipeline Logic",
+      "Differential Expression Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: Ethical Data Use & Biosecurity",
+    "topics": [
+      "Genomic Privacy Logic",
+      "Consent Architecture",
+      "Biosecurity Governance",
+      "Algorithmic Bias Strategy",
+      "Intellectual Property Logic",
+      "Data Sovereignty Architecture",
+      "Bio-Ethical Incident Response"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Drug Infrastructure: Chemoinformatics & Virtual Screening",
+    "topics": [
+      "Ligand Structural Logic",
+      "Virtual Screening Governance",
+      "Pharmacophore Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Systems Biology Architecture: Pathway Mapping & Network Analysis",
+    "topics": [
+      "Holistic Logic",
+      "Topology Governance",
+      "Metabolic Flux Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Machine Learning Logic: Neural Networks for Bio-Data",
+    "topics": [
+      "Feature Engineering Logic",
+      "Deep Learning Governance",
+      "Model Validation Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: The Economics of Personalized Medicine",
+    "topics": [
+      "R&D Valuation Logic",
+      "Market Access Governance",
+      "Bio-Entrepreneurship Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Cloud Infrastructure: Scalable Bio-Computing & HPC",
+    "topics": [
+      "High-Performance Logic (HPC)",
+      "Containerization Governance",
+      "Scalable Storage Architecture"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Quantum Biology & Synthetic Genome Design",
+    "topics": [
+      "Synthetic Genome Logic",
+      "Quantum Bio-Computational Governance"
+    ]
+  }
+]

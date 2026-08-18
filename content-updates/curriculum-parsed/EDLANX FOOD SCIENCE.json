@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Chemical Blueprint: Food Chemistry",
+    "topics": [
+      "Molecular Logic",
+      "Water Activity Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Microbiology Architecture: Safety & Spoilage",
+    "topics": [
+      "Microbial Structural Logic",
+      "Growth Kinetics Governance",
+      "Fermentation Architecture",
+      "Hurdle Technology Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Processing Logic: Unit Operations",
+    "topics": [
+      "Thermal Architecture (Pasteurization & Sterilization)",
+      "Dehydration & Moisture Governance",
+      "Separation & Extraction Logic",
+      "Size Reduction & Homogenization Strategy",
+      "Mixing & Emulsification Governance",
+      "Non-Thermal Processing Frontiers"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Packaging Architecture: Barrier Properties & Materials",
+    "topics": [
+      "Barrier Logic",
+      "Active & Intelligent Governance",
+      "Modified Atmosphere Architecture (MAP)"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Nutritional Logic: Fortification & Bioavailability",
+    "topics": [
+      "Bioactive Structural Logic",
+      "Fortification & Enrichment Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: HACCP & Global Standards",
+    "topics": [
+      "Hazard Analysis Logic",
+      "Critical Control Point (CCP) Governance",
+      "Critical Limit Architecture",
+      "Monitoring & Validation Logic",
+      "Corrective Action Strategy",
+      "Verification & Audit Governance",
+      "Traceability & Recall Architecture"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Dairy Technology: Liquid & Value-Added Engineering",
+    "topics": [
+      "Physicochemical Logic",
+      "Transformation Governance",
+      "Aseptic Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Bakery & Confectionery Architecture",
+    "topics": [
+      "Gluten & Dough Logic",
+      "Sugar Crystallization Governance",
+      "Aeration & Leavening Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Beverage Technology: Carbonated & Functional Logic",
+    "topics": [
+      "Carbonation & Dissolution Logic",
+      "Clarification & Filtration Governance",
+      "Functional Formulation Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Sensory Logic: Analysis & Consumer Insights",
+    "topics": [
+      "Psychophysical Logic",
+      "Flavor Chemistry Governance",
+      "Texture Profile Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Supply Chain Infrastructure: Cold Chain & Logistics",
+    "topics": [
+      "Thermal Resilience Logic",
+      "Storage Governance",
+      "Logistics Architecture"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Alternative Proteins & Lab-Grown Food",
+    "topics": [
+      "Cellular Agriculture Logic",
+      "Plant-Based Protein Governance"
+    ]
+  }
+]

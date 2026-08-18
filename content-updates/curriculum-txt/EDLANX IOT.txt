@@ -1,0 +1,249 @@
+INTERNET OF THINGS
+
+  Engineering the Structural Logic of Massive IoT
+  Ecosystems
+
+  A project-first certification designed to master Wireless Mesh Networks,
+  MQTT Cloud Architecture, and the structural engineering of secure,
+  connected intelligence.
+THE EDLANX
+METHODOLOGY
+
+OUR IOT SYSTEMS PHILOSOPHY
+
+At Edlanx, we don’t just teach "connecting sensors to Wi-Fi"; we cultivate a
+connectivity-architect mindset. Our program is a deep dive into the end-to-end
+data pipeline. We believe in Architectural Scalability—moving beyond
+hobbyist dashboards to build robust, low-power networks that ensure data
+integrity and security across thousands of nodes in industrial and urban
+environments.
+
+THE FOUR PILLARS OF MASTERY
+
+Node Logic         Master the core architecture of low-power microcontrollers
+                   and sensor interface logic.
+
+Protocol Governance Learn the structural logic of MQTT, HTTP, and CoAP for efficient
+                                data transmission.
+
+Wireless           Understand the engineering of BLE, LoRaWAN, and Zigbee for
+Architecture       varying range and power demands.
+
+Cloud Integration  Bring your systems to life by mastering the structural link
+                   between edge data and cloud-based analytics.
+
+                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The System Blueprint: IoT Architecture
+
+    1.1 Layered Logic
+    1.2 Edge vs. Cloud Governance
+
+02 Node Architecture: Low-Power Hardware
+                          2.1 SoC Logic
+                          2.2 Energy Governance
+                          2.3 Sensor Interface Logic
+                          2.4 Memory & Storage Architecture
+
+03 Communication Architecture: IP-Based Protocols
+                        3.1 MQTT Logic
+                        3.2 HTTP/REST Governance
+                        3.3 CoAP Engineering
+                        3.4 WebSocket Logic
+                        3.5 Data Serialization Blueprint
+                        3.6 Network Layer Governance
+
+                                                             EDLANX
+04  Wireless Logic: Short-Range Connectivity
+
+    4.1 BLE Architecture
+
+    4.2 Zigbee & Mesh Governance
+
+    4.3 Wi-Fi Strategy
+
+05  LPWAN Architecture: Long-Range Connectivity
+
+    5.1 LoRaWAN Logic
+
+    5.2 NB-IoT & LTE-M Governance
+
+06  Gateway Logic: Edge Computing & Routing
+
+    6.1 Edge Processing Architecture
+
+    6.2 Protocol Translation Governance
+
+    6.3 Fog Computing Logic
+
+    6.4 Local Rule Engineering
+
+    6.5 Device Shadow Architecture
+    6.6 Gateway Security Governance
+    6.7 Multi-Tenant Logic
+
+07  Cloud Architecture: AWS & Azure IoT Integration
+
+    7.1 Provisioning Logic
+
+    7.2 Device Shadow Architecture
+
+    7.3 Rules Engine Governance
+
+08  Data Governance: Timeseries & Visualization
+
+    8.1 Timeseries Logic
+    8.2 Hot & Cold Storage Strategy
+    8.3 Dashboard Architecture
+
+                                                     EDLANX
+09  Security Architecture: End-to-End Encryption
+10
+    9.1 Encryption Logic
+    9.2 Identity & Access Governance
+    9.3 Threat Modeling Architecture
+
+    Industrial IoT (IIoT): OPC-UA & Industry 4.0
+
+    10.1 Legacy Integration Logic
+    10.2 OPC-UA Architecture
+    10.3 Predictive Maintenance Blueprint
+
+11  OTA Logic: Over-the-Air Firmware Updates
+
+    11.1 Update Pipeline Architecture
+    11.2 Rollback & Recovery Governance
+    11.3 Secure Boot Architecture
+
+12  Future Frontiers: NB-IoT, 6G & Edge AI
+
+    12.1 Cellular IoT Logic
+    12.2 Generative IoT Architecture
+
+    EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                          EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond basic sensor-to-LED tutorials to bridge the gap
+     between "hobbyist connectivity" and enterprise-grade architecture.
+     Our Internet of Things syllabus is a deep immersion into Wireless
+     Mesh logic, MQTT broker scaling, and the end-to-end security
+     protocols required by global smart-city and industrial-automation
+     firms.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at our
+    Bangalore Operational Center. At Edlanx, you won't just connect
+    a node; you will be treated as an IoT Systems Engineer, working
+    within real organizational frameworks to architect cloud-
+    integrated data pipelines and manage massive device fleets.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior IoT Architects and Full-Stack
+       Leads through structured mentoring and rigorous
+       performance evaluations. We focus on developing your ability
+       to solve complex packet-loss hurdles, battery optimization
+       constraints, and cloud-sync conflicts with the precision
+       required for live deployments.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools and platforms like AWS IoT
+    Core, Azure IoT Hub, Node-RED, and Wireshark while learning
+    essential professional competencies. We believe in experiential
+    learning and reward innovative edge-intelligence or cloud-
+    integration breakthroughs with performance-based stipends,
+    ensuring you remain driven toward technical mastery.
+
+                                                                                                          EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete IoT
+    Lifecycle, from initial node design to final Over-the-Air (OTA)
+    firmware management. Our career guidance includes technical
+    resume engineering and mock "Solution Design Reviews" designed
+    to help you secure elite roles in global R&D centers and IoT product
+    companies.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead an IoT "sprint,"
+    collaborate across hardware, network, and cloud domains, and
+    grow your network within an elite community of engineers,
+    architects, and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                            EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every cloud-integrated data pipeline and secure edge-node firmware you
+                 architect at Edlanx serves as a live, audit-ready demonstration of your ability to
+                 manage the massive scale and security of modern IoT ecosystems.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading R&D teams at global smart-city initiatives, industrial automation
+                 giants, and high-growth IoT startups.
+
+Career Excellence We move beyond basic sensor-to-cloud tutorials to provide the technical
+                            resume engineering and full-stack integration logic needed to lead the
+                            future of "Hyper-Connectivity" and the global transition to the 6G era.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in Matter protocol standards, LoRaWAN version
+updates, and AI-driven edge intelligence. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Engineering a global IoT fleet requires absolute
+                  protocol and security precision. Whether you are
+                  debugging a packet-loss issue in a mesh network,
+                  optimizing the battery life of an remote sensor
+                  node, or architecting a secure AWS IoT Core rules
+                  engine, our senior Systems Architects are available
+                  to provide the direct, technical feedback needed to
+                  ensure your solutions are deployment-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                               EDLANX
+

@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Genetic Blueprint: Nucleic Acid Architecture",
+    "topics": [
+      "Structural Logic",
+      "Enzyme Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Editing Architecture: CRISPR-Cas9 & Beyond",
+    "topics": [
+      "Guide-RNA Logic",
+      "Pathway Governance (NHEJ vs. HDR)",
+      "Precision Architecture: Base & Prime Editing",
+      "Off-Target Mitigation Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Delivery Logic: Viral & Non-Viral Systems",
+    "topics": [
+      "Adeno-Associated Virus (AAV) Structural Logic",
+      "Lentiviral & Retroviral Governance",
+      "Lipid Nanoparticle (LNP) Architecture",
+      "Electroporation & Physical Strategy",
+      "Hydrodynamic & Biolistic Governance",
+      "Transduction Efficiency Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Selection Logic: Markers & Reporter Systems",
+    "topics": [
+      "Selectable Marker Structural Logic",
+      "Reporter Gene Governance (GFP/Luciferase)",
+      "Screening & Genotyping Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Plant Architecture: Agrobacterium & Gene Guns",
+    "topics": [
+      "Agrobacterium-Mediated Structural Logic",
+      "Physical Transformation Governance (Biolistics)"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: BSL Protocols & Bioethics",
+    "topics": [
+      "Biosafety Level (BSL) Structural Logic",
+      "Bio-Containment Governance",
+      "Personal Protection Architecture",
+      "Bioethical Framework Strategy",
+      "Dual-Use Research Infrastructure",
+      "Informed Consent & Equity Logic",
+      "Regulatory Compliance Blueprinting"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Microbial Engineering: Metabolic Pathways & Bio-factories",
+    "topics": [
+      "Metabolic Flux Structural Logic",
+      "Pathway Governance & Feedback",
+      "Bioprocess Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Animal Architecture: Transgenic Models & Xenotransplantation",
+    "topics": [
+      "Model Organism Structural Logic",
+      "Xenotransplantation Governance",
+      "Stem Cell & Organoid Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Toolsets Logic: Encoding Software &",
+    "topics": [
+      "Genomic Alignment Structural Logic",
+      "Protein Folding Governance",
+      "Synthetic Logic Gate Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Abstracting Systems",
+    "topics": [
+      "Patent Landscape Structural Logic",
+      "Bio-Venture Governance",
+      "Market Access Strategy"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: FDA, EMA & RCGM Guidelines",
+    "topics": [
+      "Clinical Approval Structural Logic",
+      "GMO Governance & Biosafety",
+      "Post-Market Surveillance Strategy"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Synthetic Biology & Gene Drives",
+    "topics": [
+      "De Novo Genome Structural Logic",
+      "Gene Drive Governance & Ecological Engineering"
+    ]
+  }
+]

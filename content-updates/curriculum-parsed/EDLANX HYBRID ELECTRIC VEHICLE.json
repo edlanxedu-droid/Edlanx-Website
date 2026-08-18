@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The System Blueprint: Hybrid Configurations",
+    "topics": [
+      "Series Architecture",
+      "Parallel Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Energy Architecture: Battery Management Systems (BMS)",
+    "topics": [
+      "Cell Logic",
+      "SoC & SoH Governance",
+      "Thermal Blueprinting",
+      "Safety & Isolation Architecture"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Traction Architecture: Electric Motors & Inverters",
+    "topics": [
+      "Motor Logic",
+      "Inverter Governance",
+      "Torque Architecture",
+      "Field Oriented Control (FOC) Logic",
+      "Efficiency Mapping",
+      "Back-EMF & Sensing Logic"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Power Electronics: DC-DC & Charging Logic",
+    "topics": [
+      "Converter Architecture",
+      "Charging Governance",
+      "Isolation Logic"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Control Architecture: Vehicle Control Unit (VCU)",
+    "topics": [
+      "Supervisory Logic",
+      "Torque Splitting Architecture"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Regenerative Logic: Braking & Energy Recovery",
+    "topics": [
+      "Kinetic Architecture",
+      "Brake Blending Governance",
+      "Efficiency Recovery Logic",
+      "State-of-Charge (SoC) Constraints",
+      "One-Pedal Driving Logic",
+      "Stability Control Integration",
+      "Cooperative Braking Architecture"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Transmission Architecture: e-CVT & DHT",
+    "topics": [
+      "Planetary Gear Logic",
+      "Multi-Mode Governance",
+      "Lubrication Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Thermal Management: Integrated System Cooling",
+    "topics": [
+      "Multi-Circuit Logic",
+      "Heat Pump Architecture",
+      "Valve Governance"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Modeling & Simulation: MATLAB/Simulink Foundations",
+    "topics": [
+      "Plant Modeling Logic",
+      "Control Logic Simulation",
+      "Model-in-the-Loop (MiL) Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Diagnostic Logic: OBD & High-Voltage Safety",
+    "topics": [
+      "Diagnostic Governance",
+      "Service Safety Architecture",
+      "Interlock Logic"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "E/E Architecture: Communication & CAN-FD",
+    "topics": [
+      "Bus Architecture",
+      "Signal Integrity Logic",
+      "CAN-FD Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Fuel Cells & Solid-State Hybrids",
+    "topics": [
+      "Hydrogen Logic",
+      "Next-Gen Storage Blueprinting"
+    ]
+  }
+]

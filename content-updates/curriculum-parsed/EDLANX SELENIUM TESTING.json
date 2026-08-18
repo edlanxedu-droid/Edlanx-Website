@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Quality Blueprint: Java Foundations",
+    "topics": [
+      "The Scripting DNA",
+      "Decision & Loop Logic"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Automation Architecture: Selenium Core",
+    "topics": [
+      "The WebDriver Engine & JSON Protocol",
+      "Browser Command Logic",
+      "Synchronization & Wait Strategy",
+      "Navigation & History Architecture"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "Project Lifecycle Management (Maven)",
+      "Version Control for Quality Assurance",
+      "Continuous Integration Logic",
+      "Architectural Documentation",
+      "Technical Report Analysis",
+      "Portfolio Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Locator Logic",
+    "topics": [
+      "Precision Targeting",
+      "Dynamic DOM Navigation",
+      "Element Attributes"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Dynamic Interaction Engineering",
+    "topics": [
+      "Advanced User Gestures",
+      "Handling Virtual Friction"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Components: Page Object Model (POM)",
+    "topics": [
+      "The Blueprint for Scale",
+      "Page Factory Initialization Strategy",
+      "Object Repository Engineering",
+      "Component-Based Architecture",
+      "Custom Method Encapsulation",
+      "CacheLookup Optimization",
+      "Framework Maintenance Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Data-Driven Logic & Automation",
+    "topics": [
+      "High-Volume Validation",
+      "Parameterization Logic",
+      "Database Connectivity"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation: TestNG & Reporting",
+    "topics": [
+      "The Execution Engine",
+      "Assertions & Truth Tables",
+      "Professional Reporting"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Backend Logic: Grid & Parallel Execution",
+    "topics": [
+      "Selenium Grid Architecture",
+      "Parallel Processing Logic",
+      "Cross-Browser Infrastructure"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch: The Global Architect",
+    "topics": [
+      "Framework From Scratch",
+      "Technical Interview Simulation",
+      "The Edlanx Huddle"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "The Virtual Guard",
+      "Industry Standards",
+      "Collaborative Integrity"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Self-Healing Scripts",
+    "topics": [
+      "The Autonomous Tester",
+      "Visual Testing Logic"
+    ]
+  }
+]

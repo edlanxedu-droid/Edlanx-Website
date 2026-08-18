@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "Market Foundations",
+    "topics": [
+      "Exchange Architecture",
+      "Market Participants"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Fundamental Analysis",
+    "topics": [
+      "Valuation Logic",
+      "Financial Forensics",
+      "Macro Drivers",
+      "Corporate Actions"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Technical Analysis",
+    "topics": [
+      "Price Action",
+      "Candlestick Logic",
+      "Trend Architecture",
+      "Volume Analysis",
+      "Gap Theory",
+      "Professional Charting"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Chart Patterns",
+    "topics": [
+      "Reversal Geometry",
+      "Continuation Logic",
+      "Breakout Engineering"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Technical Indicators",
+    "topics": [
+      "Momentum Tools",
+      "Volatility Logic"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Derivatives: Futures",
+    "topics": [
+      "Leverage & Margin Logic",
+      "Contract Architecture",
+      "Basis & Cost of Carry",
+      "Hedging Architecture",
+      "Arbitrage Logic",
+      "Rollover Strategy",
+      "Open Interest (OI) Analysis"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Derivatives: Options",
+    "topics": [
+      "The Greeks",
+      "Buying vs. Selling",
+      "Strategic Spreads"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Quantitative Strategy",
+    "topics": [
+      "Backtesting Logic",
+      "Probability Logic",
+      "Win-Rate Calibration"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Risk Management",
+    "topics": [
+      "Position Sizing",
+      "The Capital Shield",
+      "R:R Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Portfolio Management",
+    "topics": [
+      "Asset Allocation",
+      "Sector Rotation",
+      "Rebalancing Logic"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Trading Psychology",
+    "topics": [
+      "Emotional Discipline",
+      "Trade Journaling",
+      "Professional Mindset"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Modern Markets & AI",
+    "topics": [
+      "Algorithmic Execution",
+      "AI Sentiment"
+    ]
+  }
+]

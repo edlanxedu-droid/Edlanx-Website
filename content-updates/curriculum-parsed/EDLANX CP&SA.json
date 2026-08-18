@@ -1,0 +1,113 @@
+[
+  {
+    "num": 1,
+    "title": "The Project Blueprint: Construction Planning",
+    "topics": [
+      "Lifecycle Architecture",
+      "WBS Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Scheduling Logic: Time & Sequence",
+    "topics": [
+      "CPM Architecture",
+      "Lead & Lag Engineering",
+      "Schedule Optimization Blueprint",
+      "Milestone Governance"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Structural Fundamentals: Load Path Logic",
+    "topics": [
+      "Gravity Architecture",
+      "Lateral Engineering",
+      "Equilibrium Logic",
+      "Stress & Strain Governance",
+      "Moment Distribution Architecture",
+      "Truss & Frame Logic"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Analytical Architecture: SAP2000 & ETABS",
+    "topics": [
+      "Finite Element Logic",
+      "Modal Analysis Architecture",
+      "P-Delta Engineering"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Concrete Architecture: Reinforced Logic",
+    "topics": [
+      "Flexural Engineering",
+      "Shear & Torsion Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Steel Architecture: Connection Engineering",
+    "topics": [
+      "Member Logic",
+      "Connection Architecture",
+      "Buckling Governance",
+      "Plate & Stiffener Logic",
+      "Tension Member Architecture",
+      "Corrosion & Fire Governance",
+      "Fabrication & Erection Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "BIM Architecture: Revit & 4D Sequencing",
+    "topics": [
+      "Parametric Building Logic",
+      "Clash Detection Logic"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Geotechnical Logic: Foundation Engineering",
+    "topics": [
+      "Soil-Structure Interaction",
+      "Shallow & Deep Foundations",
+      "Retaining Wall Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Estimation Logic: 5D Cost Integration",
+    "topics": [
+      "Quantity Take-off Architecture",
+      "Tender & Contract Governance"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Quality & Safety Governance: Site Logic",
+    "topics": [
+      "HSE Architecture",
+      "Quality Assurance (QA/QC)",
+      "Site Logistics Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Infrastructure Logic: Transportation & Hydraulics",
+    "topics": [
+      "Pavement Architecture",
+      "Hydraulic Logic",
+      "Bridge & Culvert Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Sustainable Building & AI",
+    "topics": [
+      "Carbon Logic",
+      "Generative Structural Logic"
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brevo Settings | Edlanx Admin</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body class="admin-body">
+
+<div class="admin-shell">
+  <aside class="admin-sidebar">
+    <img class="admin-logo" src="/assets/logo/edlanx-logo-on-dark.png" alt="Edlanx">
+    <nav class="admin-nav">
+      <a href="index.html"><i class="ph ph-users"></i> Leads</a>
+      <a href="settings.html" class="is-active"><i class="ph ph-gear-six"></i> Brevo settings</a>
+      <a href="emails.html"><i class="ph ph-envelope-simple"></i> Email templates</a>
+    </nav>
+    <div class="admin-sidebar-footer">
+      <div style="margin-bottom:8px;">Signed in as <strong id="admin-username">…</strong></div>
+      <button id="admin-logout">Log out</button>
+    </div>
+  </aside>
+
+  <main class="admin-main">
+    <div class="admin-header">
+      <h1 class="text-h2">Brevo settings</h1>
+    </div>
+
+    <div class="admin-card" style="max-width:520px;">
+      <p class="text-body" style="color:var(--color-text-secondary); margin-bottom: var(--space-4);">
+        Controls how lead emails are sent. Changes take effect immediately — no redeploy needed.
+      </p>
+      <form id="settings-form">
+        <div class="admin-field">
+          <label>Brevo API key</label>
+          <input type="text" name="brevo_api_key" id="brevo_api_key" placeholder="Paste a new key to replace it">
+          <div class="admin-hint" id="key-hint"></div>
+        </div>
+        <div class="admin-field">
+          <label>Team notification email</label>
+          <input type="email" name="notify_email" placeholder="admissions@edlanx.com">
+          <div class="admin-hint">Where the "new lead" alert is sent.</div>
+        </div>
+        <div class="admin-field">
+          <label>Sender email (must be verified in Brevo)</label>
+          <input type="email" name="notify_from_email" placeholder="no-reply@edlanx.com">
+        </div>
+        <div class="admin-field">
+          <label>Sender name</label>
+          <input type="text" name="notify_from_name" placeholder="Edlanx Website">
+        </div>
+        <div class="admin-field">
+          <label>Site URL</label>
+          <input type="url" name="site_url" placeholder="https://edlanx.com">
+          <div class="admin-hint">Used for the "Explore Edlanx" link in the thank-you email.</div>
+        </div>
+        <button type="submit" class="admin-btn">Save settings</button>
+        <div class="admin-status" id="save-status"></div>
+      </form>
+    </div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="admin.js"></script>
+<script>
+const form = document.getElementById("settings-form");
+
+async function load() {
+  const s = await adminApi("/api/admin/settings");
+  form.notify_email.value = s.notify_email || "";
+  form.notify_from_email.value = s.notify_from_email || "";
+  form.notify_from_name.value = s.notify_from_name || "";
+  form.site_url.value = s.site_url || "";
+  document.getElementById("key-hint").textContent = s.brevo_api_key_set
+    ? `Currently set: ${s.brevo_api_key}`
+    : "Not set yet — lead emails will be skipped until this is configured.";
+}
+
+form.addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const statusEl = document.getElementById("save-status");
+  statusEl.className = "admin-status";
+  statusEl.textContent = "Saving…";
+  try {
+    await adminApi("/api/admin/settings", {
+      method: "POST",
+      body: JSON.stringify({
+        brevo_api_key: form.brevo_api_key.value,
+        notify_email: form.notify_email.value,
+        notify_from_email: form.notify_from_email.value,
+        notify_from_name: form.notify_from_name.value,
+        site_url: form.site_url.value,
+      }),
+    });
+    form.brevo_api_key.value = "";
+    statusEl.className = "admin-status is-ok";
+    statusEl.textContent = "Saved.";
+    await load();
+  } catch (err) {
+    statusEl.className = "admin-status is-error";
+    statusEl.textContent = err.message;
+  }
+});
+
+requireAdminAuth().then(load);
+</script>
+</body>
+</html>

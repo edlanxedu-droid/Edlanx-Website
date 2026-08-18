@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Coding Blueprint: Medical Terminology & Anatomy",
+    "topics": [
+      "Etymological Logic",
+      "Anatomical Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Diagnostic Architecture: ICD-10-CM Classification",
+    "topics": [
+      "Alphanumeric Structural Logic",
+      "Tabular & Alpha-Index Governance",
+      "Clinical Sequencing Strategy",
+      "Combination & Manifestation Logic"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Procedural Logic: CPT & HCPCS Level II",
+    "topics": [
+      "Evaluation & Management (E/M) Structural Logic",
+      "Surgical Package Governance",
+      "Integumentary & Musculoskeletal Architecture",
+      "Cardiovascular & Respiratory Strategy",
+      "Modifier Governance (The 2-Digit Logic)",
+      "HCPCS Level II & Supply Infrastructure"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Anatomy Logic: Cardiovascular & Respiratory Systems",
+    "topics": [
+      "Hemodynamic Structural Logic",
+      "Pulmonary Architecture & Gas Exchange",
+      "Systemic Pathophysiology Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Specialty Architecture: Radiology, Pathology & Anesthesia Coding",
+    "topics": [
+      "Imaging & Diagnostic Structural Logic",
+      "Pathology & Lab Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: HIPAA, Fraud, & Abuse Prevention",
+    "topics": [
+      "Privacy Structural Logic (HIPAA)",
+      "Security & Encryption Governance",
+      "Compliance Architecture (Fraud vs. Abuse)",
+      "False Claims Act Strategy",
+      "Internal Audit Infrastructure",
+      "OIG Work Plan Governance",
+      "Disclosures & Breach Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Revenue Cycle Logic: Claims Processing & Denial Management",
+    "topics": [
+      "Front-End Structural Logic",
+      "Adjudication Governance",
+      "Denial Architecture & Appeals"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Auditing Architecture: Inpatient (ICD-10-PCS) vs Outpatient Logic",
+    "topics": [
+      "Inpatient Procedural Logic (PCS)",
+      "DRG Governance & Case Mix",
+      "Prospective Payment Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Toolsets Logic: Encoding Software &",
+    "topics": [
+      "Logic-Based Encoding",
+      "Computer-Assisted Coding (CAC) Governance",
+      "Electronic Health Record (EHR) Infrastructure"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Abstracting Systems",
+    "topics": [
+      "Risk Adjustment Logic (HCC)",
+      "Value-Based Governance",
+      "Payer Mix Strategy"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: CMS Guidelines & Payer Policy Management",
+    "topics": [
+      "CMS National & Local Coverage (NCD/LCD)",
+      "Correct Coding Initiative (CCI) Governance",
+      "Federal Regulatory Blueprinting"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI-Driven Computer-Assisted Coding (CAC)",
+    "topics": [
+      "NLP & Automation Structural Logic",
+      "Predictive Risk Governance"
+    ]
+  }
+]

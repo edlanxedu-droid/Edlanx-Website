@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    { "source": "/departments", "destination": "/departments/index.html" },
+    { "source": "/departments/:slug", "destination": "/departments/department.html?slug=:slug" },
+    { "source": "/courses/:slug", "destination": "/course.html?slug=:slug" },
+    { "source": "/admin", "destination": "/admin/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/admin/(.*)",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+    }
+  ]
+}

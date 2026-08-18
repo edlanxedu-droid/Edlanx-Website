@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Cloud Blueprint: Foundations",
+    "topics": [
+      "The AWS Ecosystem",
+      "The Identity Gate (IAM)"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Compute Architecture: High-Performance Logic",
+    "topics": [
+      "Elastic Compute (EC2)",
+      "Scalability & Resilience",
+      "Optimized Provisioning",
+      "Cost-Optimized Provisioning (Spot & Reserved)"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "Programmatic Access & CLI Logic",
+      "Cross-Platform SDK Integration",
+      "Resource Tagging & Governance",
+      "Architectural Visualization & Blueprints",
+      "Technical Documentation Standards",
+      "Portfolio Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Storage Logic",
+    "topics": [
+      "The Digital Vault (S3)",
+      "High-Speed Block Storage (EBS)",
+      "Shared Filesystems (EFS)"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Database Engineering & Data Logic",
+    "topics": [
+      "Relational Data Systems (RDS)",
+      "NoSQL & Performance (DynamoDB)"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Networking: Virtual Private Clouds",
+    "topics": [
+      "The Network Blueprint (VPC)",
+      "Subnetting & Traffic Isolation",
+      "Internet & NAT Gateways",
+      "Route Table Logic & VPC Peering",
+      "Edge Logic (CloudFront)",
+      "Global Traffic Management (Route 53)",
+      "Perimeter Defense (NACLs & Security Groups)"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Serverless Architecture: Event-Driven Logic",
+    "topics": [
+      "Code Without Servers (Lambda)",
+      "API Architecture (API Gateway)",
+      "Infrastructure orchestration (Step Functions)"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation & Monitoring",
+    "topics": [
+      "The Observability Stack (CloudWatch)",
+      "Audit & Compliance (CloudTrail)",
+      "Health Dashboards"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Backend Logic: Message Queues & Events",
+    "topics": [
+      "Decoupling Systems (SQS)",
+      "Notification Logic (SNS)",
+      "EventBridge"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch: The Global Architect",
+    "topics": [
+      "Solution Architect Simulation",
+      "Exam Mastery",
+      "The Edlanx Huddle"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Shared Responsibility Model",
+      "Security Compliance",
+      "Cloud Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Generative Cloud",
+    "topics": [
+      "AWS Bedrock",
+      "Machine Learning Pipelines (SageMaker)"
+    ]
+  }
+]

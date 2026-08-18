@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The System Blueprint: Power Grid Architecture",
+    "topics": [
+      "Generation Logic",
+      "Transmission Blueprinting"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Steady-State Logic: Power Flow Analysis",
+    "topics": [
+      "Nodal Logic",
+      "Numerical Governance",
+      "Voltage Strategy",
+      "Sensitivity Architecture"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Fault Architecture: Short Circuit Analysis",
+    "topics": [
+      "Symmetrical Logic",
+      "Symmetrical Components Governance",
+      "Unsymmetrical Fault Engineering",
+      "Transient Stability Logic",
+      "Grounding Architecture",
+      "Sub-transient & Transient Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Protection Logic: Relaying & Switchgear",
+    "topics": [
+      "Relay Architecture",
+      "Switchgear Governance",
+      "Coordination Blueprinting"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Power Electronics: Converters & Inverters",
+    "topics": [
+      "Conversion Logic",
+      "Semiconductor Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Renewable Architecture: Solar & Wind Integration",
+    "topics": [
+      "Photovoltaic (PV) Logic",
+      "Wind Turbine Governance",
+      "Grid Synchronization Blueprinting",
+      "Harmonic Mitigation Strategy",
+      "LVRT & HVRT Governance",
+      "Solar Farm Layout Engineering",
+      "Forecasting & Dispatch Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Battery Energy Storage Systems (BESS) Logic",
+    "topics": [
+      "Storage Chemistry Architecture",
+      "BMS & State Governance",
+      "Bi-Directional Converter Logic"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Smart Grid Architecture: SCADA & IoT Integration",
+    "topics": [
+      "Monitoring Logic (SCADA)",
+      "PMU & Phasor Governance",
+      "AMI & Demand-Side Blueprinting"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Control Logic: Frequency & Load Management",
+    "topics": [
+      "Governor & Frequency Logic",
+      "LFC & AGC Governance",
+      "Load Management Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Industrial Power Systems: Facility Design & Auditing",
+    "topics": [
+      "Load Profiling & Demand Logic",
+      "Facility Layout & Distribution Blueprinting",
+      "Power Quality & Audit Governance"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "E-Mobility Infrastructure: EV Charging Stations",
+    "topics": [
+      "Charging Topology Architecture",
+      "Grid Integration & Load Management",
+      "Safety & Protocol Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Microgrids & Hydrogen Power",
+    "topics": [
+      "Microgrid Control Architecture",
+      "Hydrogen Ecosystem Logic"
+    ]
+  }
+]

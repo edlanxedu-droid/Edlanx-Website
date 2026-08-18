@@ -1,0 +1,114 @@
+[
+  {
+    "num": 1,
+    "title": "The Legal Blueprint: Essential Elements",
+    "topics": [
+      "System Logic",
+      "Procedural Blueprinting"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Contractual Logic: Formation & Terms",
+    "topics": [
+      "Offer & Acceptance Logic",
+      "Consideration & Capacity Governance",
+      "Content & Exclusion Strategy",
+      "Breach & Remedy Architecture"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Tortious Logic: Professional Negligence",
+    "topics": [
+      "Duty of Care Logic",
+      "Breach of Duty Governance",
+      "Causation & Remoteness Strategy",
+      "Professional Liability Architecture",
+      "Defenses & Mitigation Logic",
+      "Vicarious Liability Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Employment Architecture: Contracts & Dismissal",
+    "topics": [
+      "Employment Status Logic",
+      "Termination Governance",
+      "Redundancy & Rights Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Agency Logic: Authority & Liability",
+    "topics": [
+      "Authority Architecture",
+      "Fiduciary & Liability Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Capital Architecture: Share & Loan Capital",
+    "topics": [
+      "Share Capital Logic",
+      "Capital Maintenance Governance",
+      "Issuance & Allotment Blueprinting",
+      "Loan Capital Architecture",
+      "Priority & Registration Governance",
+      "Market Disclosure Strategy",
+      "Capital Restructuring Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Corporate Governance: The Code & Compliance",
+    "topics": [
+      "Appointment & Power Logic",
+      "Statutory Duties Governance",
+      "Liability & Removal Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Insolvency Architecture: Liquidation & Administration",
+    "topics": [
+      "Administration Logic",
+      "Liquidation Governance",
+      "Priority Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Fraud & Ethics Logic: Insider Trading & Money Laundering",
+    "topics": [
+      "Market Abuse Governance",
+      "Anti-Money Laundering (AML) Logic",
+      "Bribery & Corruption Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Corporate Governance: The Code & Compliance",
+    "topics": [
+      "The Governance Blueprint",
+      "Stakeholder Logic (Section 172)"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Compliance Infrastructure: Reporting & Auditing Law",
+    "topics": [
+      "Financial Reporting Logic",
+      "Audit Governance",
+      "Transparency Architecture"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Global Digital Law",
+    "topics": [
+      "Algorithmic Accountability Logic",
+      "Digital Asset Governance"
+    ]
+  }
+]

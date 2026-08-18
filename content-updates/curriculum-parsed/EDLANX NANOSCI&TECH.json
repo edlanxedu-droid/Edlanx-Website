@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Nano Blueprint: Introduction & Scaling Laws",
+    "topics": [
+      "Dimensional Logic",
+      "Quantum Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Carbon Architecture: Fullerenes & Nanotubes",
+    "topics": [
+      "Allotropic Structural Logic",
+      "Chirality & Conductivity Governance",
+      "Multi-Walled (MWCNT) vs. Single-Walled (SWCNT) Architecture",
+      "Carbon Composite Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Synthesis Logic: Top-Down vs. Bottom-Up",
+    "topics": [
+      "Lithographic Structural Logic",
+      "Electron & Ion Beam Governance",
+      "Chemical Vapor Deposition (CVD) Architecture",
+      "Molecular Self-Assembly Governance",
+      "DNA Origami & Bio-Template Strategy",
+      "Sol-Gel & Hydrothermal Blueprinting"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Characterization Logic: SEM, TEM, & AFM",
+    "topics": [
+      "Electron Interaction Structural Logic",
+      "Probe Microscopy Governance (AFM/STM)",
+      "Spectroscopic Fingerprinting Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Optical Architecture: Quantum Dots & Plasmonics",
+    "topics": [
+      "Quantum Confinement Logic",
+      "Surface Plasmon Resonance (SPR) Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: Nanotoxicology & Cleanroom Ethics",
+    "topics": [
+      "Nanoscale Containment Logic",
+      "Nanotoxicological Governance",
+      "Occupational Exposure Architecture",
+      "Environmental Lifecycle Strategy",
+      "Material Safety Data Governance (SDS)",
+      "Cleanroom Ethical Logic",
+      "Dual-Use & Regulatory Blueprinting"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Nano-Electronics Logic: Spintronics & Nano-FETs",
+    "topics": [
+      "Quantum Transport Structural Logic",
+      "Spintronic Governance",
+      "Molecular Electronics Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Nano-Medicine Architecture: Drug Delivery & Bio- Sensors",
+    "topics": [
+      "Targeted Delivery Structural Logic",
+      "Bio-Sensing Governance",
+      "Theranostic Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Energy Logic: Nano-Solar Cells & Supercapacitors",
+    "topics": [
+      "Photovoltaic Structural Logic",
+      "Storage Governance (Supercapacitors)",
+      "Nano-Catalysis Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: The Economics of Nano- Manufacturing & IP",
+    "topics": [
+      "IP & Patent Structural Logic",
+      "Scalability Governance",
+      "Venture Capital Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: ISO/TC 229 & Safety Standards",
+    "topics": [
+      "International Standardization Logic",
+      "Risk Assessment Governance",
+      "Occupational Health Blueprinting"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Molecular Robotics & NEMS",
+    "topics": [
+      "Molecular Machine Structural Logic",
+      "Nano-Electro-Mechanical Systems (NEMS) Governance"
+    ]
+  }
+]

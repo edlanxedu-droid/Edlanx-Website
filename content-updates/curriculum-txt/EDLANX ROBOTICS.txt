@@ -1,0 +1,246 @@
+ROBOTICS
+
+Engineering the Structural Logic of Autonomous
+Robotics & Automation
+
+A project-first certification designed to master ROS 2 (Robot Operating
+System), SLAM algorithms, and the structural engineering of multi-axis
+robotic systems.
+THE EDLANX
+METHODOLOGY
+
+OUR ROBOTICS ENGINEERING PHILOSOPHY
+
+At Edlanx, we don’t just teach "building toys"; we cultivate a robotics-architect
+mindset. Our program is a deep dive into the synergy of sensors, actuators, and
+software. We believe in Precision Autonomy—moving beyond basic remote-
+controlled systems to build robust, self-navigating machines that ensure
+safety and efficiency in industrial, medical, and delivery applications.
+
+THE FOUR PILLARS OF MASTERY
+
+Kinematic Logic  Master the core mathematics of forward and inverse
+                 kinematics for precise motion.
+Perception
+Governance       Learn the structural logic of LiDAR, Computer Vision, and sensor
+                 fusion.
+
+Control Architecture Understand the engineering of PID loops, trajectory planning, and
+                                motor synchronization.
+
+Autonomous       Bring your machines to life by mastering the structural link
+Integration      between ROS 2 nodes and physical hardware.
+
+                                                                               EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The System Blueprint: Robotics Architecture
+
+    1.1 Component Logic
+    1.2 Communication Blueprinting
+
+02 Kinematic Architecture: Motion Mathematics
+                          2.1 Coordinate Logic
+                          2.2 Forward & Inverse Kinematics
+                          2.3 Degrees of Freedom (DoF) Governance
+                          2.4 Trajectory Blueprinting
+
+03 Actuation Logic: Motors & Drives
+                        3.1 Servo & Stepper Architecture
+                        3.2 Torque & Speed Governance
+                        3.3 Feedback Architecture
+                        3.4 H-Bridge & PWM Logic
+                        3.5 Harmonic Drive Engineering
+                        3.6 Power Distribution Governance
+
+                                                                   EDLANX
+04  The Operating System: ROS 2 Architecture
+
+    4.1 Node & Topic Logic
+
+    4.2 Service & Action Governance
+
+    4.3 Workspace Engineering
+
+05  Perception Architecture: Sensors & Vision
+
+    5.1 Sensor Fusion Logic
+
+    5.2 LiDAR & Ranging Governance
+
+06 Navigation Logic: Path Planning & SLAM
+                           6.1 SLAM Architecture
+                           6.2 Probabilistic Logic
+                           6.3 Global Path Planning Governance
+                           6.4 Local Planner Engineering
+                           6.5 Costmap Architecture
+                           6.6 Behavior Tree Governance
+                           6.7 Odometry Integration Logic
+
+07  Control Architecture: PID & State Space
+
+    7.1 PID Governance
+
+    7.2 State-Space Logic
+
+    7.3 Feedback Loop Architecture
+
+08  Industrial Robotics: PLC & Cobot Integration
+
+    8.1 Cobot Governance
+    8.2 PLC Logic Integration
+    8.3 End-Effector Architecture
+
+                                                                EDLANX
+09  Simulation Logic: Gazebo & URDF Modeling
+10
+    9.1 URDF Blueprinting
+    9.2 Gazebo Environment Logic
+    9.3 "Hardware-in-the-Loop" Simulation Architecture
+
+    Embedded Robotics: Real-Time Hardware Interfacing
+
+    10.1 Real-Time Kernel Logic
+    10.2 Communication Bus Architecture
+    10.3 Micro-Architectural Interfacing
+
+11  Swarm Logic: Multi-Robot Coordination
+
+    11.1 Decentralized Governance
+    11.2 Multi-Agent Communication Logic
+    11.3 Collaborative Task Architecture
+
+12  Future Frontiers: Humanoid Logic & AI Robotics
+
+    12.1 Bipedal Stability Architecture
+    12.2 Foundation Model Integration
+
+    EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                            EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond building basic hobbyist kits to bridge the gap
+     between "toy robotics" and high-level industrial systems. Our Robotics
+     & Automation syllabus is a deep immersion into ROS 2 (Robot
+     Operating System), SLAM algorithms, and the complex kinematic
+     mathematics required by global manufacturing, logistics, and R&D
+     giants.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at our
+    Bangalore Operational Center. At Edlanx, you won't just move a
+    servo; you will be treated as a Robotics Systems Engineer,
+    working within real organizational frameworks to architect
+    autonomous navigation stacks and manage multi-axis robotic
+    coordination.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Robotics Architects and
+       Automation Leads through structured mentoring and rigorous
+       performance evaluations. We focus on developing your ability
+       to solve complex coordinate transformations, sensor-fusion
+       hurdles, and real-time control conflicts with the precision
+       required for production-ready machines.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools and platforms like ROS 2,
+    Gazebo, RViz, and MATLAB while learning essential professional
+    competencies. We believe in experiential learning and reward
+    innovative autonomous path-planning or hardware-integration
+    breakthroughs with performance-based stipends, ensuring you
+    remain driven toward technical mastery.
+
+                                                                                                           EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Robotic Development Lifecycle, from initial URDF modeling to final
+    physical deployment and diagnostic validation. Our career guidance
+    includes technical resume engineering and mock "System Design
+    Reviews" designed to help you secure elite roles in global R&D
+    centers.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead a robotics
+    "sprint," collaborate across mechanical, electronic, and software
+    domains, and grow your network within an elite community of
+    engineers, developers, and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                            EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every autonomous navigation stack and kinematic control algorithm you
+                 architect at Edlanx serves as a live, audit-ready demonstration of your ability to
+                 manage the physical and digital complexity of modern robotics.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading R&D teams at global robotics labs, industrial giants, and pioneering
+                 deep-tech startups.
+
+Career Excellence We move beyond basic assembly to provide the technical resume
+                            engineering and system-integration logic needed to lead the future of
+                            "Intelligent Machines" and the global transition to fully autonomous
+                            industry.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in ROS 2 Humble/Iron standards, Generative AI for
+Robotics (VLA models), and Human-Robot Collaboration protocols. Your success
+is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Engineering a reliable autonomous system requires
+                  absolute mathematical and spatial precision. Whether
+                  you are debugging a SLAM drift issue, optimizing a 6-
+                  DoF inverse kinematic solver, or architecting a multi-
+                  robot swarm communication protocol, our senior
+                  Robotics Architects are available to provide the
+                  direct, technical feedback needed to ensure your
+                  systems are production-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                             EDLANX
+

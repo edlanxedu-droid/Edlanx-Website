@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "Frontend Architecture: HTML5 & CSS3 Structural Logic",
+    "topics": [
+      "Semantic Governance",
+      "Responsive Logic"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "JavaScript Engine: The Logic of Interactivity",
+    "topics": [
+      "Asynchronous Structural Logic",
+      "Scope & Closure Governance",
+      "Prototype & Object Architecture",
+      "Functional Programming Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Component Architecture: React & Modern UIs",
+    "topics": [
+      "Reactive State Structural Logic",
+      "Hook Governance & Side Effects",
+      "Virtual DOM Architecture",
+      "Component Composition Strategy",
+      "Prop Drilling vs. Context Logic",
+      "Performance Optimization Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Backend Foundations: Node.js & Runtime Logic",
+    "topics": [
+      "Non-Blocking Structural Logic",
+      "Module Governance (CommonJS & ESM)",
+      "Stream & Buffer Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "API Governance: Express.js & RESTful Architecture",
+    "topics": [
+      "Middleware Structural Logic",
+      "Routing & Controller Architecture"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Database Infrastructure: SQL vs. NoSQL Logic",
+    "topics": [
+      "Relational Structural Logic (PostgreSQL/MySQL)",
+      "Document Governance (MongoDB)",
+      "Modeling & Schema Architecture",
+      "Indexing & Performance Logic",
+      "Transaction & Locking Strategy",
+      "Aggregation & Pipeline Governance",
+      "Migrations & Versioning Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Authentication Architecture: JWT & Security Governance",
+    "topics": [
+      "Stateless Structural Logic",
+      "Hash & Salt Governance",
+      "Authorization Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "State Management Logic: Redux & Global Context Strategy",
+    "topics": [
+      "Flux Structural Logic",
+      "Middleware Governance",
+      "Contextual Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Toolsets Logic: Git, Webpack, & NPM Ecosystems",
+    "topics": [
+      "Versioning Structural Logic",
+      "Bundling Governance",
+      "Dependency Infrastructure"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: Cloud Economics & Scalability",
+    "topics": [
+      "Infrastructure Cost Structural Logic",
+      "Scaling Architecture",
+      "Monitoring Governance"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: GDPR & Data Privacy Standards",
+    "topics": [
+      "Privacy-by-Design Structural Logic",
+      "Audit Blueprinting",
+      "Security Header Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Next.js, Serverless, & AI Integration",
+    "topics": [
+      "Hybrid Rendering Structural Logic",
+      "AI-Powered Development Logic"
+    ]
+  }
+]

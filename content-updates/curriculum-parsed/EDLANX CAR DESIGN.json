@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "Vehicle Architecture: The Blueprint of Proportion",
+    "topics": [
+      "Structural Logic",
+      "Silhouette Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Sketching & Ideation: The Logic of Form",
+    "topics": [
+      "Perspective Structural Logic",
+      "Character Line Governance",
+      "Digital Rendering Strategy",
+      "Theme Selection & Variation Logic"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Surface Engineering: Class-A & NURBS Logic",
+    "topics": [
+      "Curvature Continuity Structural Logic",
+      "NURBS Governance",
+      "Patch Layout Strategy",
+      "Reverse Engineering & Scan Logic",
+      "Draft Analysis & Manufacturing Logic",
+      "Technical Surfacing Validation"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Interior Architecture: Ergonomics & HMI Logic",
+    "topics": [
+      "Occupant Packaging Structural Logic",
+      "HMI & Digital Cockpit Governance",
+      "Interior Volume & Storage Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Aerodynamic Governance: CFD & Drag Architecture",
+    "topics": [
+      "Fluid Dynamic Structural Logic",
+      "Thermal & Underbody Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Material Infrastructure: Lightweighting & Composites",
+    "topics": [
+      "Material Selection Structural Logic",
+      "Composite Architecture Governance",
+      "Polymer & Plastic Infrastructure",
+      "Biomaterial & Sustainable Strategy",
+      "Joining & Bonding Structural Logic",
+      "NVH & Acoustic Material Governance",
+      "Additive Manufacturing Strategy"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Lighting Architecture: LED, Laser, & Signature Logic",
+    "topics": [
+      "Optical Structural Logic",
+      "Signature Governance",
+      "Adaptive Technology Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Powertrain Logic: EV Integration & Battery Packaging",
+    "topics": [
+      "Skate Architecture Structural Logic",
+      "Thermal Management Governance",
+      "Drive Unit Integration Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Toolsets Logic: CATIA, Alias, & VRED Visualization",
+    "topics": [
+      "Parametric Structural Logic (CATIA)",
+      "Creative Surfacing Governance (Alias)",
+      "Digital Prototyping Strategy (VRED)"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: Platform Sharing & Manufacturing",
+    "topics": [
+      "Modular Logic",
+      "Tooling Governance",
+      "Supply Chain Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: Crash Safety & NCAP Standards",
+    "topics": [
+      "Passive Safety Structural Logic",
+      "NCAP Governance",
+      "Active Safety Strategy"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Autonomous Living Spaces & AI Styling",
+    "topics": [
+      "Autonomous Interior Structural Logic",
+      "AI-Driven Generative Styling"
+    ]
+  }
+]

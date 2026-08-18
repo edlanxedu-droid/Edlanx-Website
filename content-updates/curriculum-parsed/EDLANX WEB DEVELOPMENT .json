@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Web Blueprint: Foundations",
+    "topics": [
+      "Semantic Architecture",
+      "The Client-Server Lifecycle"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Layout Engineering: High-Performance Logic",
+    "topics": [
+      "Flexbox & CSS Grid Strategy",
+      "Responsive Design Systems",
+      "CSS Pre-processors & Variables",
+      "CSS Variables & Scalable Styling"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "Version Control & Git Architecture",
+      "Collaborative GitHub Workflows",
+      "Technical Documentation & README Standards",
+      "Open-Source Contribution & Ecosystems",
+      "Markdown & Visual Communication",
+      "Portfolio Architecture & Live Deployment"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: JavaScript Logic",
+    "topics": [
+      "Computational Logic & Syntax",
+      "DOM Manipulation Strategy",
+      "Asynchronous JavaScript"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Ecosystems",
+    "topics": [
+      "The React.js Architecture",
+      "State Management Logic"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Components & Libraries",
+    "topics": [
+      "Modular UI Component Architecture",
+      "Component Lifecycle & State Management",
+      "Props & Data Flow Logic",
+      "Library Integration & Ecosystems",
+      "Styled-Components & Scoped CSS",
+      "Custom Hook Engineering",
+      "Component Library Deployment"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & Server Interaction",
+    "topics": [
+      "RESTful API Architecture",
+      "Fetch Operations & Error Handling",
+      "JSON Data Structures"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation & Testing Standards",
+    "topics": [
+      "Performance Auditing & Core Web Vitals",
+      "Cross-Browser Validation",
+      "Unit Testing Foundations"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Backend Logic: Database & Server Architecture",
+    "topics": [
+      "Node.js & Express Environments",
+      "Database Schema Design (SQL/NoSQL)",
+      "CRUD Operations"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & Industry Alignment",
+    "topics": [
+      "Full-Stack Application Deployment",
+      "Technical Interview Simulation",
+      "The Edlanx Alumni Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Web Security & Data Privacy",
+      "Intellectual Property & Licensing",
+      "Collaborative Leadership"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Cloud & Emerging Tech",
+    "topics": [
+      "Introduction to Web3 & Decentralization",
+      "AI-Assisted Development"
+    ]
+  }
+]

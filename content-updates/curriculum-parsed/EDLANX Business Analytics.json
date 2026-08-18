@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Data Blueprint: Foundations",
+    "topics": [
+      "Business Intelligence Logic",
+      "The Analytical Lifecycle"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Quantitative Logic: Business Statistics",
+    "topics": [
+      "Probability & Distribution Logic",
+      "Inferential Architecture & Testing",
+      "Variable Correlation & Causality",
+      "Sampling & Estimation Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Professional Edge: Advanced Excel",
+    "topics": [
+      "Financial & Logical Data Engineering",
+      "Optimization Logic (Excel Solver)",
+      "Power Query & ETL Architecture",
+      "Dynamic Dashboard Architecture",
+      "Sensitivity & \"What-If\" Analysis",
+      "Automated Auditing & Error Trapping"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: SQL Architecture",
+    "topics": [
+      "Relational Database Logic",
+      "Query Engineering",
+      "Data Hygiene & ETL Logic"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Visualization Engineering: Tableau / Power BI",
+    "topics": [
+      "Cognitive Design Hierarchy",
+      "Interactive Dashboard Architecture"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Analytical Validation: Descriptive Analytics",
+    "topics": [
+      "Trend Discovery & Seasonality Logic",
+      "Customer Segmentation Architecture",
+      "Variance & Performance Auditing",
+      "Central Tendency & Dispersion Metrics",
+      "Data Mining & Pattern Recognition",
+      "Cohort Analysis Logic",
+      "Descriptive Reporting Architecture"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Predictive Logic: Regression & Forecasting",
+    "topics": [
+      "Linear & Logistic Modeling",
+      "Time-Series Architecture",
+      "Model Performance Validation"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Optimization Architecture: Prescriptive Analytics",
+    "topics": [
+      "Decision Tree Logic",
+      "Sensitivity Analysis",
+      "Simulation Modeling"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Domain-Specific Data Engineering",
+    "topics": [
+      "Marketing Attribution Logic",
+      "Financial Health Analytics",
+      "Operations & Supply Chain Logic"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch: The Analytics Consultant",
+    "topics": [
+      "The End-to-End Business Case",
+      "Boardroom Communication Logic",
+      "The Edlanx Huddle"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Data Governance Standards",
+      "Privacy & Security Architecture",
+      "Collaborative Integrity"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Big Data & AI",
+    "topics": [
+      "Machine Learning Logic",
+      "Big Data Architecture"
+    ]
+  }
+]

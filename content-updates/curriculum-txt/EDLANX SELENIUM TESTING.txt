@@ -1,0 +1,240 @@
+SELENIUM TESTING
+WITH JAVA
+
+Engineering the Logic of Automated Validation & System
+Reliability
+
+A project-first certification designed to master Selenium and Java logic to
+build resilient, self-validating software ecosystems.
+THE EDLANX
+METHODOLOGY
+
+OUR VALIDATION PHILOSOPHY
+
+At Edlanx, we don’t just teach "testing"; we cultivate a quality engineering
+mindset. Our program is a deep dive into the intersection of Java logic and web
+automation. We believe in Continuous Reliability—moving beyond manual
+clicks to build automated frameworks that detect friction before it reaches the
+user.
+
+THE FOUR PILLARS OF MASTERY
+
+Scripting Logic  Master the core foundations of Java to write clean,
+                 reusable, and high-performance automation scripts.
+Element
+Architecture     Learn to identify and interact with web elements using
+                 advanced locator strategies with mathematical precision.
+Framework
+Engineering      Understand the relationship between Page Object Models
+                 (POM) and Data-Driven logic to build scalable test suites.
+Seamless
+Integration      Bring your tests to life by integrating them into CI/CD
+                 pipelines to ensure every code commit is automatically
+                 validated.
+
+                                                                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Quality Blueprint: Java Foundations
+
+    1.1 The Scripting DNA
+    1.2 Decision & Loop Logic
+
+02 Automation Architecture: Selenium Core
+                          2.1 The WebDriver Engine & JSON Protocol
+                          2.2 Browser Command Logic
+                          2.3 Synchronization & Wait Strategy
+                          2.4 Navigation & History Architecture
+
+03 The Developer Edge: Integration & Portfolio
+                        3.1 Project Lifecycle Management (Maven)
+                        3.2 Version Control for Quality Assurance
+                        3.3 Continuous Integration Logic
+                        3.4 Architectural Documentation
+                        3.5 Technical Report Analysis
+                        3.6 Portfolio Architecture
+
+                                                                    EDLANX
+04  Structural Blueprints: Locator Logic
+
+    4.1 Precision Targeting
+
+    4.2 Dynamic DOM Navigation
+
+    4.3 Element Attributes
+
+05  Dynamic Interaction Engineering
+
+    5.1 Advanced User Gestures
+
+    5.2 Handling Virtual Friction
+
+06 Scalable Components: Page Object Model (POM)
+                           6.1 The Blueprint for Scale
+                           6.2 Page Factory Initialization Strategy
+                           6.3 Object Repository Engineering
+                           6.4 Component-Based Architecture
+                           6.5 Custom Method Encapsulation
+                           6.6 CacheLookup Optimization
+                           6.7 Framework Maintenance Logic
+
+07  Data-Driven Logic & Automation
+
+    7.1 High-Volume Validation
+
+    7.2 Parameterization Logic
+
+    7.3 Database Connectivity
+
+08  Analytical Validation: TestNG & Reporting
+
+    8.1 The Execution Engine
+    8.2 Assertions & Truth Tables
+    8.3 Professional Reporting
+
+                                                                     EDLANX
+09  Backend Logic: Grid & Parallel Execution
+10
+    9.1 Selenium Grid Architecture
+    9.2 Parallel Processing Logic
+    9.3 Cross-Browser Infrastructure
+
+    Career Launch: The Global Architect
+
+    10.1 Framework From Scratch
+    10.2 Technical Interview Simulation
+    10.3 The Edlanx Huddle
+
+11  Professional Engineering & Ethics
+
+    11.1 The Virtual Guard
+    11.2 Industry Standards
+    11.3 Collaborative Integrity
+
+12  Future Frontiers: AI & Self-Healing Scripts
+
+    12.1 The Autonomous Tester
+    12.2 Visual Testing Logic
+
+                                       EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                              EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond basic "record and playback" tools to
+                  bridge the gap between academic theory and the high-
+                  demand automation market. Our Quality Architecture
+                  syllabus is a deep immersion into Java-based automation,
+                  focusing on framework scalability and system reliability.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as an Automation Engineer,
+    working within real organizational workflows on live, high-
+    concurrency web projects.
+
+03 Mentorship & Continuous Assessment
+
+                   Your growth is guided by senior Quality Architects through
+                   structured mentoring and regular performance evaluations.
+                   We focus on developing your ability to solve complex
+                   synchronization and locator logic problems with the
+                   confidence required by global tech firms.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like Selenium, TestNG,
+    Maven, and Jenkins while learning essential professional
+    competencies. We believe in experiential learning and
+    reward technical breakthroughs with performance-based
+    stipends, ensuring you stay motivated to achieve mastery.
+
+                                                                                                            EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Automation Life Cycle, from initial test planning to final CI/CD
+    integration. Our career guidance includes technical resume
+    engineering and mock QA-coding interviews designed to help
+    you secure elite engineering roles.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on teamwork, integrity, and
+    disciplined professional ethics. You will learn to lead a "sprint,"
+    collaborate across various digital domains, and grow your network
+    within an elite community of developers and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                              EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every self-healing framework, parallel execution suite, and CI/CD pipeline
+                 you engineer becomes a high-performance showcase on your GitHub,
+                 proving you can protect the digital integrity of global enterprises.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and
+                 industry mentors currently architecting automated validation
+                 systems at top-tier global firms and disruptive tech startups.
+
+Career Excellence We move beyond basic scripting to provide technical resume
+                            engineering, mock QA-coding interviews, and the leadership
+                            skills needed to dominate the high-stakes world of software
+                            reliability.
+
+Quality is not an act, it is a habit. At Edlanx, we ensure you have the
+architectural logic and professional certification to lead the next era of
+automated software engineering.
+
+DIRECT MENTORSHIP
+
+                  Your engineering growth shouldn’t happen in
+                  a vacuum. Whether you are stuck on a
+                  complex dynamic XPath or need feedback on
+                  your Page Object Model strategy, our senior
+                  Quality Architects are just a message away.
+                  We are here to ensure your transition into the
+                  world of professional Quality Architecture is
+                  seamless and high-impact.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                         EDLANX
+

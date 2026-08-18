@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Email Templates | Edlanx Admin</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body class="admin-body">
+
+<div class="admin-shell">
+  <aside class="admin-sidebar">
+    <img class="admin-logo" src="/assets/logo/edlanx-logo-on-dark.png" alt="Edlanx">
+    <nav class="admin-nav">
+      <a href="index.html"><i class="ph ph-users"></i> Leads</a>
+      <a href="settings.html"><i class="ph ph-gear-six"></i> Brevo settings</a>
+      <a href="emails.html" class="is-active"><i class="ph ph-envelope-simple"></i> Email templates</a>
+    </nav>
+    <div class="admin-sidebar-footer">
+      <div style="margin-bottom:8px;">Signed in as <strong id="admin-username">…</strong></div>
+      <button id="admin-logout">Log out</button>
+    </div>
+  </aside>
+
+  <main class="admin-main">
+    <div class="admin-header">
+      <h1 class="text-h2">Email templates</h1>
+    </div>
+
+    <div class="admin-tabs">
+      <button type="button" data-key="internal_notification" class="is-active">Internal notification</button>
+      <button type="button" data-key="student_thankyou">Student thank-you</button>
+    </div>
+
+    <div class="admin-card">
+      <p class="text-body" style="color:var(--color-text-secondary); margin-bottom: var(--space-3);">
+        Use <code>{{full_name}}</code>, <code>{{first_name}}</code>, <code>{{email}}</code>, <code>{{phone}}</code>,
+        <code>{{course_interest}}</code>, <code>{{message}}</code>, <code>{{source}}</code>, <code>{{page_url}}</code>,
+        <code>{{site_url}}</code> as placeholders — they're filled in with the real lead's details when each email sends.
+      </p>
+
+      <div class="admin-field">
+        <label>Subject line</label>
+        <input type="text" id="subject-input">
+      </div>
+
+      <div class="admin-editor-grid">
+        <div class="admin-field" style="margin-bottom:0;">
+          <label>HTML source</label>
+          <textarea id="html-input" class="admin-code" spellcheck="false"></textarea>
+        </div>
+        <div class="admin-field" style="margin-bottom:0;">
+          <label>Live preview (sample data)</label>
+          <iframe id="preview-frame" class="admin-preview-frame"></iframe>
+          <div class="admin-hint" id="preview-subject"></div>
+        </div>
+      </div>
+
+      <button type="button" id="save-btn" class="admin-btn" style="margin-top: var(--space-3);">Save template</button>
+      <div class="admin-status" id="save-status"></div>
+    </div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="admin.js"></script>
+<script>
+let currentKey = "internal_notification";
+let templates = {};
+let previewTimer;
+
+async function loadTemplates() {
+  const data = await adminApi("/api/admin/templates");
+  templates = Object.fromEntries(data.templates.map((t) => [t.key, t]));
+  showTemplate(currentKey);
+}
+
+function showTemplate(key) {
+  currentKey = key;
+  document.querySelectorAll(".admin-tabs button").forEach((b) => b.classList.toggle("is-active", b.dataset.key === key));
+  const t = templates[key];
+  document.getElementById("subject-input").value = t ? t.subject : "";
+  document.getElementById("html-input").value = t ? t.html_body : "";
+  refreshPreview();
+}
+
+async function refreshPreview() {
+  const subject = document.getElementById("subject-input").value;
+  const html_body = document.getElementById("html-input").value;
+  try {
+    const data = await adminApi("/api/admin/templates", {
+      method: "POST",
+      body: JSON.stringify({ preview: true, subject, html_body }),
+    });
+    document.getElementById("preview-frame").srcdoc = data.html;
+    document.getElementById("preview-subject").textContent = `Subject: ${data.subject}`;
+  } catch (err) {
+    document.getElementById("preview-subject").textContent = `Preview error: ${err.message}`;
+  }
+}
+
+document.querySelectorAll(".admin-tabs button").forEach((btn) => {
+  btn.addEventListener("click", () => showTemplate(btn.dataset.key));
+});
+
+["subject-input", "html-input"].forEach((id) => {
+  document.getElementById(id).addEventListener("input", () => {
+    clearTimeout(previewTimer);
+    previewTimer = setTimeout(refreshPreview, 400);
+  });
+});
+
+document.getElementById("save-btn").addEventListener("click", async () => {
+  const statusEl = document.getElementById("save-status");
+  statusEl.className = "admin-status";
+  statusEl.textContent = "Saving…";
+  try {
+    await adminApi("/api/admin/templates", {
+      method: "POST",
+      body: JSON.stringify({
+        key: currentKey,
+        subject: document.getElementById("subject-input").value,
+        html_body: document.getElementById("html-input").value,
+      }),
+    });
+    templates[currentKey] = { ...templates[currentKey], subject: document.getElementById("subject-input").value, html_body: document.getElementById("html-input").value };
+    statusEl.className = "admin-status is-ok";
+    statusEl.textContent = "Saved.";
+  } catch (err) {
+    statusEl.className = "admin-status is-error";
+    statusEl.textContent = err.message;
+  }
+});
+
+requireAdminAuth().then(loadTemplates);
+</script>
+</body>
+</html>

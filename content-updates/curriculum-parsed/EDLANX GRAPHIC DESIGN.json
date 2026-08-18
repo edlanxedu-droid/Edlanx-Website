@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Design Blueprint: Foundations",
+    "topics": [
+      "Design Thinking & Visual Logic",
+      "The Design Lifecycle"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Layout Engineering: High-Performance Logic",
+    "topics": [
+      "Grid Systems & Structural Alignment",
+      "Visual Hierarchy Strategy",
+      "Negative Space Mastery",
+      "Compositional Balance & Proportion"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Designer Edge: Integration & Portfolio",
+    "topics": [
+      "Production Workflow & System Handoff",
+      "Presentation & 3D Mockup Logic",
+      "Portfolio Storytelling & Case Studies",
+      "Client Communication & Pitching Strategy",
+      "Asset Management & Cloud Collaboration",
+      "Professional Brand Presence"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Typography & Font Logic",
+    "topics": [
+      "Type Anatomy & Classification",
+      "Kerning, Tracking & Leading",
+      "Type Pairings for Brands"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Ecosystems",
+    "topics": [
+      "Adobe Photoshop Mastery",
+      "Adobe Illustrator Dominance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Components & Design Systems",
+    "topics": [
+      "Brand Identity Component Architecture",
+      "Style Guides & Brand Manual Logic",
+      "Modular Asset Management",
+      "Scalable Vector Systems",
+      "Digital Pattern Engineering",
+      "Design Versioning & Iteration Control",
+      "Component Library Deployment"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & Vector Interaction",
+    "topics": [
+      "Scalable Digital Illustration",
+      "Parametric Design Patterns",
+      "Responsive Design Logic"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Visual Validation & Testing Standards",
+    "topics": [
+      "Accessibility & Color Blindness",
+      "Print Pre-flight & CMYK Logic",
+      "User Testing for Visuals"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Analytical Logic: Color & Psychological Impact",
+    "topics": [
+      "The Science of Color Theory",
+      "Strategic Color Palettes",
+      "Contrast & Accessibility Standards"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & Industry Alignment",
+    "topics": [
+      "Strategic Portfolio Building",
+      "Client Pitching & Communication",
+      "The Edlanx Alumni Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Intellectual Property & Copyright",
+      "Ethics in Visual Persuasion",
+      "Collaborative Workflow"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Motion Design",
+    "topics": [
+      "Generative AI in Design",
+      "Motion Graphics Foundations"
+    ]
+  }
+]

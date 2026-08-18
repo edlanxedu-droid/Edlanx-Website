@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The FICO Blueprint: Organizational Structure",
+    "topics": [
+      "Company Code Logic",
+      "Global Mapping"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "General Ledger Architecture",
+    "topics": [
+      "Chart of Accounts Logic",
+      "Master Data Integrity",
+      "Document Control Architecture",
+      "Posting Logic & Retained Earnings"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Accounts Payable Engineering",
+    "topics": [
+      "Vendor Master Logic",
+      "Automatic Payment Architecture (APP)",
+      "Reconciliation Logic",
+      "Invoice Verification & Posting",
+      "Tolerance & Payment Block Logic",
+      "Partial & Residual Payment Logic"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Accounts Receivable Architecture",
+    "topics": [
+      "Customer Master Logic",
+      "Dunning Engineering",
+      "Incoming Payment Logic"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Asset Accounting Logic",
+    "topics": [
+      "Asset Class Architecture",
+      "Valuation Logic"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Bank Accounting Architecture",
+    "topics": [
+      "House Bank Logic",
+      "EBS Architecture (Electronic Bank Statement)",
+      "Cash Management & Liquidity Logic",
+      "Check Management Engineering",
+      "Petty Cash Logic (Cash Journal)",
+      "Bank Communication Management (BCM)",
+      "Multi-Currency Revaluation Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Cost Element & Cost Center Architecture",
+    "topics": [
+      "Controlling Logic",
+      "Cost Center Blueprint",
+      "Allocation Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Profit Center Engineering",
+    "topics": [
+      "Segment Reporting Logic",
+      "Profit Center Hierarchy",
+      "Transfer Pricing Logic"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Internal Order Logic",
+    "topics": [
+      "Project Tracking Architecture",
+      "Settlement Logic",
+      "Budget Governance"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Integration Architecture: FI-MM & FI-SD",
+    "topics": [
+      "Procurement Integration",
+      "Sales Integration",
+      "Automatic Account Determination"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Taxation & Closing Governance",
+    "topics": [
+      "Taxation Logic",
+      "Month-End Architecture",
+      "Year-End Closing Logic"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: SAP S/4HANA Finance",
+    "topics": [
+      "Universal Journal Logic",
+      "Universal Journal Logic"
+    ]
+  }
+]

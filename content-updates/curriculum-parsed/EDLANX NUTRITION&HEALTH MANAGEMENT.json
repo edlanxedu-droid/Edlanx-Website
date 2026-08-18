@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Biological Blueprint: Nutritional Biochemistry",
+    "topics": [
+      "Metabolic Logic",
+      "Bioavailability Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Clinical Architecture: Medical Nutrition Therapy (MNT)",
+    "topics": [
+      "Pathological Structural Logic",
+      "Critical Care Governance",
+      "Anthropometric & Biochemical Blueprinting",
+      "Evidence-Based Protocol Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Management Logic: Healthcare Operations",
+    "topics": [
+      "Facility Architecture & Workflow Logic",
+      "Compliance & Bioethics Governance",
+      "Quality & Safety Infrastructure",
+      "Health Informatics & Data Architecture",
+      "Human Capital Strategy",
+      "Fiscal & Insurance Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Lifecycle Logic: Maternal, Pediatric & Geriatric Nutrition",
+    "topics": [
+      "Developmental Structural Logic",
+      "Geriatric Resilience Governance",
+      "Hormonal Lifecycle Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Public Health Architecture: Epidemiology & Community Policy",
+    "topics": [
+      "Epidemiological Logic",
+      "Policy & Advocacy Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: Food-Drug Interactions & Supplement Safety",
+    "topics": [
+      "Pharmacokinetic Logic",
+      "Micronutrient Toxicity Governance",
+      "Contraindication Architecture",
+      "Supplement Purity Governance",
+      "Adverse Event Strategy",
+      "Labeling & Claim Governance",
+      "Allergen Management Architecture"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Sports Infrastructure: Performance Nutrition & Bio-mechanics",
+    "topics": [
+      "Bio-Energetic Logic",
+      "Ergogenic Governance",
+      "Recovery Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Digital Health Architecture: Telemedicine & Health Informatics",
+    "topics": [
+      "Tele-Health Logic",
+      "Wearable Data Governance",
+      "Informatics Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Corporate Wellness Strategy: Designing Large-Scale Programs",
+    "topics": [
+      "Productivity Logic",
+      "ROI Governance",
+      "Cultural Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: Healthcare Economics & Insurance Systems",
+    "topics": [
+      "Payer-Provider Logic",
+      "Actuarial Governance",
+      "Resource Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Supply Chain Infrastructure: Pharmaceutical & Food Service Logistics",
+    "topics": [
+      "Cold Chain Integrity Logic",
+      "Procurement Governance",
+      "Inventory Architecture"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Nutrigenomics & Personalized Medicine",
+    "topics": [
+      "Genomic Structural Logic",
+      "Metabolic Fingerprinting Governance"
+    ]
+  }
+]

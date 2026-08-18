@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Java Blueprint: Foundations",
+    "topics": [
+      "Intro to JVM Architecture",
+      "The Software Lifecycle"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Backend Engineering: High-Performance Logic",
+    "topics": [
+      "Data Structures & Collections",
+      "Advanced OOP Mastery",
+      "Exception Handling",
+      "JDBC & Database Persistence"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "Enterprise API Design",
+      "Unit Testing & Validation",
+      "Performance Tuning",
+      "Design Handoff & Documentation",
+      "Portfolio Building & Future Trends",
+      "Conclusion & Learning Outcomes"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Logic: Database & Architecture",
+    "topics": [
+      "Schema Mapping & Entity Relations",
+      "JPA & Hibernate Mastery",
+      "Transaction Management"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Version Control",
+    "topics": [
+      "IDE Mastery (IntelliJ/Eclipse)",
+      "Git & Branching Strategy"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Professional Tools & Scalable Components",
+    "topics": [
+      "Microservices Infrastructure",
+      "Security Frameworks (Spring Security)",
+      "Reusable Logic Libraries",
+      "Load Balancing & Deployment",
+      "Logging & Monitoring Tools",
+      "RESTful Web Services",
+      "Coding Standards (Clean Code)"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & System Interaction",
+    "topics": [
+      "Unit Testing Automation",
+      "CI/CD Pipelines",
+      "Reactive Programming"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Code Validation & Testing Standards",
+    "topics": [
+      "Integration Testing",
+      "Debugging & Error Analysis",
+      "Ethical Engineering Practices"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Analytical Logic: Data & Visualization",
+    "topics": [
+      "Multi-threading & Concurrency",
+      "Garbage Collection Tuning",
+      "Algorithmic Optimization"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & Industry Alignment",
+    "topics": [
+      "High-Impact Case Studies",
+      "Mock Technical Interviews",
+      "Global Professional Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "The Developer-Stakeholder Bridge",
+      "Legal & IP Standards",
+      "Sustainable Code Practices"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Cloud & Emerging Tech",
+    "topics": [
+      "Cloud-Native Java (AWS/Azure)",
+      "AI-Driven Code Integration"
+    ]
+  }
+]

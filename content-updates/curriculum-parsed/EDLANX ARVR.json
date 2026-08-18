@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Spatial Blueprint: Foundations",
+    "topics": [
+      "The Logic of the Void",
+      "C# for Immersive Systems"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Environmental Physics: High-Performance Logic",
+    "topics": [
+      "Architecting Gravity",
+      "Lumen & Logic",
+      "Scene Optimization",
+      "Procedural World Generation"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "The Engineer’s Vault: Git LFS Strategy",
+      "Collaborative Huddles & Branch Logic",
+      "Spatial Technical Documentation",
+      "Asset Pipeline Architecture",
+      "Technical Markdown & System Logic",
+      "Portfolio Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Sensory Sync: Physics & Interaction",
+    "topics": [
+      "Beyond the Screen",
+      "The Physics of Touch",
+      "Spatial Audio Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Ecosystems",
+    "topics": [
+      "The Engine Room",
+      "SDK Command"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Modular Realities: Building Blocks & Scalable Logic",
+    "topics": [
+      "XR Interaction Toolkit (XRI) Mastery",
+      "The Prefab Architecture Blueprint",
+      "World-Space UI Engineering",
+      "Locomotion & Teleportation Logic",
+      "Asset Optimization & LOD Strategy",
+      "Haptic & Audio Prefab Systems",
+      "Dynamic Content Loading (Addressables)"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Living Environments: Automation & API",
+    "topics": [
+      "The Pulse of the Metaverse",
+      "Multi-User Synchronization",
+      "Dynamic Data Injection"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Zero Friction: Validation & Standards",
+    "topics": [
+      "The Performance Audit",
+      "Latency Optimization",
+      "Cross-Hardware Validation"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Ghost in the Machine: Backend & Cloud",
+    "topics": [
+      "Persistent Realities",
+      "Cloud-Based Rendering",
+      "Spatial Data Persistence"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Deploying the Future: Career Launch",
+    "topics": [
+      "Global Market Deployment",
+      "The XR Architect Portfolio",
+      "Technical Interview Simulation"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "The Virtual Guard: Professional Ethics",
+    "topics": [
+      "Privacy in Spatial Computing",
+      "User Safety Architecture",
+      "Intellectual Property in 3D"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "The New Horizon: Future Frontiers",
+    "topics": [
+      "WebXR & The Decentralized Web",
+      "AI-Driven Environments"
+    ]
+  }
+]

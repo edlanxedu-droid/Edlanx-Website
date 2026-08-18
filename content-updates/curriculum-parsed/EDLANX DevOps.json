@@ -1,0 +1,85 @@
+[
+  {
+    "num": 4,
+    "title": "Containerization Logic: Docker & Image Architecture",
+    "topics": [
+      "Container Structural Logic",
+      "Image Layer Governance",
+      "Container Networking & Volume Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Orchestration Governance: Kubernetes (K8s) Cluster Logic",
+    "topics": [
+      "K8s Control Plane Structural Logic",
+      "Workload Architecture & Pod Logic"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Infrastructure Architecture: Terraform & Cloud Provisioning",
+    "topics": [
+      "Infrastructure as Code (IaC) Structural Logic",
+      "Terraform Provider Governance",
+      "State Management Architecture",
+      "Modular Blueprinting Strategy",
+      "Resource Lifecycle Governance",
+      "Variable & Secret Infrastructure",
+      "Multi-Cloud Resilience Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Configuration Governance: Ansible & Automated Provisioning",
+    "topics": [
+      "Push-Based Structural Logic",
+      "Playbook Architecture",
+      "Role-Based Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Security Architecture: DevSecOps & Vulnerability Scanning",
+    "topics": [
+      "Shift-Left Structural Logic",
+      "Scanning Governance",
+      "Compliance-as-Code Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Observability Logic: Monitoring with Prometheus & Grafana",
+    "topics": [
+      "Metrics Structural Logic",
+      "Visualization Governance",
+      "Alerting Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "DevOps Engineering the Structural Logic of Continuous Integration & Automated Deployment A project-first certification designed to master CI/CD Pipelines,",
+    "topics": [
+      "Resource Cost Structural Logic",
+      "Tagging Governance",
+      "Scaling Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: GVP & ITIL Standards",
+    "topics": [
+      "ITIL Structural Logic",
+      "Audit Blueprinting",
+      "GVP/Compliance Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AIOps & GitOps Architectures",
+    "topics": [
+      "AIOps Structural Logic",
+      "GitOps Governance & Declarative Autonomy"
+    ]
+  }
+]

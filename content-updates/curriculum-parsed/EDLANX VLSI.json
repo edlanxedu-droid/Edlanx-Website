@@ -1,0 +1,114 @@
+[
+  {
+    "num": 1,
+    "title": "The Transistor Blueprint: CMOS Physics",
+    "topics": [
+      "MOSFET Logic"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Digital Logic Architecture: Combinational & Sequential",
+    "topics": [
+      "Boolean Structural Logic",
+      "State Governance (FSM)",
+      "Dataflow Blueprinting",
+      "Timing Logic Foundations"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Hardware Description Logic: Verilog & RTL",
+    "topics": [
+      "Modeling Logic",
+      "Synthesis Governance",
+      "Hierarchical Architecture",
+      "Control & Datapath Logic",
+      "Finite State Machine (FSM) Blueprinting",
+      "Testbench Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Verification Architecture: SystemVerilog & UVM",
+    "topics": [
+      "Functional Verification Logic",
+      "UVM Governance",
+      "Coverage-Driven Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Circuit Logic: CMOS Inverter & Interconnects",
+    "topics": [
+      "CMOS Performance Logic",
+      "Interconnect & Parasitic Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Physical Design Flow: Partitioning & Floorplanning",
+    "topics": [
+      "Design Import Logic",
+      "Partitioning Governance",
+      "Floorplanning Architecture",
+      "Power Grid Logic (PG Augmentation)",
+      "Macro Placement Strategy",
+      "Pin Optimization Governance",
+      "Pre-Placement Timing Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Placement & Routing (PnR) Governance",
+    "topics": [
+      "Placement Logic",
+      "Clock Tree Synthesis (CTS) Architecture",
+      "Routing Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Timing Architecture: Static Timing Analysis (STA)",
+    "topics": [
+      "Timing Path Logic",
+      "Constraint Governance",
+      "PVT Corner Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Power & Reliability Logic: Signal Integrity & IR Drop",
+    "topics": [
+      "IR Drop Governance",
+      "Signal Integrity (SI) Logic",
+      "Reliability Blueprinting"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Analog Architecture: Op-Amps & Data Converters",
+    "topics": [
+      "Analog Blueprinting",
+      "Data Conversion Logic",
+      "Mixed-Signal Governance"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "System-on-Chip (SoC) Integration Logic",
+    "topics": [
+      "IP Integration Architecture",
+      "Interface Governance",
+      "Network-on-Chip (NoC) Strategy"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI Hardware & RISC-V Architecture",
+    "topics": [
+      "AI Accelerator Logic",
+      "RISC-V Architectural Governance"
+    ]
+  }
+]

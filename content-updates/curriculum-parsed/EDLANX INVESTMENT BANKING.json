@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Banking Blueprint",
+    "topics": [
+      "Market Ecosystem",
+      "Hierarchy & Workflow"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Financial Forensics",
+    "topics": [
+      "Three-Statement Architecture",
+      "Working Capital Logic",
+      "Exception Handling",
+      "Revenue & Expense Drivers"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Valuation Architecture: DCF",
+    "topics": [
+      "Free Cash Flow Logic",
+      "WACC Engineering",
+      "Terminal Value Architecture",
+      "Sensitivity Analysis",
+      "Enterprise vs. Equity Value",
+      "Intrinsic Logic Calibration"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Relative Valuation Logic",
+    "topics": [
+      "Trading Comps Architecture",
+      "Precedent Transactions",
+      "Multiple Selection"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Capital Markets Architecture",
+    "topics": [
+      "Equity Capital Markets (ECM)",
+      "Debt Capital Markets (DCM)"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Buy-Side M&A Engineering",
+    "topics": [
+      "Strategic Rationale",
+      "Synergy Architecture",
+      "Accretion/Dilution Logic",
+      "Transaction Funding",
+      "Integration Governance",
+      "Goodwill & Purchase Accounting",
+      "LBO Transition Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "SELL-SIDE M&A ARCHITECTURE",
+    "topics": [
+      "Auction Architecture",
+      "Divestiture Logic",
+      "Valuation Defense"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Leverage Architecture: LBO",
+    "topics": [
+      "Debt Sculpting",
+      "Returns Engineering",
+      "Exit Strategy Logic"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Pitch-Book Architecture",
+    "topics": [
+      "Executive Storytelling",
+      "Technical Visualization",
+      "Market Positioning"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Due Diligence Governance",
+    "topics": [
+      "Asset Verification",
+      "Liability Forensic",
+      "Data Room Management"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Architecture",
+    "topics": [
+      "Compliance Frameworks",
+      "Ethics in Banking",
+      "ESG Integration"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI in IB",
+    "topics": [
+      "Algorithmic Deal Sourcing",
+      "Automated Valuation"
+    ]
+  }
+]

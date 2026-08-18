@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The People Blueprint: Foundations",
+    "topics": [
+      "Strategic HRM Logic",
+      "Organizational DNA"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Acquisition Logic: Talent Engineering",
+    "topics": [
+      "Sourcing Architecture",
+      "Technical Screening & Assessment",
+      "Offer Management & Negotiation",
+      "Verification & Compliance Logic"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Professional Edge: Onboarding Logic",
+    "topics": [
+      "The First 90 Days Blueprint",
+      "Virtual & Hybrid Onboarding Architecture",
+      "Documentation & Compliance Standards",
+      "Cultural Immersion Logic",
+      "The Stakeholder Handover Protocol",
+      "Induction Feedback & Optimization"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Organizational Behavior",
+    "topics": [
+      "Group Dynamics & Synergy",
+      "Leadership Architecture",
+      "Change Management"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Compensation Architecture: Total Rewards",
+    "topics": [
+      "Pay Scale Engineering",
+      "Benefit Ecosystems"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Performance Engineering: Appraisal Systems",
+    "topics": [
+      "KPI & OKR Architecture",
+      "Feedback Loop Logic",
+      "The Bell Curve & Normalization",
+      "Bias Mitigation Logic",
+      "Competency Mapping",
+      "Performance Improvement Plans (PIP)",
+      "Reward & Recognition Calibration"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Growth Logic: Training & Development",
+    "topics": [
+      "Skill Gap Analysis",
+      "Learning Management Systems (LMS)",
+      "Succession Planning"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation: HR Analytics",
+    "topics": [
+      "People Data Intelligence",
+      "Predictive Retention Logic",
+      "Dashboard Reporting"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Legal Architecture: Labor Laws & Ethics",
+    "topics": [
+      "Workplace Governance",
+      "Dispute Resolution Logic",
+      "Ethical Leadership"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch: The HR Business Partner (HRBP)",
+    "topics": [
+      "Strategic Partnership Project",
+      "Executive Communication",
+      "The Edlanx Huddle"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Employee Relations",
+    "topics": [
+      "Engagement Architecture",
+      "Employer Branding Logic",
+      "Crisis Management"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: The Digital Workplace",
+    "topics": [
+      "AI in HR",
+      "The Remote Work Blueprint"
+    ]
+  }
+]

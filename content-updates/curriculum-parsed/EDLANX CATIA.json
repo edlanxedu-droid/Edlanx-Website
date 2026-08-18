@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The System Blueprint: Infrastructure & Logic",
+    "topics": [
+      "V5/V6 Environment Logic",
+      "Specification Tree Architecture"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Sketcher Architecture",
+    "topics": [
+      "Profile Logic",
+      "Geometric Constraint Engineering",
+      "Sketch Analysis & Stability",
+      "Transformation Logic"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Part Design Engineering",
+    "topics": [
+      "Sketch-Based Feature Logic",
+      "Dress-up Feature Architecture",
+      "Boolean Operation Logic",
+      "Transformation & Pattern Logic",
+      "Material & Mass Property Architecture",
+      "Reference Element Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Generative Shape Design (GSD)",
+    "topics": [
+      "Wireframe Architecture",
+      "Surface Logic",
+      "Boundary & Join Logic"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Surface Morphing & Operations",
+    "topics": [
+      "Curvature Architecture",
+      "Advanced Sweep Logic"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Assembly Architecture",
+    "topics": [
+      "Product Structure Logic",
+      "Engineering Constraints",
+      "Contextual Design Architecture",
+      "Interference & Clearance Logic",
+      "Bill of Materials (BOM) Engineering",
+      "Degree of Freedom (DOF) Logic",
+      "Multi-Model Linkage Governance"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Kinematics & DMU Logic",
+    "topics": [
+      "Joint Architecture",
+      "Simulation Logic",
+      "Collision & Space Analysis"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Sheet Metal Architecture",
+    "topics": [
+      "Generative Parametric Logic",
+      "Wall & Flange Engineering",
+      "Corner & Relief Logic"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Drafting & Annotation Logic",
+    "topics": [
+      "View Generation Architecture",
+      "Geometric Dimensioning (GD&T)",
+      "Professional Documentation Governance"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Generative Structural Analysis",
+    "topics": [
+      "Meshing Logic",
+      "Boundary Condition Architecture",
+      "Stress & Deformation Logic"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Manufacturing Logic: Prismatic Machining",
+    "topics": [
+      "Toolpath Architecture",
+      "NC Code Logic",
+      "Virtual Machining Validation"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Digital Twin Architecture",
+    "topics": [
+      "PLM Integration Logic",
+      "Virtual Validation Architecture"
+    ]
+  }
+]

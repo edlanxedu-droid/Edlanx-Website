@@ -1,0 +1,243 @@
+WEB ARCHITECTURE
+
+Engineering the Logic of Scalable Digital Environments
+
+ A project-first certification designed to turn logical thinkers into industry-
+ ready Full-Stack Architects and Software Engineers.
+THE EDLANX
+METHODOLOGY
+
+OUR ENGINEERING PHILOSOPHY
+
+At Edlanx, we don’t just teach syntax; we cultivate a development mindset. Our
+program is a deep dive into the intersection of clean code, system
+performance, and high-concurrency architecture. We believe in Project-First
+Mastery—moving beyond basic HTML to build complex, secure, and
+deployable web applications from Day 1.
+
+THE FOUR PILLARS OF MASTERY
+
+Structural Blueprint Master the core foundations of semantic markup and
+                                responsive logic to build accessible, SEO-ready structures.
+
+Interactive Logic  Learn to manipulate the Document Object Model (DOM) and manage
+                   state to create dynamic, high-performance user experiences.
+
+Scalable           Understand the relationship between the front-end and back-end to
+Architecture       design systems that handle massive user traffic without friction.
+
+Dynamic            Bring your code to life using industry-standard version
+Deployment         control and cloud environments to create secure, testable
+                   digital products.
+
+                                                                                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Web Blueprint: Foundations
+
+    1.1 Semantic Architecture
+    1.2 The Client-Server Lifecycle
+
+02 Layout Engineering: High-Performance Logic
+                          2.1 Flexbox & CSS Grid Strategy
+                          2.2 Responsive Design Systems
+                          2.3 CSS Pre-processors & Variables
+                          2.4 CSS Variables & Scalable Styling
+
+03 The Developer Edge: Integration & Portfolio
+                        3.1 Version Control & Git Architecture
+                        3.2 Collaborative GitHub Workflows
+                        3.3 Technical Documentation & README Standards
+                        3.4 Open-Source Contribution & Ecosystems
+                        3.5 Markdown & Visual Communication
+                        3.6 Portfolio Architecture & Live Deployment
+
+                                                                        EDLANX
+04  Structural Blueprints: JavaScript Logic
+
+    4.1 Computational Logic & Syntax
+
+    4.2 DOM Manipulation Strategy
+
+    4.3 Asynchronous JavaScript
+
+05  Industry Tools & Ecosystems
+
+    5.1 The React.js Architecture
+
+    5.2 State Management Logic
+
+06  Scalable Components & Libraries
+
+    6.1 Modular UI Component Architecture
+
+    6.2 Component Lifecycle & State Management
+
+    6.3 Props & Data Flow Logic
+
+    6.4 Library Integration & Ecosystems
+
+    6.5 Styled-Components & Scoped CSS
+    6.6 Custom Hook Engineering
+    6.7 Component Library Deployment
+
+07  Automation & Server Interaction
+
+    7.1 RESTful API Architecture
+
+    7.2 Fetch Operations & Error Handling
+
+    7.3 JSON Data Structures
+
+08  Analytical Validation & Testing Standards
+
+    8.1 Performance Auditing & Core Web Vitals
+    8.2 Cross-Browser Validation
+    8.3 Unit Testing Foundations
+
+                                                EDLANX
+09  Backend Logic: Database & Server Architecture
+10
+    9.1 Node.js & Express Environments
+    9.2 Database Schema Design (SQL/NoSQL)
+    9.3 CRUD Operations
+
+    Career Launch & Industry Alignment
+
+    10.1 Full-Stack Application Deployment
+    10.2 Technical Interview Simulation
+    10.3 The Edlanx Alumni Network
+
+11  Professional Engineering & Ethics
+
+    11.1 Web Security & Data Privacy
+    11.2 Intellectual Property & Licensing
+    11.3 Collaborative Leadership
+
+12  Future Frontiers: Cloud & Emerging Tech
+
+    12.1 Introduction to Web3 & Decentralization
+    12.2 AI-Assisted Development
+
+                                            EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                           EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond academic theory to bridge the gap between
+                  stagnant education and fast-moving software requirements. Our
+                  Web Architecture syllabus is a high-octane immersion into the
+                  current and future needs of the global digital economy, focusing on
+                  clean code and scalable system design.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as a software engineer,
+    working within real organizational workflows on live, high-
+    traffic projects and high-concurrency applications.
+
+03 Mentorship & Continuous Assessment
+
+                   Your growth is guided by senior engineers and technical leads
+                   through structured mentoring and regular performance
+                   evaluations. We focus on developing not just your coding
+                   speed, but your ability to solve complex architectural logic
+                   problems with the confidence required by top-tier firms.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like React, Node.js, and Git while
+    learning essential professional competencies. We believe in
+    experiential learning and reward excellence with performance-
+    based stipends, ensuring you are motivated to achieve technical
+    mastery.
+
+                                                                                                           EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Software Development Lifecycle, from initial structural blueprints
+    to final cloud deployment. Our career guidance includes technical
+    resume engineering and mock coding interviews designed to help
+    you secure and sustain meaningful employment.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on teamwork, integrity, and
+    disciplined professional ethics. You will learn to lead a "sprint,"
+    collaborate across various digital domains, and grow your network
+    within an elite community of developers and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                              EDLANX
+Why This Journey
+Matters
+
+ Portfolio-Ready  Every full-stack application, API integration, and responsive system you
+Global Network    architect is designed to be a standout piece in your professional GitHub
+                  repository, proving your ability to solve complex, high-concurrency business
+                  problems.
+
+                  Gain exclusive access to the Edlanx alumni community and a powerful
+                  network of industry mentors currently architecting platforms at top-tier
+                  global firms and disruptive tech startups.
+
+Career Excellence We don’t just teach syntax; we provide technical resume engineering, mock
+                            coding interviews, and the essential leadership skills needed to navigate the
+                            high-stakes world of global software development.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in Generative AI for Developers, Serverless Architecture,
+and Cloud Deployment. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Your engineering growth shouldn’t happen in
+                  a vacuum. Whether you are stuck on a
+                  complex JavaScript logic error or need
+                  feedback on your system’s database
+                  architecture, our senior developers are just a
+                  message away. We are here to ensure your
+                  transition into the world of professional Web
+                  Architecture is seamless and high-impact.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                             EDLANX
+

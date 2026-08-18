@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Genetic Blueprint: DNA & RNA Structure",
+    "topics": [
+      "Helical Logic",
+      "Stability Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Information Flow: Replication & Repair",
+    "topics": [
+      "Replication Fidelity Logic",
+      "Asymmetric Synthesis Governance",
+      "DNA Damage & Repair Architecture",
+      "Double-Strand Break Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Transcription Logic: RNA Synthesis & Processing",
+    "topics": [
+      "Promoter & Initiation Structural Logic",
+      "Regulatory Governance (Enhancers & Silencers)",
+      "Co-Transcriptional Processing Architecture",
+      "Splicing & Intron Governance",
+      "Transcriptional Termination Strategy",
+      "RNA Export & Quality Control"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Translation Logic: Protein Synthesis & Folding",
+    "topics": [
+      "Ribosomal Structural Logic",
+      "Genetic Code Governance",
+      "Post-Translational Processing Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Recombinant Architecture: Cloning & Vector Design",
+    "topics": [
+      "Restriction & Ligation Logic",
+      "Vector Design Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: Lab Safety & Recombinant DNA Ethics",
+    "topics": [
+      "Molecular Containment Logic",
+      "Chemical & Radiological Governance",
+      "Recombinant DNA Ethical Architecture",
+      "Institutional Biosafety Strategy (IBSC)",
+      "Genetic Privacy & Data Governance",
+      "Dual-Use Research Logic",
+      "Bio-Spill & Incident Response"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Gene Regulation Logic: Operons & Epigenetics",
+    "topics": [
+      "Transcriptional Control Logic",
+      "Epigenetic Governance",
+      "RNA Interference (RNAi) Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Signal Transduction Architecture: Receptor Logic & Pathways",
+    "topics": [
+      "Receptor Structural Logic",
+      "Cascade Governance",
+      "Secondary Messenger Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Applied Tools Logic: PCR, Blotting & Sequencing",
+    "topics": [
+      "Amplification Structural Logic",
+      "Detection Governance (Blotting & Electrophoresis)",
+      "Sequencing Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: The Business of Gene Therapy & Diagnostics",
+    "topics": [
+      "IP & Valuation Logic",
+      "Market Access Governance",
+      "Bio-Entrepreneurship Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Manufacturing Infrastructure: Scaling Molecular Production",
+    "topics": [
+      "Recombinant Protein Logic",
+      "Bioprocess Governance",
+      "Purification Strategy"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: RNA Therapeutics & Gene Drives",
+    "topics": [
+      "RNA-Based Medicine Logic",
+      "Gene Drive & Population Governance"
+    ]
+  }
+]

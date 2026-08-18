@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Biological Blueprint: Microbial Morphology",
+    "topics": [
+      "Structural Logic",
+      "Classification Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Metabolic Architecture: Physiology & Growth",
+    "topics": [
+      "Bioenergetic Logic",
+      "Kinetic Governance",
+      "Environmental Adaptation Blueprinting",
+      "Regulatory Metabolic Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Clinical Logic: Pathogenesis & Immunology",
+    "topics": [
+      "Virulence Structural Logic",
+      "Quorum Sensing & Biofilm Governance",
+      "Immunological Response Architecture",
+      "Diagnostic Assay Strategy",
+      "Molecular Detection Blueprinting",
+      "Serological Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Genomic Logic: Microbial Genetics & CRISPR",
+    "topics": [
+      "Horizontal Gene Transfer Logic",
+      "CRISPR-Cas9 Governance",
+      "Plasmids & Vector Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industrial Architecture: Fermentation & Downstream Processing",
+    "topics": [
+      "Bioreactor Structural Logic",
+      "Downstream Recovery Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: BSL Levels & Bio-Containment",
+    "topics": [
+      "Bio-Safety Level (BSL) Structural Logic",
+      "Aseptic Governance",
+      "Bio-Hazard Risk Architecture",
+      "Personal Protective Strategy (PPE)",
+      "Bio-Waste Governance",
+      "Regulatory Compliance Architecture",
+      "Emergency Response Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Environmental Infrastructure: Bioremediation & Waste Engineering",
+    "topics": [
+      "Biodegradation Structural Logic",
+      "Bio-Augmentation Governance",
+      "Bio-Indicator Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Pharmaceutical Architecture: Antibiotic Discovery & Resistance",
+    "topics": [
+      "Secondary Metabolite Logic",
+      "Resistance Mechanism Governance",
+      "Novel Lead Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Food Logic: Probiotics & Food Safety Microbiology",
+    "topics": [
+      "Fermentation Logic",
+      "Pathogen Surveillance Governance",
+      "Gut Microbiome Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: The Bio-Economy & Scalable Bio- Manufacturing",
+    "topics": [
+      "Unit Operation Logic",
+      "Scale-Up Governance",
+      "Bio-Venture Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: ISO 17025 & GLP Lab Management",
+    "topics": [
+      "Laboratory Accreditation Logic",
+      "Good Laboratory Practice (GLP) Governance",
+      "Quality Control (QC) Strategy"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Synthetic Microbes & Space Microbiology",
+    "topics": [
+      "Synthetic Genome Design & Bio-Foundry Logic",
+      "Extra-Terrestrial Microbial Governance"
+    ]
+  }
+]

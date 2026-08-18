@@ -1,0 +1,257 @@
+AUTOCAD
+
+Engineering the Structural Logic of 2D & 3D Industrial
+Design
+
+A project-first certification designed to master Precision Drafting, Parametric
+Modeling, and Technical Documentation. Convert engineering concepts into
+industrial reality.
+THE EDLANX
+METHODOLOGY
+
+OUR DRAFTING PHILOSOPHY
+
+At Edlanx, we don’t just "draw lines"; we cultivate a Design Engineer's mindset.
+Our program is a deep dive into the mathematical logic of geometric
+construction and the structural organization of technical data. We believe in
+Documentation Integrity—moving beyond basic commands to build a robust
+understanding of layer governance, parametric constraints, and the rigorous
+industry standards (ISO/ANSI) required for global manufacturing and
+construction.
+
+THE FOUR PILLARS OF MASTERY
+
+Geometric Logic  Master the structural precision of coordinate-based
+                 drafting.
+
+Data Governance  Learn the logic of organized, scalable drawing architectures.
+
+Parametric       Master the structural link between dimensions and design intent.
+Architecture
+                 Bring designs to life by mastering the structural depth of
+Visual Strategy  3D modeling.
+
+                                                                      EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  Interface & Coordinate Logic: The Foundation of
+    Precision
+
+    1.1 Structural Logic
+
+    1.2 Precision Governance
+
+02 Geometric Construction: The Logic of Entities
+                          2.1 Lineal Structural Logic
+                          2.2 Modify Governance
+                          2.3 Object Snap (OSNAP) Architecture
+                          2.4 Hatch & Gradient Logic
+
+03 Data Architecture: Layer & Property Logic
+                        3.1 Layering Structural Logic
+                        3.2 Property Governance
+                        3.3 Linetype Architecture
+                        3.4 Layer Transparency Logic
+                        3.5 Global Scale Governance
+                        3.6 Property Matching Logic
+
+                                                                EDLANX
+04  Annotation & Dimensioning: The Logic of Communication
+
+    4.1 Dimensioning Structural Logic
+
+    4.2 Text & Style Governance
+
+    4.3 Tolerance & Leader Architecture
+
+05  Block & Attribute Governance: Reusable Component Logic
+
+    5.1 Block Structural Logic
+
+    5.2 Attribute & Data Logic
+
+06  Parametric Infrastructure: Constraint & Dynamic Logic
+
+    6.1 Geometric Constraint Structural Logic
+
+    6.2 Dimensional Constraint Governance
+
+    6.3 Dynamic Block Logic
+
+    6.4 Visibility States Architecture
+
+    6.5 Block Properties Table Strategy
+    6.6 Action Parameter Synergy
+    6.7 Parametric Validation Logic
+
+07  Isometric & 3D Modeling: Depth & Solid Architecture
+
+    7.1 Isometric Structural Logic
+
+    7.2 Primitive & Boolean Governance
+
+    7.3 Extrusion & Revolve Architecture
+
+08  Rendering & Materials: The Logic of Visualization
+
+    8.1 Material Mapping Structural Logic
+    8.2 Lighting & Shadows Governance
+    8.3 Rendering Engine Strategy
+
+                                                            EDLANX
+09  Layout & Plotting Strategy: Technical Documentation Logic
+10  9.1 Viewport Structural Logic
+    9.2 Sheet Set Governance
+    9.3 Plotting & PDF Architecture
+
+    Financial Logic: The Economics of CAD Operations
+    10.1 Unit Cost Structural Logic
+    10.2 Software Licensing Governance
+    10.3 Outsourcing & Scalability Architecture
+
+11  Regulatory Infrastructure: ISO & ANSI Drafting
+    Standards
+
+    11.1 Global Standards Structural Logic
+
+    11.2 Compliance Blueprinting
+
+    11.3 Intellectual Property Governance
+
+12  Future Frontiers: Cloud Collaboration & Mobile Design
+    Logic
+    12.1 Web & Mobile Structural Logic
+
+    12.2 Collaborative Revision Governance
+
+                                                               EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                            EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond basic line-drawing to bridge the gap between
+     creative design and manufacturing feasibility. Our AutoCAD
+     syllabus is a deep immersion into Parametric Constraints, Data
+     Extraction, and 3D Solid Architecture—the exact technical pillars
+     used by global engineering firms to architect complex industrial
+     systems.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-fidelity technical environment at our Bangalore
+    Operational Center. At Edlanx, you won't just study "software
+    commands"; you will be treated as a Design Engineer, working in
+    simulated office environments to master layer governance,
+    navigate project revision cycles, and manage the structural
+    integrity of technical documentation.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Mechanical and Civil
+       Engineers through structured mentoring and performance
+       evaluations. We focus on developing your ability to manage
+       annotative scaling, troubleshoot geometry conflicts, and
+       translate complex engineering requirements into clean, ISO-
+       standard drawings.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard features like Dynamic Blocks, Xrefs,
+    and LISP routines while learning essential professional
+    competencies. We believe in experiential learning and reward
+    breakthroughs in drafting speed or documentation accuracy
+    with performance-based stipends, ensuring you remain focused
+    on technical excellence.
+
+                                                                                                              EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the Design
+    Development Lifecycle, from initial conceptual sketching and 2D
+    drafting to 3D visualization and final plotting. Our career guidance
+    includes mock "Drafting Sprints" and technical interviews tailored
+    for top-tier roles in CAD Design, Project Engineering, and Technical
+    Illustration.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, technical integrity,
+    and disciplined peer review. You will learn to lead a "drawing set"
+    production, collaborate across architectural and mechanical
+    domains, and grow your network within an elite community of
+    drafting professionals and industrial leaders.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                               EDLANX
+Why This Journey
+Matters
+
+ Portfolio-Ready  Every parametric block you engineer, every detailed assembly you document, and
+Global Network    every 3D solid you render at Edlanx serves as a high-fidelity demonstration of your
+                  ability to translate engineering concepts into precise, manufacturing-ready
+                  blueprints.
+
+                  Gain exclusive access to the Edlanx alumni community and industry mentors
+                  leading design teams at global construction firms, automotive OEMs, and
+                  heavy-engineering enterprises.
+
+Career Excellence We move beyond basic "line-drawing" to provide the deep "Design-to-
+                            Documentation" logic needed to solve global infrastructure challenges—
+                            from planning smarter cities to architecting the complex machinery of the
+                            future.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in BIM (Building Information Modeling) integration, the
+evolution of mobile CAD workflows, and the rapid adoption of AI-assisted
+drafting. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                                                                           Mastering technical drafting and navigating the rigorous
+                                                                           standards of industrial design requires absolute
+                                                                           mathematical precision and a disciplined attention to
+                                                                           detail. Whether you are defining complex geometric
+                                                                           constraints, troubleshooting a broken xref link, or
+                                                                           optimizing a multi-sheet plotting set for a deadline, our
+                                                                           senior Mechanical and Civil Engineers provide the direct,
+                                                                           technical feedback needed to ensure your drawings are
+                                                                           error-free, standard-compliant, and professional.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                   EDLANX
+

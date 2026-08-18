@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The CRM Blueprint",
+    "topics": [
+      "Cloud Architecture",
+      "Ecosystem Navigation"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Object Architecture",
+    "topics": [
+      "Data Modeling Logic",
+      "Relationship Architecture",
+      "Schema Integrity & Normalization",
+      "Global Picklist & Metadata Logic"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Access & Security Governance",
+    "topics": [
+      "Identity Logic",
+      "Record-Level Architecture (OWDs)",
+      "Role Hierarchy Engineering",
+      "Sharing Rule Logic",
+      "Manual & Apex Sharing",
+      "Field-Level Security (FLS)"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Declarative Automation: Flow Builder",
+    "topics": [
+      "Workflow Logic",
+      "Advanced Flow Architecture",
+      "Error Handling & Fault Paths"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Data Integrity: Validation & Formulas",
+    "topics": [
+      "Mathematical Rules",
+      "Validation Logic"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Programmatic Architecture: Apex",
+    "topics": [
+      "OOP Principles & Logic",
+      "Trigger Framework Architecture",
+      "Context Governance",
+      "Governor Limit Architecture",
+      "DML & SOQL Logic",
+      "Unit Testing & Code Integrity",
+      "Exception Handling Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Asynchronous Engineering",
+    "topics": [
+      "Batch Apex Logic",
+      "Future & Queueable Architecture",
+      "Scheduled Logic"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Frontend Architecture: LWC",
+    "topics": [
+      "Modern Web Standards",
+      "Reactive Property Logic",
+      "Event Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Integration Logic: APIs",
+    "topics": [
+      "REST & SOAP Architecture",
+      "Authentication Logic",
+      "Callout Governance"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Data Migration Architecture",
+    "topics": [
+      "ETL Processes",
+      "Bulk Data Logic",
+      "Governance & Cleanup"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Deployment Governance (DevOps)",
+    "topics": [
+      "Metadata Logic",
+      "SFDX & CLI Architecture",
+      "Change Management"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Einstein",
+    "topics": [
+      "Predictive Intelligence",
+      "Generative AI Logic"
+    ]
+  }
+]

@@ -1,0 +1,241 @@
+AWS (CLOUD
+COMPUTHING)
+
+Engineering the Logic of Global Cloud Ecosystems
+
+A project-first certification designed to master the world’s most powerful
+cloud platform and architect high-concurrency digital solutions.
+THE EDLANX
+METHODOLOGY
+
+OUR VIRTUAL PHILOSOPHY
+
+At Edlanx, we don’t just teach consoles; we cultivate a cloud-native mindset.
+Our program is a deep dive into the AWS Well-Architected Framework. We
+believe in Elastic Engineering—building systems that automatically scale,
+heal, and optimize costs without manual intervention.
+
+THE FOUR PILLARS OF MASTERY
+
+Compute Logic      Master the core foundations of EC2, Lambda, and
+Data Architecture  Beanstalk to power high-performance applications.
+
+                   Learn to implement scalable storage and database solutions
+                   like S3, RDS, and DynamoDB with zero data friction.
+
+Secure Networking Understand VPCs, Identity and Access Management (IAM),
+                                and Route 53 to protect your global perimeter.
+
+Cost & Performance Bring your systems to life by balancing high-speed delivery
+                                with cost-efficient resource allocation.
+
+                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Cloud Blueprint: Foundations
+
+    1.1 The AWS Ecosystem
+    1.2 The Identity Gate (IAM)
+
+02 Compute Architecture: High-Performance Logic
+                          2.1 Elastic Compute (EC2)
+                          2.2 Scalability & Resilience
+                          2.3 Optimized Provisioning
+                          2.4 Cost-Optimized Provisioning (Spot & Reserved)
+
+03 The Developer Edge: Integration & Portfolio
+                        3.1 Programmatic Access & CLI Logic
+                        3.2 Cross-Platform SDK Integration
+                        3.3 Resource Tagging & Governance
+                        3.4 Architectural Visualization & Blueprints
+                        3.5 Technical Documentation Standards
+                        3.6 Portfolio Architecture
+
+                                                                             EDLANX
+04  Structural Blueprints: Storage Logic
+
+    4.1 The Digital Vault (S3)
+
+    4.2 High-Speed Block Storage (EBS)
+
+    4.3 Shared Filesystems (EFS)
+
+05  Database Engineering & Data Logic
+
+    5.1 Relational Data Systems (RDS)
+
+    5.2 NoSQL & Performance (DynamoDB)
+
+06  Scalable Networking: Virtual Private Clouds
+
+    6.1 The Network Blueprint (VPC)
+
+    6.2 Subnetting & Traffic Isolation
+
+    6.3 Internet & NAT Gateways
+
+    6.4 Route Table Logic & VPC Peering
+
+    6.5 Edge Logic (CloudFront)
+    6.6 Global Traffic Management (Route 53)
+    6.7 Perimeter Defense (NACLs & Security Groups)
+
+07  Serverless Architecture: Event-Driven Logic
+
+    7.1 Code Without Servers (Lambda)
+
+    7.2 API Architecture (API Gateway)
+
+    7.3 Infrastructure orchestration (Step Functions)
+
+08  Analytical Validation & Monitoring
+
+    8.1 The Observability Stack (CloudWatch)
+    8.2 Audit & Compliance (CloudTrail)
+    8.3 Health Dashboards
+
+                                                       EDLANX
+09  Backend Logic: Message Queues & Events
+10
+    9.1 Decoupling Systems (SQS)
+    9.2 Notification Logic (SNS)
+    9.3 EventBridge
+
+    Career Launch: The Global Architect
+
+    10.1 Solution Architect Simulation
+    10.2 Exam Mastery
+    10.3 The Edlanx Huddle
+
+11  Professional Engineering & Ethics
+
+    11.1 Shared Responsibility Model
+    11.2 Security Compliance
+    11.3 Cloud Governance
+
+12  Future Frontiers: AI & Generative Cloud
+
+    12.1 AWS Bedrock
+    12.2 Machine Learning Pipelines (SageMaker)
+
+                                       EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                          EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond academic theory to bridge the gap
+                  between stagnant education and the fast-moving cloud
+                  market. Our Virtual Architecture syllabus is a high-octane
+                  immersion into the needs of the global digital economy,
+                  focusing on the AWS Well-Architected Framework.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as a Cloud Architect,
+    working within real organizational workflows on live, high-
+    concurrency AWS projects.
+
+03 Mentorship & Continuous Assessment
+
+                   Your growth is guided by senior AWS Solutions Architects
+                   through structured mentoring and regular performance
+                   evaluations. We focus on developing your ability to solve
+                   complex system-level logic problems with the confidence
+                   required by top-tier global firms.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like EC2, S3, Lambda, and
+    VPC while learning essential professional competencies. We
+    believe in experiential learning and reward technical
+    breakthroughs with performance-based stipends, ensuring
+    you are motivated to achieve mastery.
+
+                                                                                                            EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Cloud Development Lifecycle, from initial blueprints to final
+    production monitoring. Our career guidance includes technical
+    resume engineering and mock AWS-design interviews to help
+    you secure elite roles.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on teamwork, integrity, and
+    disciplined professional ethics. You will learn to lead a "sprint,"
+    collaborate across various digital domains, and grow your network
+    within an elite community of developers and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                           EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every VPC, serverless API, and auto-scaling cluster you architect is a
+Global Network   live demonstration of your ability to manage the digital backbone of
+                 global enterprises.
+
+                 Gain exclusive access to the Edlanx alumni community and
+                 industry mentors currently architecting cloud platforms at
+                 top-tier global firms and disruptive tech startups.
+
+Career Excellence We move beyond basic console clicks to provide technical
+                            resume engineering, mock AWS-design interviews, and the
+                            leadership skills needed to navigate the high-stakes world
+                            of global cloud infrastructure.
+
+The world is moving to the cloud. At Edlanx, we ensure you have the
+architectural logic and professional certification to lead that transition.
+
+DIRECT MENTORSHIP
+
+                  Your engineering growth shouldn’t happen in
+                  a vacuum. Whether you are stuck on a
+                  complex VPC peering issue or need feedback
+                  on your cost-optimization strategy, our senior
+                  AWS Solutions Architects are just a message
+                  away. We are here to ensure your transition
+                  into the world of professional Virtual
+                  Architecture is seamless and high-impact.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                        EDLANX
+

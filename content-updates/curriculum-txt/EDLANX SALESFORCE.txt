@@ -1,0 +1,240 @@
+CRM ARCHITECTURE
+
+Engineering the Structural Logic of Salesforce &
+Customer Success
+
+ A project-first certification designed to master Cloud Infrastructure,
+ Apex Logic, and the structural engineering of enterprise-scale CRM
+ systems.
+THE EDLANX
+METHODOLOGY
+
+OUR SALESFORCE PHILOSOPHY
+
+At Edlanx, we don’t just teach "data entry"; we cultivate a solution-first
+mindset. Our program is a deep dive into the logic of how businesses scale
+using cloud ecosystems. We believe in Operational Precision—moving beyond
+basic record-keeping to build robust, automated environments that unify sales,
+service, and marketing into a single, high-performance structural flow.
+
+THE FOUR PILLARS OF MASTERY
+
+Administrative Logic Master the core architecture of objects, relationships, and
+                                security protocols.
+
+Declarative        Learn the structural logic of Flow Builder and Lightning App
+Engineering        Builder to automate complex business processes.
+
+Programmatic Logic Understand the engineering of Apex, Triggers, and
+                                Lightning Web Components (LWC).
+
+Data Architecture  Bring your CRM to life by mastering large-scale data
+                   modeling, migration logic, and integration standards.
+
+                                                                          EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The CRM Blueprint
+
+    1.1 Cloud Architecture
+    1.2 Ecosystem Navigation
+
+02 Object Architecture
+                          2.1 Data Modeling Logic
+                          2.2 Relationship Architecture
+                          2.3 Schema Integrity & Normalization
+                          2.4 Global Picklist & Metadata Logic
+
+03 Access & Security Governance
+                        3.1 Identity Logic
+                        3.2 Record-Level Architecture (OWDs)
+                        3.3 Role Hierarchy Engineering
+                        3.4 Sharing Rule Logic
+                        3.5 Manual & Apex Sharing
+                        3.6 Field-Level Security (FLS)
+
+                                                                EDLANX
+04  Declarative Automation: Flow Builder
+
+    4.1 Workflow Logic
+
+    4.2 Advanced Flow Architecture
+
+    4.3 Error Handling & Fault Paths
+
+05  Data Integrity: Validation & Formulas
+
+    5.1 Mathematical Rules
+
+    5.2 Validation Logic
+
+06 Programmatic Architecture: Apex
+                           6.1 OOP Principles & Logic
+                           6.2 Trigger Framework Architecture
+                           6.3 Context Governance
+                           6.4 Governor Limit Architecture
+                           6.5 DML & SOQL Logic
+                           6.6 Unit Testing & Code Integrity
+                           6.7 Exception Handling Logic
+
+07 Asynchronous Engineering
+                           7.1 Batch Apex Logic
+                           7.2 Future & Queueable Architecture
+                           7.3 Scheduled Logic
+
+08  Frontend Architecture: LWC
+
+    8.1 Modern Web Standards
+    8.2 Reactive Property Logic
+    8.3 Event Architecture
+
+                                                                EDLANX
+09  Integration Logic: APIs
+10
+    9.1 REST & SOAP Architecture
+    9.2 Authentication Logic
+    9.3 Callout Governance
+
+    Data Migration Architecture
+
+    10.1 ETL Processes
+    10.2 Bulk Data Logic
+    10.3 Governance & Cleanup
+
+11  Deployment Governance (DevOps)
+
+    11.1 Metadata Logic
+    11.2 SFDX & CLI Architecture
+    11.3 Change Management
+
+12  Future Frontiers: AI & Einstein
+
+    12.1 Predictive Intelligence
+    12.2 Generative AI Logic
+
+                                     EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                         EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond basic data entry to bridge the gap between
+                  "point-and-click" admin tasks and high-level ecosystem
+                  engineering. Our CRM Architecture syllabus is a deep
+                  immersion into multi-tenant logic, Apex framework design,
+                  and the structural automation required by global enterprises.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as a Salesforce Consultant,
+    working within real organizational sandboxes to architect
+    complex flows, manage data migrations, and build custom
+    Lightning components.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior CRM Architects and
+       Salesforce Leads through structured mentoring and rigorous
+       performance evaluations. We focus on developing your
+       ability to solve complex governor-limit hurdles and structural
+       security vulnerabilities with the precision required for
+       production environments.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like VS Code, SFDX, and
+    Data Loader while learning essential professional
+    competencies. We believe in experiential learning and
+    reward architectural breakthroughs with performance-based
+    stipends, ensuring you remain driven toward ecosystem
+    mastery.
+
+                                                                                                           EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Salesforce Lifecycle, from initial requirements gathering to
+    CI/CD deployment. Our career guidance includes technical
+    resume engineering and mock "Solution Design" sessions
+    designed to help you secure elite roles in Cloud Consulting and
+    Business Technology.
+
+06   Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead a
+    development "sprint," collaborate across various cloud domains,
+    and grow your network within an elite community of admins,
+    developers, and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                           EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every complex Flow you build and every Apex Trigger you engineer at
+Global Network   Edlanx serves as a live demonstration of your ability to solve high-scale
+                 business problems.
+
+                 Gain exclusive access to the Edlanx alumni community and industry
+                 mentors leading Salesforce implementations at global tech giants
+                 and consulting firms.
+
+Career Excellence We move beyond simple admin tasks to provide the technical
+                            resume engineering and solution-design skills needed to
+                            command respect in the enterprise cloud market.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in Microservices, Cloud-Native Scalability, and
+Advanced System Design. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Navigating a multi-tenant cloud environment
+                  requires structural precision. Whether you are
+                  hitting a Governor Limit, debugging a
+                  Lightning Web Component, or architecting a
+                  complex security model, our senior CRM
+                  Architects are available to provide the direct,
+                  technical feedback needed to ensure your
+                  solutions are production-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                           EDLANX
+

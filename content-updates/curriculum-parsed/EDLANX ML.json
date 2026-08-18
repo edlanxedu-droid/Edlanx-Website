@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The ML Blueprint: Foundations",
+    "topics": [
+      "Probabilistic Logic & Mathematics",
+      "Supervised vs. Unsupervised Strategy"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Data Engineering: High-Performance Logic",
+    "topics": [
+      "Data Cleaning & Wrangling",
+      "Feature Selection Strategy",
+      "Exploratory Data Analysis (EDA)",
+      "Data Pipeline Architecture"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "Model Integration & System APIs",
+      "Strategic Performance Benchmarking",
+      "Hyperparameter Tuning & Optimization",
+      "Model Deployment & Scalability",
+      "Technical Documentation Standards",
+      "GitHub Portfolio Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Algorithm Selection",
+    "topics": [
+      "Regression & Classification Models",
+      "Decision Trees & Random Forests",
+      "Support Vector Machines (SVM)"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Ecosystems",
+    "topics": [
+      "Scikit-Learn & Pandas Mastery",
+      "SQL for Data Retrieval"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Professional Tools & Scalable Components",
+    "topics": [
+      "Automated Machine Learning (AutoML)",
+      "Transfer Learning Application",
+      "Reusable Logic Libraries",
+      "Model Versioning & DVC",
+      "Scalable Pre-processing Modules",
+      "Containerization with Docker",
+      "Professional Coding Standards"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & Predictive Interaction",
+    "topics": [
+      "Autonomous Pipeline Scripts",
+      "Predictive User Feedback Loops",
+      "Anomaly Detection Logic"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Model Validation & Stability Standards",
+    "topics": [
+      "Cross-Validation Techniques",
+      "Bias & Variance Trade-offs",
+      "Ethical Testing Standards"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Analytical Logic: Performance & Optimization",
+    "topics": [
+      "Algorithmic Speed Optimization",
+      "Memory Management in ML",
+      "Scalable Inference Pipelines"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & Global Industry Alignment",
+    "topics": [
+      "Strategic Portfolio Building",
+      "Technical Storytelling",
+      "The Edlanx Alumni Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Data Privacy & Governance",
+      "The Ethical AI Framework",
+      "Collaborative Leadership"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Cloud & Emerging Tech",
+    "topics": [
+      "MLOps & Cloud Deployment",
+      "The Next Era of Predictive Logic"
+    ]
+  }
+]

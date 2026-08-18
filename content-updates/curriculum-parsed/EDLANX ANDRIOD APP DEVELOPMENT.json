@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Mobile Blueprint: Foundations",
+    "topics": [
+      "Kotlin & Java Interoperability",
+      "The Mobile Lifecycle"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Layout Engineering: High-Performance Logic",
+    "topics": [
+      "View Groups & ConstraintLayout Strategy",
+      "Material Design Systems",
+      "Responsive Asset Management",
+      "Adaptive UI & Dynamic Components"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "Mobile Version Control with Git",
+      "Collaborative GitHub Workflows",
+      "Technical Documentation for Apps",
+      "Open Source Mobile Ecosystems",
+      "Markdown & Visual System Logic",
+      "Portfolio Architecture & Play Store Presence"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Activity & Fragment Logic",
+    "topics": [
+      "Intent & Navigation Architecture",
+      "Fragment Management Strategy",
+      "Navigation Components"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Ecosystems",
+    "topics": [
+      "Android Studio Mastery",
+      "Gradle Build Automation"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Components & Libraries",
+    "topics": [
+      "Architectural Patterns (MVVM/MVI)",
+      "Jetpack Lifecycle Management",
+      "Networking Engines with Retrofit",
+      "Room Persistence Library",
+      "Image Loading & Caching Logic",
+      "Dependency Injection Foundations",
+      "Component Library Modularization"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & API Interaction",
+    "topics": [
+      "RESTful Services & JSON Logic",
+      "WorkManager & Background Processing",
+      "Real-Time Data Streaming"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation & Testing Standards",
+    "topics": [
+      "Debugging & Error Analysis",
+      "Unit & UI Testing Foundations",
+      "Memory Leak & Performance Audits"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Backend Logic: Firebase & Cloud Architecture",
+    "topics": [
+      "Real-time Database Integration",
+      "Authentication & User Security",
+      "Cloud Messaging & Push Notifications"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & Industry Alignment",
+    "topics": [
+      "Play Store Deployment Standards",
+      "Technical Interview Simulation",
+      "The Edlanx Alumni Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Mobile Security & App Permissions",
+      "Intellectual Property in Apps",
+      "Collaborative Agile Sprints"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Jetpack Compose & AI",
+    "topics": [
+      "Declarative UI Architecture",
+      "The Future of Wearables & IoT"
+    ]
+  }
+]

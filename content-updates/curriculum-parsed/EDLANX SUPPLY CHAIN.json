@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "Supply Chain Foundations",
+    "topics": [
+      "Ecosystem Logic",
+      "Value Chain Architecture"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Procurement Architecture",
+    "topics": [
+      "Strategic Sourcing",
+      "Vendor Engineering",
+      "Contract Logic",
+      "E-Procurement Systems"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Lean Inventory Logic",
+    "topics": [
+      "The EOQ Model",
+      "Just-in-Time (JIT) Architecture",
+      "Safety Stock Engineering",
+      "VMI & Cross-Docking",
+      "ABC Analysis",
+      "Inventory Accuracy Logic"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Warehouse Engineering",
+    "topics": [
+      "Structural Layout & Slotting",
+      "Fulfillment Logic & Pick-to-Light",
+      "WMS & Automation Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Logistical Engineering",
+    "topics": [
+      "Freight Management",
+      "Route Optimization"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Global Trade & Export",
+    "topics": [
+      "Incoterms 2020 Architecture",
+      "Maritime & Port Logic",
+      "Customs Compliance",
+      "LC & Trade Finance",
+      "Freight Forwarding",
+      "Marine Insurance Logic",
+      "Export Incentive Frameworks"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Demand Architecture: Forecasting",
+    "topics": [
+      "Predictive Logic & Modeling",
+      "S&OP Framework (Sales & Operations)",
+      "Collaborative Planning (CPFR)"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Operations Logic: Production",
+    "topics": [
+      "Manufacturing Synchronization",
+      "Capacity Planning & Bottleneck Logic",
+      "Lean Production Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Distribution Architecture: Last Mile",
+    "topics": [
+      "Urban Logistics & Hub Design",
+      "E-commerce Fulfillment Logic",
+      "Delivery Route Optimization"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Sustainable Engineering: Green SCM",
+    "topics": [
+      "Circular Economy Architecture",
+      "Reverse Logistics Logic",
+      "Carbon Footprint Governance"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Risk Governance: Network Resilience",
+    "topics": [
+      "The Bullwhip Logic",
+      "Contingency Architecture",
+      "Crisis Mitigation & Recovery"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Digital SCM & AI",
+    "topics": [
+      "Autonomous Logic & AI Forecasting",
+      "Blockchain & IoT Architecture"
+    ]
+  }
+]

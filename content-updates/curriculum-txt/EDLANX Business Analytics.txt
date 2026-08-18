@@ -1,0 +1,248 @@
+BUSINESS ANALYTICS
+
+ Designing the Blueprint for Market Domination & Fiscal
+ Leadership
+
+  A project-first certification designed to master the logic of statistical
+  modeling, data visualization, and the predictive analytics required for
+  high-stakes decision making.
+THE EDLANX
+METHODOLOGY
+
+OUR ANALYTICAL PHILOSOPHY
+
+At Edlanx, we don’t just teach "reporting"; we cultivate a data engineering
+mindset. Our program is a deep dive into the logic of how information flows
+through an organization to create value. We believe in Predictive Integrity—
+moving beyond looking at the past to build robust analytical models that
+forecast future growth and optimize operational efficiency in real-time.
+
+THE FOUR PILLARS OF MASTERY
+
+Statistical        Master the core logic of probability and quantitative
+Foundations        reasoning that underpins all business intelligence.
+
+Data Architecture  Learn to engineer clean, scalable datasets by mastering the
+                   logic of SQL, data cleaning, and structural warehousing.
+
+Visualization Logic Understand the relationship between data and human cognition
+                                to build high-impact dashboards that tell a compelling story.
+
+Strategic          Bring your analytical plans to life by mastering predictive
+Optimization       modeling, regression analysis, and data-driven business
+                   strategy.
+
+                                                                          EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Data Blueprint: Foundations
+
+    1.1 Business Intelligence Logic
+    1.2 The Analytical Lifecycle
+
+02 Quantitative Logic: Business Statistics
+                          2.1 Probability & Distribution Logic
+                          2.2 Inferential Architecture & Testing
+                          2.3 Variable Correlation & Causality
+                          2.4 Sampling & Estimation Strategy
+
+03 The Professional Edge: Advanced Excel
+                        3.1 Financial & Logical Data Engineering
+                        3.2 Optimization Logic (Excel Solver)
+                        3.3 Power Query & ETL Architecture
+                        3.4 Dynamic Dashboard Architecture
+                        3.5 Sensitivity & "What-If" Analysis
+                        3.6 Automated Auditing & Error Trapping
+
+                                                                  EDLANX
+04  Structural Blueprints: SQL Architecture
+
+    4.1 Relational Database Logic
+
+    4.2 Query Engineering
+
+    4.3 Data Hygiene & ETL Logic
+
+05  Visualization Engineering: Tableau / Power BI
+
+    5.1 Cognitive Design Hierarchy
+
+    5.2 Interactive Dashboard Architecture
+
+06  Analytical Validation: Descriptive Analytics
+
+    6.1 Trend Discovery & Seasonality Logic
+
+    6.2 Customer Segmentation Architecture
+
+    6.3 Variance & Performance Auditing
+
+    6.4 Central Tendency & Dispersion Metrics
+
+    6.5 Data Mining & Pattern Recognition
+    6.6 Cohort Analysis Logic
+    6.7 Descriptive Reporting Architecture
+
+07  Predictive Logic: Regression & Forecasting
+
+    7.1 Linear & Logistic Modeling
+
+    7.2 Time-Series Architecture
+
+    7.3 Model Performance Validation
+
+08  Optimization Architecture: Prescriptive Analytics
+
+    8.1 Decision Tree Logic
+    8.2 Sensitivity Analysis
+    8.3 Simulation Modeling
+
+                                                   EDLANX
+09  Domain-Specific Data Engineering
+10
+    9.1 Marketing Attribution Logic
+    9.2 Financial Health Analytics
+    9.3 Operations & Supply Chain Logic
+
+    Career Launch: The Analytics Consultant
+
+    10.1 The End-to-End Business Case
+    10.2 Boardroom Communication Logic
+    10.3 The Edlanx Huddle
+
+11  Professional Engineering & Ethics
+
+    11.1 Data Governance Standards
+    11.2 Privacy & Security Architecture
+    11.3 Collaborative Integrity
+
+12  Future Frontiers: Big Data & AI
+
+    12.1 Machine Learning Logic
+    12.2 Big Data Architecture
+
+                                          EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                           EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond basic "data entry" to bridge the gap between
+                  academic theory and the high-demand analytical market. Our
+                  Insight Architecture syllabus is a deep immersion into
+                  statistical logic, database management, and the predictive
+                  modeling required for global business strategy.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as an Analytics Consultant,
+    working within real organizational workflows on live
+    datasets and high-stakes business intelligence projects.
+
+03 Mentorship & Continuous Assessment
+
+                   Your growth is guided by senior Data Architects and Business
+                   Intelligence Leads through structured mentoring and regular
+                   performance evaluations. We focus on developing your ability to
+                   solve complex optimization and visualization problems with the
+                   confidence required in executive boardrooms.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like SQL, Power BI, Tableau,
+    and Advanced Excel while learning essential professional
+    competencies. We believe in experiential learning and
+    reward analytical breakthroughs with performance-based
+    stipends, ensuring you remain driven toward mastery.
+
+                                                                                                            EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Data Lifecycle, from initial extraction to final strategic
+    recommendation. Our career guidance includes technical resume
+    engineering and mock "Insight Pitch" interviews designed to help
+    you secure and sustain elite consulting or analyst roles.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on teamwork, integrity, and
+    disciplined professional ethics. You will learn to lead a data-driven
+    "sprint," collaborate across various technical domains, and grow
+    your network within an elite community of analysts, engineers, and
+    mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                          EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every predictive model you validate, every SQL architecture
+                 you build, and every executive dashboard you design is a live
+                 demonstration of your ability to turn complex data into
+                 organizational profit and efficiency.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and
+                 industry mentors currently leading data science and
+                 business intelligence units at Fortune 500 companies and
+                 high-growth tech firms.
+
+Career Excellence We move beyond basic reporting to provide technical
+                            resume engineering, mock "Insight Pitch" boardroom
+                            simulations, and the leadership skills needed to command
+                            respect as a data-driven decision-maker.
+
+Data is the modern blueprint for success. At Edlanx, we ensure you have the
+analytical logic and professional certification to architect the future of global
+markets.
+
+DIRECT MENTORSHIP
+
+                  Your analytical evolution shouldn’t happen in a
+                  vacuum. Whether you are stuck on a complex SQL
+                  join, a Python automation script, or need feedback
+                  on your Power BI visualization strategy, our senior
+                  Insight Architects are just a message away. We are
+                  here to ensure your transition into the world of
+                  professional Business Analytics is seamless and
+                  high-impact.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                      EDLANX
+

@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "Interface & Coordinate Logic: The Foundation of Precision",
+    "topics": [
+      "Structural Logic",
+      "Precision Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Geometric Construction: The Logic of Entities",
+    "topics": [
+      "Lineal Structural Logic",
+      "Modify Governance",
+      "Object Snap (OSNAP) Architecture",
+      "Hatch & Gradient Logic"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Data Architecture: Layer & Property Logic",
+    "topics": [
+      "Layering Structural Logic",
+      "Property Governance",
+      "Linetype Architecture",
+      "Layer Transparency Logic",
+      "Global Scale Governance",
+      "Property Matching Logic"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Annotation & Dimensioning: The Logic of Communication",
+    "topics": [
+      "Dimensioning Structural Logic",
+      "Text & Style Governance",
+      "Tolerance & Leader Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Block & Attribute Governance: Reusable Component Logic",
+    "topics": [
+      "Block Structural Logic",
+      "Attribute & Data Logic"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Parametric Infrastructure: Constraint & Dynamic Logic",
+    "topics": [
+      "Geometric Constraint Structural Logic",
+      "Dimensional Constraint Governance",
+      "Dynamic Block Logic",
+      "Visibility States Architecture",
+      "Block Properties Table Strategy",
+      "Action Parameter Synergy",
+      "Parametric Validation Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Isometric & 3D Modeling: Depth & Solid Architecture",
+    "topics": [
+      "Isometric Structural Logic",
+      "Primitive & Boolean Governance",
+      "Extrusion & Revolve Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Rendering & Materials: The Logic of Visualization",
+    "topics": [
+      "Material Mapping Structural Logic",
+      "Lighting & Shadows Governance",
+      "Rendering Engine Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Layout & Plotting Strategy: Technical Documentation Logic",
+    "topics": [
+      "Viewport Structural Logic",
+      "Sheet Set Governance",
+      "Plotting & PDF Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: The Economics of CAD Operations",
+    "topics": [
+      "Unit Cost Structural Logic",
+      "Software Licensing Governance",
+      "Outsourcing & Scalability Architecture"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: ISO & ANSI Drafting Standards",
+    "topics": [
+      "Global Standards Structural Logic",
+      "Compliance Blueprinting",
+      "Intellectual Property Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Cloud Collaboration & Mobile Design Logic",
+    "topics": [
+      "Web & Mobile Structural Logic",
+      "Collaborative Revision Governance"
+    ]
+  }
+]

@@ -1,0 +1,245 @@
+VLSI DESIGN
+
+Engineering the Structural Logic of Integrated Circuits &
+SoC Development
+
+A project-first certification designed to master RTL Logic Design, SystemVerilog
+Verification, and the structural engineering of Physical Design. Master the silicon
+development lifecycle from gate-level logic to GDSII tape-out.
+THE EDLANX
+METHODOLOGY
+
+OUR VLSI DESIGN PHILOSOPHY
+
+At Edlanx, we don’t just teach "chip design"; we cultivate a Silicon Architect's
+mindset. Our program is a deep dive into the end-to-end VLSI design flow. We
+believe in Deterministic Performance—moving beyond theoretical gate logic
+to build high-performance, low-power integrated circuits that meet the
+rigorous timing and area constraints of the 2026 semiconductor market.
+
+THE FOUR PILLARS OF MASTERY
+
+Architectural Logic Master the structural blueprinting of systems using HDLs
+                                like Verilog and VHDL.
+
+Verification    Learn the logic of UVM and SystemVerilog to ensure first-pass
+Governance      silicon success.
+
+Physical        Master the structural flow of Floorplanning, Placement, and Routing
+Architecture    (PnR).
+
+Timing & Power  Bring your designs to life by mastering Static Timing
+Strategy        Analysis (STA) and Power-Performance-Area (PPA)
+                optimization.
+
+                                                                              EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Transistor Blueprint: CMOS Physics
+
+    1.1 MOSFET Logic
+    .2 Fabrication Blueprinting
+
+02 Digital Logic Architecture: Combinational & Sequential
+                          2.1 Boolean Structural Logic
+                          2.2 State Governance (FSM)
+                          2.3 Dataflow Blueprinting
+                          2.4 Timing Logic Foundations
+
+03 Hardware Description Logic: Verilog & RTL
+                        3.1 Modeling Logic
+                        3.2 Synthesis Governance
+                        3.3 Hierarchical Architecture
+                        3.4 Control & Datapath Logic
+                        3.5 Finite State Machine (FSM) Blueprinting
+                        3.6 Testbench Architecture
+
+                                                                     EDLANX
+04  Verification Architecture: SystemVerilog & UVM
+
+    4.1 Functional Verification Logic
+
+    4.2 UVM Governance
+
+    4.3 Coverage-Driven Architecture
+
+05  Circuit Logic: CMOS Inverter & Interconnects
+
+    5.1 CMOS Performance Logic
+
+    5.2 Interconnect & Parasitic Governance
+
+06  Physical Design Flow: Partitioning & Floorplanning
+
+    6.1 Design Import Logic
+
+    6.2 Partitioning Governance
+
+    6.3 Floorplanning Architecture
+
+    6.4 Power Grid Logic (PG Augmentation)
+
+    6.5 Macro Placement Strategy
+    6.6 Pin Optimization Governance
+    6.7 Pre-Placement Timing Logic
+
+07 Placement & Routing (PnR) Governance
+                           7.1 Placement Logic
+                           7.2 Clock Tree Synthesis (CTS) Architecture
+                           7.3 Routing Strategy
+
+08  Timing Architecture: Static Timing Analysis (STA)
+
+    8.1 Timing Path Logic
+    8.2 Constraint Governance
+    8.3 PVT Corner Strategy
+
+                                                                        EDLANX
+09  Power & Reliability Logic: Signal Integrity & IR Drop
+10  9.1 IR Drop Governance
+    9.2 Signal Integrity (SI) Logic
+    9.3 Reliability Blueprinting
+
+    Analog Architecture: Op-Amps & Data Converters
+
+    10.1 Analog Blueprinting
+    10.2 Data Conversion Logic
+    10.3 Mixed-Signal Governance
+
+11  System-on-Chip (SoC) Integration Logic
+
+    11.1 IP Integration Architecture
+    11.2 Interface Governance
+    11.3 Network-on-Chip (NoC) Strategy
+
+12  Future Frontiers: AI Hardware & RISC-V Architecture
+
+    12.1 AI Accelerator Logic
+    12.2 RISC-V Architectural Governance
+
+                                            EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                          EDLANX
+01 Industry-Ready Curriculum
+
+                 We move beyond basic gate logic to bridge the gap between
+                 academic electronics and foundry-ready engineering. Our VLSI
+                 syllabus is a deep immersion into RTL Design, UVM Verification,
+                 and Physical Design—the exact technical pillars used by global
+                 semiconductor giants and fabless design houses.
+
+02  Real-Time Corporate Exposure
+
+    Step into a professional chip design environment at our
+    Bangalore Operational Center. At Edlanx, you won't just run
+    simulations; you will be treated as a Design Engineer, working
+    within real-world constraints to optimize Power-Performance-
+    Area (PPA), solve timing violations, and manage complex clock
+    trees.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Silicon Architects and
+       Verification Leads through structured mentoring and
+       performance evaluations. We focus on developing your ability
+       to write synthesizable code, architect robust testbenches, and
+       perform Static Timing Analysis (STA) with the mathematical
+       precision required for modern SoC development.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard EDA (Electronic Design Automation)
+    tools while learning essential professional competencies. We
+    believe in experiential learning and reward innovative
+    breakthroughs in low-power design or verification coverage with
+    performance-based stipends, ensuring you remain focused on
+    industrial excellence.
+
+                                                                                                           EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete Silicon
+    Development Lifecycle, from initial architectural specs to final
+    GDSII tape-out. Our career guidance includes mock "Technical
+    Design Reviews" tailored for top-tier roles in RTL design, physical
+    design, and pre-silicon verification.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, technical integrity,
+    and disciplined ethics. You will learn to lead a design "sprint,"
+    collaborate across front-end and back-end domains, and grow your
+    network within an elite community of VLSI professionals and
+    hardware specialists.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                           EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every synthesizable RTL module, UVM verification environment, and physical
+                 GDSII layout you architect at Edlanx serves as a high-fidelity demonstration of
+                 your readiness for the global semiconductor stage.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading design teams at top-tier fabless companies, foundry giants, and
+                 cutting-edge hardware startups.
+
+Career Excellence We move beyond basic gate logic to provide the technical resume
+                            engineering and system-integration logic needed to lead the future of
+                            "Intelligent Silicon" and the global surge in specialized AI hardware.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in SystemVerilog standards, RISC-V extensions, and
+nanometer-scale Physical Design challenges. Your success is our shared
+mission.
+
+DIRECT MENTORSHIP
+
+                                                                    Engineering a reliable integrated circuit requires
+                                                                    absolute mathematical and timing precision. Whether
+                                                                    you are debugging a complex race condition in a
+                                                                    multi-clock domain, optimizing the power-grid for IR
+                                                                    drop, or closing timing on a critical path, our senior
+                                                                    Silicon Architects are available to provide the direct,
+                                                                    technical feedback needed to ensure your designs are
+                                                                    foundry-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                              EDLANX
+

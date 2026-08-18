@@ -1,0 +1,243 @@
+WEB 3.0
+
+ Engineering the Structural Logic of Web 3.0 & Digital
+ Ownership
+
+ A project-first certification designed to master Smart Contracts,
+ Blockchain integration, and the structural engineering of the
+ decentralized web.
+THE EDLANX
+METHODOLOGY
+
+OUR WEB 3.0 PHILOSOPHY
+
+At Edlanx, we don’t just teach "coding"; we cultivate a protocol-first mindset.
+Our program is a deep dive into the logic of how trust is decentralized through
+cryptography. We believe in Immutable Integrity—moving beyond traditional
+client-server models to build robust, censorship-resistant applications that
+empower users and redefine global digital exchange.
+
+THE FOUR PILLARS OF MASTERY
+
+Blockchain Logic  Master the core architecture of Distributed Ledger
+                  Technology (DLT) and consensus mechanisms.
+Smart Contract
+Engineering       Learn the structural code logic that automates trust and
+                  financial transactions.
+Decentralized
+Governance        Understand the logic of DAOs, tokenomics, and the
+                  engineering of community-driven platforms.
+Cryptographic
+Security          Bring your dApps to life by mastering private-public key
+                  logic and secure protocol standards.
+
+                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Web 3.0 Blueprint
+
+    1.1 Protocol Evolution
+    1.2 Decentralization Logic
+
+02 Blockchain Layer Foundations
+                          2.1 Layer 1 Architecture
+                          2.2 Scaling Logic (Layer 2)
+                          2.3 Node & Validator Architecture
+                          2.4 Consensus Engineering
+
+03 Smart Contract Engineering
+                        3.1 Solidity Logic & Syntax
+                        3.2 Execution Architecture (EVM)
+                        3.3 Deployment Frameworks
+                        3.4 Immutable Design Patterns
+                        3.5 Error Handling & Logic Safety
+                        3.6 Events & Log Architecture
+
+                                                             EDLANX
+04  Decentralized Storage
+
+    4.1 Content-Addressable Logic
+
+    4.2 IPFS & Filecoin Architecture
+
+    4.3 Metadata Integrity
+
+05  Identity & Cryptography
+
+    5.1 Public-Private Key Logic
+
+    5.2 Wallet Architecture
+
+06  Tokenomics: Asset Engineering
+
+    6.1 Fungible Logic (ERC-20)
+
+    6.2 Non-Fungible Logic (ERC-721/1155)
+
+    6.3 Supply Architecture & Halving
+
+    6.4 Incentive Engineering (Game Theory)
+
+    6.5 Distribution & Vesting Logic
+    6.6 Governance Token Logic
+    6.7 Economic Simulation & Stress-Testing
+
+07  DeFi Architecture (Decentralized Finance)
+
+    7.1 Liquidity Logic & AMMs
+
+    7.2 Yield & Lending Protocols
+
+    7.3 Flash Loan Engineering
+
+08  DAO Governance Architecture
+
+    8.1 Voting Logic & Weighting
+    8.2 Treasury & Multi-Sig Logic
+    8.3 Proposal Lifecycle Engineering
+
+                                               EDLANX
+09  The Oracle Logic
+10
+    09.1 Data Bridge Engineering
+    09.2 Hybrid Smart Contract Design
+    09.3 VRF (Verifiable Randomness)
+
+    dApp Architecture
+
+    10.1 Web3 Provider Integration
+    10.2 Indexing & Subgraph Logic
+    10.3 State Management & Providers
+
+11  Security Governance
+
+    11.1 Vulnerability Forensic
+    11.2 Smart Contract Auditing
+    11.3 Upgradeability & Proxy Logic
+
+12  Future Frontiers: The Metaverse
+
+    12.1 Interoperability & Bridge Logic
+    12.2 Spatial Web & Asset Persistence
+
+                                          EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                           EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond basic coding to bridge the gap between
+                  Web 2.0 development and the decentralized frontier. Our
+                  Protocol Architecture syllabus is a deep immersion into
+                  Solidity logic, EVM mechanics, and the structural
+                  engineering of trustless systems used by global dApps.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as a Blockchain Architect,
+    working within real organizational workflows to deploy
+    smart contracts, audit security, and build the
+    infrastructure of the spatial web.
+
+03 Mentorship & Continuous Assessment
+
+                   Your growth is guided by senior Web 3.0 Architects and
+                   Smart Contract Leads through structured mentoring and
+                   rigorous performance evaluations. We focus on developing
+                   your ability to solve complex gas-optimization hurdles a
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like Hardhat, Foundry, and
+    IPFS while learning essential professional competencies. We
+    believe in experiential learning and reward innovative dApp
+    breakthroughs with performance-based stipends, ensuring
+    you remain driven toward protocol mastery.
+
+                                                                                                            EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete Web 3.0
+    Lifecycle, from whitepaper logic to full-stack decentralized
+    deployment. Our career guidance includes technical resume
+    engineering and mock "Protocol Pitches" designed to help you secure
+    elite roles in DeFi, DAOs, or Blockchain development firms.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead a
+    development "sprint," collaborate across various decentralized
+    domains, and grow your network within an elite community of
+    engineers, auditors, and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                             EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every Smart Contract you deploy becomes a permanent,
+Global Network   verifiable record of your engineering precision on the global
+                 ledger.
+
+                 Join an elite community of Web 3.0 Architects and mentors
+                 building on the world’s leading decentralized protocols like
+                 Ethereum and Solana.
+
+Career Excellence We provide the security auditing skills and technical
+                            resume engineering needed to lead the shift from
+                            centralized servers to a user-owned internet.
+
+Code is the new law. At Edlanx, we ensure you have the architectural logic and
+professional certification to be the guardian of that law and a leader in the Web
+3.0 era.
+
+DIRECT MENTORSHIP
+
+                                                               The decentralized frontier is complex.
+                                                               Whether you are debugging a gas-
+                                                               optimization hurdle or architecting a
+                                                               governance model, our senior Web 3.0
+                                                               Architects provide the direct technical
+                                                               feedback needed to move your code
+                                                               from testnet to global mainnet.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                EDLANX
+

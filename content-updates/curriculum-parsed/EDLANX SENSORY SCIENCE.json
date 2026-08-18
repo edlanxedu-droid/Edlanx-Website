@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Biological Blueprint: Human Senses",
+    "topics": [
+      "Neural Logic",
+      "Threshold Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Methodology Architecture: Discriminative Testing",
+    "topics": [
+      "Difference Logic (Triangle & Duo-Trio)",
+      "Directional Governance (Paired Comparison)",
+      "Statistical Decision Logic",
+      "Panel Sensitivity Blueprinting"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Descriptive Architecture: Profiling & Mapping",
+    "topics": [
+      "QDA Logic (Quantitative Descriptive Analysis)",
+      "Lexicon Governance",
+      "Consensus Architecture",
+      "Spectrum Method Strategy",
+      "Multivariate Mapping Logic",
+      "Temporal Profiling Strategy"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Sensory Facilities: Lab Design & Environmental Control",
+    "topics": [
+      "Environmental Isolation Logic",
+      "Lighting & Color Governance",
+      "Neutralization Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Panel Governance: Recruitment, Training & Motivation",
+    "topics": [
+      "Selection & Acuity Logic",
+      "Calibration & Maintenance Strategy"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Affective Logic: Consumer Preference & Hedonic Testing",
+    "topics": [
+      "Hedonic Scale Logic",
+      "Preference Governance",
+      "JAR (Just-About-Right) Strategy",
+      "Internal vs. External Preference Mapping",
+      "Qualitative Consumer Governance",
+      "Home-Use Test (HUT) Architecture",
+      "Penalty Analysis Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Texture Architecture: Rheology & Mouthfeel Logic",
+    "topics": [
+      "Viscoelastic Logic",
+      "TPA Strategy (Texture Profile Analysis)",
+      "Tribology Governance"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Aroma Logic: GC-O & Molecular Profiling",
+    "topics": [
+      "Volatile Structural Logic",
+      "GC-O Governance (Gas Chromatography-Olfactometry)",
+      "Odor Activity Value (OAV) Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Shelf-Life Logic: Sensory Stability & Degradation Mapping",
+    "topics": [
+      "Degradation Logic",
+      "Accelerated Stability Governance",
+      "Survival Analysis Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Data Infrastructure: Sensory Software & Statistical Modeling",
+    "topics": [
+      "ANOVA & Significance Logic",
+      "PCA & Cluster Governance",
+      "Predictive Modeling Strategy"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Global Standards: ISO & ASTM Sensory Guidelines",
+    "topics": [
+      "ISO Framework Logic",
+      "ASTM Governance",
+      "Ethical & Safety Architecture"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Digital Senses & AI-Driven Formulation",
+    "topics": [
+      "Digital Olfaction & \"E-Nose\" Logic",
+      "AI-Powered Sensory Modeling"
+    ]
+  }
+]

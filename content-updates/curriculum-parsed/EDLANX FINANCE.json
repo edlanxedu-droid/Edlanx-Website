@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Fiscal Blueprint: Foundations",
+    "topics": [
+      "The Language of Capital",
+      "Transactional Integrity"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Monetary Logic: Time Value of Money",
+    "topics": [
+      "The Math of Wealth (PV & FV)",
+      "Annuity & Perpetuity Architecture",
+      "Compounding & Discounting Dynamics",
+      "The Inflation Blueprint"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Professional Edge: Excel for Finance",
+    "topics": [
+      "Financial Data Engineering",
+      "Dynamic Model Architecture",
+      "Visual Reporting Logic",
+      "Sensitivity & Scenario Modeling",
+      "Automated Auditing & Error Handling rends",
+      "Macro Logic & Process Efficiency"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Corporate Finance",
+    "topics": [
+      "Capital Structure Logic",
+      "Capital Budgeting Masterystery",
+      "Dividend & Payout Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Valuation Engineering: Equity Analysis",
+    "topics": [
+      "Intrinsic Value Logic (DCF)",
+      "Relative Valuation Architecture"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Portfolios: Investment Logic",
+    "topics": [
+      "Modern Portfolio Theory (MPT)",
+      "Asset Allocation Strategy",
+      "The Efficient Frontier",
+      "Alpha & Beta Performance Metrics",
+      "Rebalancing & Tactical Logic",
+      "Capital Asset Pricing Model (CAPM)",
+      "Active vs. Passive Architecture"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Market Interaction: Derivatives & Risk",
+    "topics": [
+      "The Hedging Shield",
+      "Derivative Pricing Logic",
+      "Speculative vs. Protective Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation: Financial Ratios",
+    "topics": [
+      "Liquidity & Solvency Auditingration Testing",
+      "Profitability & Efficiency Logic",
+      "Du Pont Analysiseering Practices"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Banking Logic: Debt & Credit Markets",
+    "topics": [
+      "Fixed Income Architecture",
+      "Credit Risk Assessment",
+      "The Central Bank Protocol"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch: The Global Analyst",
+    "topics": [
+      "The Equity Research Report",
+      "Financial Storytelling",
+      "The Edlanx Huddle"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "The Fiduciary Guard",
+      "Fintech & Digital Transformation",
+      "Fiscal Integrity Standards"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Decentralized Finance (DeFi)",
+    "topics": [
+      "The Blockchain Ledger",
+      "The Future of Capital"
+    ]
+  }
+]

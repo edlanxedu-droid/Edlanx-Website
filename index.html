@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Edlanx | Skill-Based Career Programs for Students & Professionals</title>
+<meta name="description" content="Edlanx is a career-outcome-focused EdTech platform offering skill-based programs across CSE/IT, ECE, Mechanical, Civil, Management & Commerce, and Bio & Life Sciences, with ISO certified certification, resume support, and placement support.">
+<link rel="icon" href="assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+</head>
+<body>
+
+<header class="nav">
+  <div class="container nav-inner">
+    <a href="/"><img class="nav-logo" src="assets/logo/edlanx-logo-on-light.png" alt="Edlanx"></a>
+    <nav aria-label="Primary">
+      <ul class="nav-links">
+        <li><a href="/" aria-current="page">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li class="nav-dropdown">
+          <button class="nav-dropdown-toggle">Departments <i class="ph ph-caret-down"></i></button>
+          <div class="nav-dropdown-panel">
+            <a class="nav-dropdown-item" href="departments/department.html?slug=cse-it"><strong>CSE / IT</strong><span>Software, AI, data & cloud</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=ece"><strong>ECE</strong><span>Electronics, IoT & robotics</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=mechanical"><strong>Mechanical</strong><span>CAD, design & automotive</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=civil"><strong>Civil</strong><span>Structures & construction</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=management"><strong>Management & Commerce</strong><span>Finance, marketing & analytics</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=bio-life-sciences"><strong>Bio & Life Sciences</strong><span>Healthcare & biotech</span></a>
+          </div>
+        </li>
+        <li><a href="pricing.html">Pricing</a></li>
+        <li><a href="register.html">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="nav-cta">
+      <a class="btn btn-outline-dark btn-sm call-btn" href="tel:+919360840496"><i class="ph ph-phone"></i> <span class="call-label">Call</span></a>
+      <a class="btn btn-primary btn-sm" href="#" data-open-register data-course="">Register</a>
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<div class="mobile-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li>
+      <button class="mobile-sub-toggle">Departments <i class="ph ph-caret-down"></i></button>
+      <div class="mobile-sub">
+        <a href="departments/department.html?slug=cse-it">CSE / IT</a>
+        <a href="departments/department.html?slug=ece">ECE</a>
+        <a href="departments/department.html?slug=mechanical">Mechanical</a>
+        <a href="departments/department.html?slug=civil">Civil</a>
+        <a href="departments/department.html?slug=management">Management & Commerce</a>
+        <a href="departments/department.html?slug=bio-life-sciences">Bio & Life Sciences</a>
+      </div>
+    </li>
+    <li><a href="pricing.html">Pricing</a></li>
+    <li><a href="register.html">Contact</a></li>
+  </ul>
+  <a class="btn btn-primary btn-block" href="#" data-open-register>Register Now</a>
+</div>
+
+<main>
+
+  <section class="hero">
+    <div class="hero-glow hero-glow-1"></div>
+    <div class="hero-glow hero-glow-2"></div>
+    <div class="container hero-grid">
+      <div>
+        <span class="hero-eyebrow"><i class="ph-fill ph-star"></i> 4.9 rated by learners</span>
+        <h1 class="text-display">Fuel your skills. Launch your <em>future.</em></h1>
+        <p>Hands-on learning, real-world outcomes, and a community built for growth, across six career domains, with ISO certified certification on every plan.</p>
+        <div class="hero-ctas">
+          <a class="btn btn-primary" href="departments/index.html">Explore Courses</a>
+          <a class="btn btn-outline-light" href="#" data-open-register>Register Now</a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-visual-photo">
+          <img src="/assets/images/covers/hero-student.jpg" alt="Edlanx learner working on a laptop">
+        </div>
+        <div class="hero-float-card hero-float-card-1">
+          <i class="ph-fill ph-certificate"></i>
+          <div><strong>ISO Certified</strong><span>Every certificate</span></div>
+        </div>
+        <div class="hero-float-card hero-float-card-2">
+          <i class="ph-fill ph-briefcase"></i>
+          <div><strong>Placement Support</strong><span>On select plans</span></div>
+        </div>
+        <div class="hero-float-card hero-float-card-3">
+          <i class="ph-fill ph-users-three"></i>
+          <div><strong>45+ Courses</strong><span>6 career domains</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="stat-strip">
+        <div><div class="stat-num" data-count="6">0</div><div class="stat-label">Career domains</div></div>
+        <div><div class="stat-num" data-count="45" data-suffix="+">0</div><div class="stat-label">Skill-based courses</div></div>
+        <div><div class="stat-num">ISO</div><div class="stat-label">Certified certification</div></div>
+        <div><div class="stat-num" data-count="100" data-suffix="%">0</div><div class="stat-label">Practical, hands-on training</div></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="ticker">
+    <div class="ticker-track">
+      <span>ISO Certified Certification</span><span class="ticker-dot"></span>
+      <span>45+ Skill-Based Courses</span><span class="ticker-dot"></span>
+      <span>Registered Private Limited Company</span><span class="ticker-dot"></span>
+      <span>6 Career Domains</span><span class="ticker-dot"></span>
+      <span>Live + Recorded Classes</span><span class="ticker-dot"></span>
+      <span>ISO Certified Certification</span><span class="ticker-dot"></span>
+      <span>45+ Skill-Based Courses</span><span class="ticker-dot"></span>
+      <span>Registered Private Limited Company</span><span class="ticker-dot"></span>
+      <span>6 Career Domains</span><span class="ticker-dot"></span>
+      <span>Live + Recorded Classes</span><span class="ticker-dot"></span>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="eyebrow">Career domains</span>
+        <h2 class="text-h1">Find the right path for your career growth</h2>
+        <p>Explore structured learning paths designed to match your goals, skills, and future career opportunities.</p>
+      </div>
+      <div class="domain-grid reveal-stagger">
+        <a href="departments/department.html?slug=cse-it" class="domain-card is-dark">
+          <div class="domain-icon"><i class="ph ph-cpu"></i></div>
+          <div>
+            <h3 class="text-h3">CSE / IT</h3>
+            <p>Build future-ready digital skills in software, AI, data, cloud, and application development.</p>
+          </div>
+          <span class="domain-link">16 courses <i class="ph ph-arrow-right"></i></span>
+        </a>
+        <a href="departments/department.html?slug=ece" class="domain-card">
+          <div class="domain-icon"><i class="ph ph-circuitry"></i></div>
+          <div>
+            <h3 class="text-h3">ECE</h3>
+            <p>Smart electronic systems, automation, robotics, and next-gen technologies.</p>
+          </div>
+          <span class="domain-link">6 courses <i class="ph ph-arrow-right"></i></span>
+        </a>
+        <a href="departments/department.html?slug=mechanical" class="domain-card">
+          <div class="domain-icon"><i class="ph ph-gear-six"></i></div>
+          <div>
+            <h3 class="text-h3">Mechanical</h3>
+            <p>Design, modeling, and innovation for mechanical and automotive systems.</p>
+          </div>
+          <span class="domain-link">3 courses <i class="ph ph-arrow-right"></i></span>
+        </a>
+        <a href="departments/department.html?slug=civil" class="domain-card">
+          <div class="domain-icon"><i class="ph ph-buildings"></i></div>
+          <div>
+            <h3 class="text-h3">Civil</h3>
+            <p>Plan, design, and manage modern infrastructure and construction projects.</p>
+          </div>
+          <span class="domain-link">2 courses <i class="ph ph-arrow-right"></i></span>
+        </a>
+        <a href="departments/department.html?slug=management" class="domain-card">
+          <div class="domain-icon"><i class="ph ph-chart-line-up"></i></div>
+          <div>
+            <h3 class="text-h3">Management & Commerce</h3>
+            <p>Business, finance, marketing, analytics, and corporate strategy foundations.</p>
+          </div>
+          <span class="domain-link">12 courses <i class="ph ph-arrow-right"></i></span>
+        </a>
+        <a href="departments/department.html?slug=bio-life-sciences" class="domain-card">
+          <div class="domain-icon"><i class="ph ph-dna"></i></div>
+          <div>
+            <h3 class="text-h3">Bio & Life Sciences</h3>
+            <p>Healthcare, biotechnology, genetics, and pharmaceutical technologies.</p>
+          </div>
+          <span class="domain-link">10 courses <i class="ph ph-arrow-right"></i></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="eyebrow">Trending courses</span>
+        <h2 class="text-h1">Learn the skills that power the future</h2>
+        <p>Industry-focused courses designed to help you stay ahead in a rapidly changing world.</p>
+      </div>
+      <div class="course-grid reveal-stagger" id="trending-courses"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="eyebrow">Why choose Edlanx</span>
+        <h2 class="text-h1">The learning partner you can trust</h2>
+      </div>
+      <div class="feature-photo-grid">
+        <div class="feature-row-list reveal-stagger">
+          <div class="feature-row">
+            <div class="feature-icon"><i class="ph ph-target"></i></div>
+            <div>
+              <h3 class="text-h3">Industry-relevant learning</h3>
+              <p>Courses designed based on current industry trends, tools, and real-world job requirements, so what you learn is what employers are actually hiring for.</p>
+            </div>
+          </div>
+          <div class="feature-row">
+            <div class="feature-icon"><i class="ph ph-hammer"></i></div>
+            <div>
+              <h3 class="text-h3">Practical & hands-on training</h3>
+              <p>Work on real projects and gain experience that prepares you for actual careers, not just certificates.</p>
+            </div>
+          </div>
+          <div class="feature-row">
+            <div class="feature-icon"><i class="ph ph-map-trifold"></i></div>
+            <div>
+              <h3 class="text-h3">Transparent & structured learning</h3>
+              <p>Clear learning paths, no confusion, just focused growth from start to finish.</p>
+            </div>
+          </div>
+        </div>
+        <div class="feature-photo reveal">
+          <img src="/assets/images/covers/why-choose-home.jpg" alt="Edlanx learner celebrating success">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-dark">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="eyebrow" style="color: var(--orange-500);">Our mission</span>
+        <h2 class="text-h1">Driven by purpose. Shaped by vision.</h2>
+      </div>
+      <div class="domain-grid mission-grid reveal-stagger">
+        <div class="domain-card is-dark">
+          <div class="domain-icon"><i class="ph ph-compass"></i></div>
+          <div>
+            <h3 class="text-h3">Our mission</h3>
+            <p>Bridge the gap between education and real-world careers by delivering skill-based, career-first learning that is practical, accessible, and future-focused, equipping students with industry-relevant knowledge, hands-on experience, and expert mentorship.</p>
+          </div>
+        </div>
+        <div class="domain-card is-dark">
+          <div class="domain-icon"><i class="ph ph-eye"></i></div>
+          <div>
+            <h3 class="text-h3">Our vision</h3>
+            <p>Become India's most trusted multi-domain skill development and career launch ecosystem, turning students' potential into meaningful success from school to professional level.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="eyebrow">Trust & recognition</span>
+        <h2 class="text-h1">A registered, certified institution</h2>
+      </div>
+      <div class="domain-grid reveal-stagger">
+        <div class="domain-card">
+          <div class="domain-icon"><i class="ph ph-seal-check"></i></div>
+          <div>
+            <h3 class="text-h3">Registered private limited company</h3>
+            <p>Edlanx Private Limited is a registered company under the Companies Act, headquartered in Bangalore, India.</p>
+          </div>
+        </div>
+        <div class="domain-card">
+          <div class="domain-icon"><i class="ph ph-certificate"></i></div>
+          <div>
+            <h3 class="text-h3">ISO certified</h3>
+            <p>Our certification is issued by an IAF (International Accreditation Forum) accredited certifying body, so every course certificate you earn is ISO certified.</p>
+          </div>
+        </div>
+        <div class="domain-card">
+          <div class="domain-icon"><i class="ph ph-users-three"></i></div>
+          <div>
+            <h3 class="text-h3">Resumes go straight to hiring HRs</h3>
+            <p>As part of placement support, we forward shortlisted students' resumes to our network of HR contacts across industries, so recruiters can reach out directly for roles that fit your profile.</p>
+          </div>
+        </div>
+      </div>
+      <!--
+        Deliberately no named "company network" / partner logos here.
+        Edlanx confirmed there is no consented tie-up with any specific
+        employer, so naming or logo-ing companies would be a
+        false-affiliation claim (ASCI + trademark risk). The card above
+        describes the real mechanism (resume forwarding to an HR
+        contact network) without naming or implying partnership with
+        any specific company.
+      -->
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band reveal">
+        <div>
+          <h2 class="text-h2">Ready to start your career journey?</h2>
+          <p style="margin-top:8px; opacity:0.92;">Talk to an academic counsellor and find the right program for your goals.</p>
+        </div>
+        <a class="btn btn-dark" href="#" data-open-register>Register Now</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<div id="register-modal" class="modal-overlay">
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button class="modal-close" aria-label="Close"><i class="ph ph-x"></i></button>
+    <h3 id="modal-title" class="text-h2" style="margin-bottom:4px;">Talk to a counsellor</h3>
+    <p class="text-body" style="color:var(--color-text-secondary); margin-bottom:var(--space-4);">Leave your details and we'll call you back within one business day.</p>
+    <form data-lead-form data-source="register_modal">
+      <div class="form-grid">
+        <div class="form-field full"><label>Full name</label><input type="text" name="full_name" required placeholder="Your full name"><span class="form-error"></span></div>
+        <div class="form-field"><label>Email</label><input type="email" name="email" required placeholder="you@email.com"><span class="form-error"></span></div>
+        <div class="form-field"><label>Phone</label><input type="tel" name="phone" required placeholder="10-digit mobile number"><span class="form-error"></span></div>
+        <div class="form-field full"><label>Course interested in</label>
+          <select name="course_interest">
+            <option value="">Not sure yet</option>
+            <option>CSE / IT</option><option>ECE</option><option>Mechanical</option><option>Civil</option><option>Management & Commerce</option><option>Bio & Life Sciences</option>
+          </select>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary btn-block" style="margin-top: var(--space-3);">Submit</button>
+      <div class="form-status"></div>
+    </form>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="assets/logo/edlanx-logo-on-dark.png" alt="Edlanx" style="height:28px;">
+        <p>Career-outcome-focused skilling platform for students and professionals across India. Resume support and placement support on select plans, ISO certified certification on every plan.</p>
+        <div class="footer-social">
+          <a href="https://www.instagram.com/edlanxofficial" aria-label="Instagram" target="_blank" rel="noopener"><i class="ph ph-instagram-logo"></i></a>
+          <a href="https://www.linkedin.com/company/edlanx/" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="ph ph-linkedin-logo"></i></a>
+          <a href="https://www.facebook.com/61574262262058" aria-label="Facebook" target="_blank" rel="noopener"><i class="ph ph-facebook-logo"></i></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <ul><li><a href="about.html">About</a></li><li><a href="departments/index.html">Departments</a></li><li><a href="pricing.html">Pricing</a></li><li><a href="register.html">Contact</a></li></ul>
+      </div>
+      <div class="footer-col">
+        <h4>Departments</h4>
+        <ul>
+          <li><a href="departments/department.html?slug=cse-it">CSE / IT</a></li>
+          <li><a href="departments/department.html?slug=ece">ECE</a></li>
+          <li><a href="departments/department.html?slug=management">Management & Commerce</a></li>
+          <li><a href="departments/department.html?slug=bio-life-sciences">Bio & Life Sciences</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Head office</h4>
+        <ul>
+          <li>Bangalore, India</li>
+          <li><a href="tel:+919360840496">+91 93608 40496</a></li>
+          <li><a href="mailto:support@edlanx.com">support@edlanx.com</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Edlanx Private Limited. All rights reserved.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/courses-data.js"></script>
+<script src="js/main.js"></script>
+<script>
+  const trendingSlugs = ["full-stack-web-development", "data-science", "cyber-security"];
+  const trendingHtml = trendingSlugs.map((slug, i) => {
+    const c = getCourse(slug);
+    return `<a class="card course-card reveal" href="course.html?slug=${c.slug}">
+      ${courseThumbHtml(c, i)}
+      <span class="course-tag">${DEPARTMENTS.find(d => d.slug === c.departments[0]).name}</span>
+      <h3 class="text-h3">${c.name}</h3>
+      <p>${c.shortDescription}</p>
+      <div class="course-meta"><i class="ph ph-clock"></i> ${c.duration}</div>
+      <span class="course-link">View curriculum <i class="ph ph-arrow-right"></i></span>
+    </a>`;
+  }).join("");
+  document.getElementById("trending-courses").innerHTML = trendingHtml;
+</script>
+</body>
+</html>

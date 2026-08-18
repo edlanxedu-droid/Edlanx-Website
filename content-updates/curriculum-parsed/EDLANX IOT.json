@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The System Blueprint: IoT Architecture",
+    "topics": [
+      "Layered Logic",
+      "Edge vs. Cloud Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Node Architecture: Low-Power Hardware",
+    "topics": [
+      "SoC Logic",
+      "Energy Governance",
+      "Sensor Interface Logic",
+      "Memory & Storage Architecture"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Communication Architecture: IP-Based Protocols",
+    "topics": [
+      "MQTT Logic",
+      "HTTP/REST Governance",
+      "CoAP Engineering",
+      "WebSocket Logic",
+      "Data Serialization Blueprint",
+      "Network Layer Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Wireless Logic: Short-Range Connectivity",
+    "topics": [
+      "BLE Architecture",
+      "Zigbee & Mesh Governance",
+      "Wi-Fi Strategy"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "LPWAN Architecture: Long-Range Connectivity",
+    "topics": [
+      "LoRaWAN Logic",
+      "NB-IoT & LTE-M Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Gateway Logic: Edge Computing & Routing",
+    "topics": [
+      "Edge Processing Architecture",
+      "Protocol Translation Governance",
+      "Fog Computing Logic",
+      "Local Rule Engineering",
+      "Device Shadow Architecture",
+      "Gateway Security Governance",
+      "Multi-Tenant Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Cloud Architecture: AWS & Azure IoT Integration",
+    "topics": [
+      "Provisioning Logic",
+      "Device Shadow Architecture",
+      "Rules Engine Governance"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Data Governance: Timeseries & Visualization",
+    "topics": [
+      "Timeseries Logic",
+      "Hot & Cold Storage Strategy",
+      "Dashboard Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Security Architecture: End-to-End Encryption",
+    "topics": [
+      "Encryption Logic",
+      "Identity & Access Governance",
+      "Threat Modeling Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Industrial IoT (IIoT): OPC-UA & Industry 4.0",
+    "topics": [
+      "Legacy Integration Logic",
+      "OPC-UA Architecture",
+      "Predictive Maintenance Blueprint"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "OTA Logic: Over-the-Air Firmware Updates",
+    "topics": [
+      "Update Pipeline Architecture",
+      "Rollback & Recovery Governance",
+      "Secure Boot Architecture"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: NB-IoT, 6G & Edge AI",
+    "topics": [
+      "Cellular IoT Logic",
+      "Generative IoT Architecture"
+    ]
+  }
+]

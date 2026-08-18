@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Register / Contact Us | Edlanx</title>
+<meta name="description" content="Register your interest or get in touch with Edlanx. Talk to an academic counsellor about courses, plans, and admissions.">
+<link rel="icon" href="assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+</head>
+<body>
+
+<header class="nav">
+  <div class="container nav-inner">
+    <a href="/"><img class="nav-logo" src="assets/logo/edlanx-logo-on-light.png" alt="Edlanx"></a>
+    <nav aria-label="Primary">
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li class="nav-dropdown">
+          <button class="nav-dropdown-toggle">Departments <i class="ph ph-caret-down"></i></button>
+          <div class="nav-dropdown-panel">
+            <a class="nav-dropdown-item" href="departments/department.html?slug=cse-it"><strong>CSE / IT</strong><span>Software, AI, data & cloud</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=ece"><strong>ECE</strong><span>Electronics, IoT & robotics</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=mechanical"><strong>Mechanical</strong><span>CAD, design & automotive</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=civil"><strong>Civil</strong><span>Structures & construction</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=management"><strong>Management & Commerce</strong><span>Finance, marketing & analytics</span></a>
+            <a class="nav-dropdown-item" href="departments/department.html?slug=bio-life-sciences"><strong>Bio & Life Sciences</strong><span>Healthcare & biotech</span></a>
+          </div>
+        </li>
+        <li><a href="pricing.html">Pricing</a></li>
+        <li><a href="register.html" aria-current="page">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="nav-cta">
+      <a class="btn btn-outline-dark btn-sm call-btn" href="tel:+919360840496"><i class="ph ph-phone"></i> <span class="call-label">Call</span></a>
+      <a class="btn btn-primary btn-sm" href="#form">Register</a>
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<div class="mobile-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li>
+      <button class="mobile-sub-toggle">Departments <i class="ph ph-caret-down"></i></button>
+      <div class="mobile-sub">
+        <a href="departments/department.html?slug=cse-it">CSE / IT</a>
+        <a href="departments/department.html?slug=ece">ECE</a>
+        <a href="departments/department.html?slug=mechanical">Mechanical</a>
+        <a href="departments/department.html?slug=civil">Civil</a>
+        <a href="departments/department.html?slug=management">Management & Commerce</a>
+        <a href="departments/department.html?slug=bio-life-sciences">Bio & Life Sciences</a>
+      </div>
+    </li>
+    <li><a href="pricing.html">Pricing</a></li>
+    <li><a href="register.html">Contact</a></li>
+  </ul>
+  <a class="btn btn-primary btn-block" href="#form">Register Now</a>
+</div>
+
+<main>
+  <section class="dept-hero">
+    <div class="container dept-hero-grid">
+      <div>
+        <span class="hero-eyebrow">Get in touch</span>
+        <h1 class="text-display">Let's find your right course</h1>
+        <p>Fill in your details and an Edlanx academic counsellor will call you back to walk you through courses, plans, and admissions.</p>
+      </div>
+      <div class="dept-hero-photo"><img src="/assets/images/covers/register-hero.jpg" alt="Edlanx academic counsellor ready to help"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div style="display:grid; grid-template-columns: 1fr 1fr; gap: var(--space-6); align-items: start;" id="contact-grid">
+        <div class="card reveal" id="form" style="padding: var(--space-5);">
+          <h2 class="text-h2" style="margin-bottom:4px;">Register your interest</h2>
+          <p class="text-body" style="color:var(--color-text-secondary); margin-bottom:var(--space-4);">We typically respond within one business day.</p>
+          <form data-lead-form data-source="register_page">
+            <div class="form-grid">
+              <div class="form-field full"><label>Full name</label><input type="text" name="full_name" required placeholder="Your full name"><span class="form-error"></span></div>
+              <div class="form-field"><label>Email</label><input type="email" name="email" required placeholder="you@email.com"><span class="form-error"></span></div>
+              <div class="form-field"><label>Phone</label><input type="tel" name="phone" required placeholder="10-digit mobile number"><span class="form-error"></span></div>
+              <div class="form-field full"><label>Course interested in</label>
+                <select name="course_interest">
+                  <option value="">Not sure yet</option>
+                  <option>CSE / IT</option><option>ECE</option><option>Mechanical</option><option>Civil</option><option>Management & Commerce</option><option>Bio & Life Sciences</option>
+                </select>
+              </div>
+              <div class="form-field full"><label>Message (optional)</label><textarea name="message" rows="4" placeholder="Tell us a bit about your goals"></textarea></div>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block" style="margin-top: var(--space-3);">Submit</button>
+            <div class="form-status"></div>
+            <p class="form-note" style="margin-top: var(--space-3);">By submitting, you agree to be contacted by Edlanx about your enquiry.</p>
+          </form>
+        </div>
+
+        <div class="reveal">
+          <div class="feature-row-list" style="margin-bottom: var(--space-5);">
+            <div class="feature-row">
+              <div class="feature-icon"><i class="ph ph-map-pin"></i></div>
+              <div><h3 class="text-h3">Head office</h3><p>Bangalore, India</p></div>
+            </div>
+            <div class="feature-row">
+              <div class="feature-icon"><i class="ph ph-phone"></i></div>
+              <div><h3 class="text-h3">Call us</h3><p><a href="tel:+919360840496">+91 93608 40496</a></p></div>
+            </div>
+            <div class="feature-row">
+              <div class="feature-icon"><i class="ph ph-envelope-simple"></i></div>
+              <div><h3 class="text-h3">Email us</h3><p><a href="mailto:support@edlanx.com">support@edlanx.com</a></p></div>
+            </div>
+          </div>
+          <div class="card" style="padding: var(--space-4);">
+            <h3 class="text-h3" style="margin-bottom: var(--space-2);">Follow Edlanx</h3>
+            <div class="footer-social" style="margin-top: var(--space-2);">
+              <a href="https://www.instagram.com/edlanxofficial" aria-label="Instagram" target="_blank" rel="noopener" style="border-color: var(--color-border); color: var(--black-900);"><i class="ph ph-instagram-logo"></i></a>
+              <a href="https://www.linkedin.com/company/edlanx/" aria-label="LinkedIn" target="_blank" rel="noopener" style="border-color: var(--color-border); color: var(--black-900);"><i class="ph ph-linkedin-logo"></i></a>
+              <a href="https://www.facebook.com/61574262262058" aria-label="Facebook" target="_blank" rel="noopener" style="border-color: var(--color-border); color: var(--black-900);"><i class="ph ph-facebook-logo"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="assets/logo/edlanx-logo-on-dark.png" alt="Edlanx" style="height:28px;">
+        <p>Career-outcome-focused skilling platform for students and professionals across India. Resume support and placement support on select plans, ISO certified certification on every plan.</p>
+        <div class="footer-social">
+          <a href="https://www.instagram.com/edlanxofficial" aria-label="Instagram" target="_blank" rel="noopener"><i class="ph ph-instagram-logo"></i></a>
+          <a href="https://www.linkedin.com/company/edlanx/" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="ph ph-linkedin-logo"></i></a>
+          <a href="https://www.facebook.com/61574262262058" aria-label="Facebook" target="_blank" rel="noopener"><i class="ph ph-facebook-logo"></i></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <ul><li><a href="about.html">About</a></li><li><a href="departments/index.html">Departments</a></li><li><a href="pricing.html">Pricing</a></li><li><a href="register.html">Contact</a></li></ul>
+      </div>
+      <div class="footer-col">
+        <h4>Departments</h4>
+        <ul>
+          <li><a href="departments/department.html?slug=cse-it">CSE / IT</a></li>
+          <li><a href="departments/department.html?slug=ece">ECE</a></li>
+          <li><a href="departments/department.html?slug=management">Management & Commerce</a></li>
+          <li><a href="departments/department.html?slug=bio-life-sciences">Bio & Life Sciences</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Head office</h4>
+        <ul>
+          <li>Bangalore, India</li>
+          <li><a href="tel:+919360840496">+91 93608 40496</a></li>
+          <li><a href="mailto:support@edlanx.com">support@edlanx.com</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Edlanx Private Limited. All rights reserved.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/courses-data.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

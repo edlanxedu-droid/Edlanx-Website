@@ -1,0 +1,248 @@
+HYBRID ELECTRIC VEHICLE
+
+  Engineering the Structural Logic of Dual-Power
+  Propulsion Systems
+
+   A project-first certification designed to master Powertrain Integration,
+   Battery Management Systems (BMS), and the structural engineering of
+   multi-mode mobility.
+THE EDLANX
+METHODOLOGY
+
+OUR HEV ENGINEERING PHILOSOPHY
+
+At Edlanx, we don’t just teach "electric motors"; we cultivate a powertrain-
+architect mindset. Our program is a deep dive into the synergy between
+internal combustion and electric torque. We believe in Optimized Efficiency—
+moving beyond simple batteries to build robust, intelligent energy loops that
+ensure maximum range and performance in the global green mobility market.
+
+THE FOUR PILLARS OF MASTERY
+
+Powertrain Logic    Master the core architecture of Series, Parallel, and Power-
+                    Split hybrid configurations.
+
+Energy Governance Learn the structural logic of Battery Management Systems, SoC
+                                (State of Charge) estimation, and thermal safety.
+
+Control Engineering Understand the engineering of Vehicle Control Units (VCU) and
+                                regenerative braking logic.
+
+System Integration  Bring your designs to life by mastering the structural link
+                    between high-voltage electronics and mechanical
+                    drivetrains.
+
+                                                                                 EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The System Blueprint: Hybrid Configurations
+
+    1.1 Series Architecture
+    1.2 Parallel Governance
+
+02 Energy Architecture: Battery Management Systems (BMS)
+                          2.1 Cell Logic
+                          2.2 SoC & SoH Governance
+                          2.3 Thermal Blueprinting
+                          2.4 Safety & Isolation Architecture
+
+03 Traction Architecture: Electric Motors & Inverters
+                        3.1 Motor Logic
+                        3.2 Inverter Governance
+                        3.3 Torque Architecture
+                        3.4 Field Oriented Control (FOC) Logic
+                        3.5 Efficiency Mapping
+                        3.6 Back-EMF & Sensing Logic
+
+                                                                EDLANX
+04  Power Electronics: DC-DC & Charging Logic
+
+    4.1 Converter Architecture
+
+    4.2 Charging Governance
+
+    4.3 Isolation Logic
+
+05  Control Architecture: Vehicle Control Unit (VCU)
+
+    5.1 Supervisory Logic
+
+    5.2 Torque Splitting Architecture
+
+06  Regenerative Logic: Braking & Energy Recovery
+
+    6.1 Kinetic Architecture
+
+    6.2 Brake Blending Governance
+
+    6.3 Efficiency Recovery Logic
+
+    6.4 State-of-Charge (SoC) Constraints
+
+    6.5 One-Pedal Driving Logic
+    6.6 Stability Control Integration
+    6.7 Cooperative Braking Architecture
+
+07  Transmission Architecture: e-CVT & DHT
+
+    7.1 Planetary Gear Logic
+
+    7.2 Multi-Mode Governance
+
+    7.3 Lubrication Architecture
+
+08  Thermal Management: Integrated System Cooling
+
+    8.1 Multi-Circuit Logic
+    8.2 Heat Pump Architecture
+    8.3 Valve Governance
+
+                                                      EDLANX
+09  Modeling & Simulation: MATLAB/Simulink Foundations
+10  9.1 Plant Modeling Logic
+    9.2 Control Logic Simulation
+    9.3 Model-in-the-Loop (MiL) Architecture
+
+    Diagnostic Logic: OBD & High-Voltage Safety
+
+    10.1 Diagnostic Governance
+    10.2 Service Safety Architecture
+    10.3 Interlock Logic
+
+11  E/E Architecture: Communication & CAN-FD
+
+    11.1 Bus Architecture
+    11.2 Signal Integrity Logic
+    11.3 CAN-FD Governance
+
+12  Future Frontiers: Fuel Cells & Solid-State Hybrids
+
+    12.1 Hydrogen Logic
+    12.2 Next-Gen Storage Blueprinting
+
+                                                        EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                          EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond basic electronics to bridge the gap between
+                  "circuits" and high-level vehicle engineering. Our Hybrid Electric
+                  Vehicle syllabus is a deep immersion into Dual-Power integration
+                  logic, Battery Management Systems (BMS), and the complex
+                  control strategies required by global automotive OEMs.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at our
+    Bangalore Operational Center. At Edlanx, you won't just study
+    motors; you will be treated as a Powertrain Engineer, working
+    within real organizational frameworks to architect energy-
+    management loops and manage high-voltage data flow.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Automotive Architects and EV
+       Systems Leads through structured mentoring and rigorous
+       performance evaluations. We focus on developing your ability
+       to solve complex torque-split hurdles and thermal-runaway
+       risks with the precision required for production-ready
+       vehicles.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like MATLAB/Simulink, Ansys,
+    and CAN Analyzers while learning essential professional
+    competencies. We believe in experiential learning and reward
+    innovative energy-recovery or powertrain breakthroughs with
+    performance-based stipends, ensuring you remain driven toward
+    technical mastery.
+
+                                                                                                          EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete Vehicle
+    Development Lifecycle, from initial plant modeling to final high-
+    voltage diagnostic validation. Our career guidance includes
+    technical resume engineering and mock "Design Gate Reviews"
+    designed to help you secure elite roles in R&D centers globally.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead a hybrid
+    "sprint," collaborate across mechanical and electronic domains,
+    and grow your network within an elite community of engineers,
+    developers, and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                           EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every energy management strategy and BMS control algorithm you architect
+                 at Edlanx serves as a live, audit-ready demonstration of your ability to manage
+                 the deterministic complexity of modern zero-emission mobility.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading R&D teams at global Automotive OEMs, Tier-1 suppliers, and
+                 emerging EV startups.
+
+Career Excellence We move beyond basic component knowledge to provide the technical
+                            resume engineering and systems-integration logic needed to lead the future
+                            of "Smart Mobility" and the global transition to electrified transport.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in 800V architectures, Solid-State Battery integration,
+and AI-driven predictive energy management. Your success is our shared
+mission.
+
+DIRECT MENTORSHIP
+
+                                                                           Engineering a reliable hybrid powertrain requires
+                                                                           absolute mathematical and thermal precision.
+                                                                           Whether you are optimizing a torque-split algorithm
+                                                                           for a planetary gear set, designing a thermal
+                                                                           management loop for a high-density battery pack, or
+                                                                           architecting a CAN-FD communication matrix, our
+                                                                           senior Automotive Architects are available to provide
+                                                                           the direct, technical feedback needed to ensure your
+                                                                           systems are production-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                             EDLANX
+

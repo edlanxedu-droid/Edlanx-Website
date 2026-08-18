@@ -1,0 +1,255 @@
+PHARMACOVIGILANCE
+
+Engineering the Structural Logic of Drug Safety & Risk
+Management
+
+ A project-first certification designed to master ICSR Processing, Signal
+ Detection, and the Governance of Global Safety Databases. Protect
+ patient lives through data integrity.
+THE EDLANX
+METHODOLOGY
+
+OUR VIGILANCE PHILOSOPHY
+
+At Edlanx, we don’t just "report side effects"; we cultivate a Safety Architect's
+mindset. Our program is a deep dive into the causality logic and structural
+reporting requirements of the pharmaceutical industry. We believe in Signal
+Integrity—moving beyond basic data entry to build a robust understanding of
+MedDRA coding, Narrative Writing, and the complex regulatory governance
+required for global compliance.
+
+THE FOUR PILLARS OF MASTERY
+
+Causality Logic  Master the structural assessment of the link between drug
+                 and event.
+Reporting
+Governance       Learn the logic of Expedited vs. Periodic safety reporting.
+
+Database         Master the structural lifecycle of Argus and ArisG safety systems.
+Architecture
+
+Analytical Strategy Bring safety to life by mastering the structural link
+                                between post-market data and proactive risk mitigation.
+
+                                                                                         EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Safety Blueprint: Intro to PV & Regulations
+
+    1.1 Regulatory Logic
+    1.2 Lifecycle Governance
+
+02 ICSR Logic: Individual Case Safety Reports
+                          2.1 Triage Structural Logic
+                          2.2 MedDRA Hierarchical Governance
+                          2.3 Narrative Architecture & Clinical Logic
+                          2.4 Duplicate Search & Data Reconciliation Strategy
+
+03 Assessment Logic: Causality & Seriousness
+                        3.1 Causality Structural Logic
+                        3.2 Expectedness & Labeling Governance
+                        3.3 Seriousness Architecture
+                        3.4 Medical Coding Validation Logic
+                        3.5 Narrative Analysis Strategy
+                        3.6 Outcome & Action Governance
+
+                                                                               EDLANX
+04  Database Logic: Safety System Management
+    (Argus/ArisG)
+
+    4.1 Workflow Structural Logic
+
+    4.2 E2B(R3) Data Governance
+
+    4.3 Database Configuration Architecture
+
+05  Signal Architecture: Detection & Evaluation
+
+    5.1 Qualitative Signal Logic
+
+    5.2 Quantitative Governance (Data Mining)
+
+06  Safety Governance: Risk Management Plans (RMP)
+    & REMS
+
+    6.1 RMP Structural Logic
+
+    6.2 Risk Minimization Governance
+
+    6.3 REMS Architecture (US FDA)
+
+    6.4 Benefit-Risk Strategy
+
+    6.5 Medication Error Infrastructure
+    6.6 Post-Authorization Safety Studies (PASS)
+    6.7 Crisis Governance & Communication
+
+07  Periodic Logic: PSUR, PBRER, & PADER Reporting
+
+    7.1 Aggregate Data Structural Logic
+
+    7.2 Line Listing Governance
+
+    7.3 Submission Strategy
+
+08  Quality Architecture: Audits, Inspections, & SOPs
+
+    8.1 Compliance Structural Logic
+    8.2 Audit & Inspection Governance
+    8.3 Root Cause Analysis (RCA) Strategy
+
+                                                       EDLANX
+09  Toolsets Logic: E2B(R3) Transmission & XML Data
+10
+    9.1 Electronic Reporting Structural Logic
+    9.2 XML Architecture & Validation
+    9.3 Interoperability Strategy
+
+    Financial Logic: The Economics of Safety &
+    Outsourcing
+    10.1 Unit Cost Structural Logic
+    10.2 PV Outsourcing Governance (BPO/KPO)
+    10.3 Regulatory Fine Infrastructure
+
+11  Regulatory Infrastructure: GVP Modules & ICH
+    Guidelines
+
+    11.1 Global Guidelines Structural Logic
+
+    11.2 GVP Module Governance
+    11.3 Health Authority Blueprinting
+
+12  Future Frontiers: AI & Automation in Case
+    Processing
+
+    12.1 Intelligent Automation Structural Logic
+
+    12.2 Social Media & Real-World Evidence Governance
+
+                                                        EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                             EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond basic medical terminology to bridge the gap
+     between clinical healthcare and the industrial rigors of drug safety.
+     Our Pharmacovigilance syllabus is a deep immersion into ICSR
+     Processing, Signal Detection, and Risk Management Plans—the exact
+     technical pillars used by global Pharmacovigilance centers and CROs
+     to protect public health.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-fidelity technical environment at our Bangalore
+    Operational Center. At Edlanx, you won't just study "side
+    effects"; you will be treated as a Safety Architect, working
+    within simulated database environments to master MedDRA
+    coding, navigate narrative writing cycles, and manage the
+    structural integrity of global safety data.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior PV Physicians and Safety
+       Scientists through structured mentoring and performance
+       evaluations. We focus on developing your ability to assess
+       causality using Naranjo scales, troubleshoot coding
+       inconsistencies, and translate complex clinical case reports
+       into concise, regulatory-ready narratives.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard safety databases (like Argus/ArisG)
+    and E2B transmission logic while learning essential professional
+    competencies. We believe in experiential learning and reward
+    breakthroughs in data accuracy or signal identification with
+    performance-based stipends, ensuring you remain focused on
+    technical excellence.
+
+                                                                                                              EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the Safety Lifecycle,
+    from initial case intake and triage to aggregate reporting and
+    health authority inspections. Our career guidance includes mock
+    "Safety Sprints" and technical interviews tailored for top-tier roles
+    in Drug Safety, Regulatory Affairs, and Clinical Research.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, technical integrity,
+    and disciplined ethics. You will learn to lead a "vigilance-sprint,"
+    collaborate across medical and data-entry domains, and grow your
+    network within an elite community of safety professionals and
+    regulatory experts.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                            EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every ICSR you process, every MedDRA code you assign, and every safety
+                 narrative you architect at Edlanx serves as a high-fidelity demonstration of
+                 your ability to safeguard public health through precise data governance.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading safety teams at global pharmaceutical giants, CROs, and regulatory
+                 consulting firms.
+
+Career Excellence We move beyond basic data entry to provide the deep causality logic and
+                           risk-mitigation strategy needed to ensure that life-saving medications
+                           remain safe for millions of patients worldwide.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in GVP Modules, the transition to E2B(R3) standards,
+and the rapid integration of AI-driven automation in case processing. Your
+success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Managing drug safety data and navigating global
+                  regulatory requirements requires absolute clinical precision
+                  and ethical integrity. Whether you are performing a
+                  complex causality assessment on a serious adverse event,
+                  troubleshooting an E2B transmission failure, or interpreting
+                  a new safety signal, our senior PV Physicians and Safety
+                  Scientists provide the direct, technical feedback needed to
+                  ensure your reports are compliant and scientifically sound.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                EDLANX
+

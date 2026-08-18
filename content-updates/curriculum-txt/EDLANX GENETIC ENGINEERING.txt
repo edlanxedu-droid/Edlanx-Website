@@ -1,0 +1,259 @@
+GENETIC ENGINEERING
+
+ Engineering the Structural Logic of Genomic
+ Modification & Bio-Design
+
+  A project-first certification designed to master CRISPR-Cas9, Viral
+  Vectorology, and the Governance of Transgenic Systems. Architect the
+  future of biological function.
+THE EDLANX
+METHODOLOGY
+
+OUR ENGINEERING PHILOSOPHY
+
+At Edlanx, we don’t just "edit genes"; we cultivate a Genomic Architect's
+mindset. Our program is a deep dive into the site-specific logic and structural
+stability of modified organisms. We believe in Design Integrity—moving
+beyond basic PCR to build a robust understanding of knock-out/knock-in
+strategies, metabolic engineering, and the rigorous regulatory governance
+required for biosafety.
+
+THE FOUR PILLARS OF MASTERY
+
+Sequence Logic  Master the structural identification of target loci and PAM
+                sequences.
+Modification
+Governance      Learn the logic of NHEJ and HDR repair pathways.
+
+Vector Architecture Master the structural lifecycle of Plasmid, AAV, and Lentiviral
+                                delivery systems.
+
+Analytical Strategy Bring designs to life by mastering the structural link
+                                between genotype modification and phenotype expression.
+
+                                                                                         EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Genetic Blueprint: Nucleic Acid Architecture
+
+    1.1 Structural Logic
+    1.2 Enzyme Governance
+
+02 Editing Architecture: CRISPR-Cas9 & Beyond
+                          2.1 Guide-RNA Logic
+                          2.2 Pathway Governance (NHEJ vs. HDR)
+                          2.3 Precision Architecture: Base & Prime Editing
+                          2.4 Off-Target Mitigation Strategy
+
+03 Delivery Logic: Viral & Non-Viral Systems
+                        3.1 Adeno-Associated Virus (AAV) Structural Logic
+                        3.2 Lentiviral & Retroviral Governance
+                        3.3 Lipid Nanoparticle (LNP) Architecture
+                        3.4 Electroporation & Physical Strategy
+                        3.5 Hydrodynamic & Biolistic Governance
+                        3.6 Transduction Efficiency Architecture
+
+                                                                            EDLANX
+04  Selection Logic: Markers & Reporter Systems
+
+    4.1 Selectable Marker Structural Logic
+
+    4.2 Reporter Gene Governance (GFP/Luciferase)
+
+    4.3 Screening & Genotyping Strategy
+
+05  Plant Architecture: Agrobacterium & Gene Guns
+
+    5.1 Agrobacterium-Mediated Structural Logic
+
+    5.2 Physical Transformation Governance (Biolistics)
+
+06  Safety Governance: BSL Protocols & Bioethics
+
+    6.1 Biosafety Level (BSL) Structural Logic
+
+    6.2 Bio-Containment Governance
+
+    6.3 Personal Protection Architecture
+
+    6.4 Bioethical Framework Strategy
+
+    6.5 Dual-Use Research Infrastructure
+    6.6 Informed Consent & Equity Logic
+    6.7 Regulatory Compliance Blueprinting
+
+07  Microbial Engineering: Metabolic Pathways &
+    Bio-factories
+
+    7.1 Metabolic Flux Structural Logic
+
+    7.2 Pathway Governance & Feedback
+
+    7.3 Bioprocess Strategy
+
+08  Animal Architecture: Transgenic Models &
+    Xenotransplantation
+
+    8.1 Model Organism Structural Logic
+    8.2 Xenotransplantation Governance
+    8.3 Stem Cell & Organoid Strategy
+
+                                                         EDLANX
+09  Toolsets Logic: Encoding Software &
+10  Abstracting Systems
+
+    9.1 Genomic Alignment Structural Logic
+    9.2 Protein Folding Governance
+    9.3 Synthetic Logic Gate Strategy
+
+    Financial Logic: The Economics of Bio-Pharma & IP
+    10.1 Patent Landscape Structural Logic
+    10.2 Bio-Venture Governance
+    10.3 Market Access Strategy
+
+11  Regulatory Infrastructure: FDA, EMA & RCGM
+    Guidelines
+
+    11.1 Clinical Approval Structural Logic
+
+    11.2 GMO Governance & Biosafety
+
+    11.3 Post-Market Surveillance Strategy
+
+12  Future Frontiers: Synthetic Biology & Gene
+    Drives
+
+    12.1 De Novo Genome Structural Logic
+
+    12.2 Gene Drive Governance & Ecological Engineering
+
+                                                         EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                            EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond basic molecular biology to bridge the gap between
+     theoretical genetics and industrial-scale bio-design. Our Genetic
+     Engineering syllabus is a deep immersion into CRISPR-Cas9, Viral
+     Vectorology, and Metabolic Engineering—the exact technical pillars
+     used by biotech giants and clinical research organizations to architect
+     the future of medicine.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-fidelity technical environment at our Bangalore
+    Operational Center. At Edlanx, you won't just study "DNA
+    sequences"; you will be treated as a Genomic Architect, working
+    in simulated laboratory environments to master site-specific
+    editing, navigate bio-containment protocols, and manage the
+    structural integrity of modified organisms.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Geneticists and Bio-Process
+       Engineers through structured mentoring and performance
+       evaluations. We focus on developing your ability to design
+       high-fidelity guide RNAs, troubleshoot off-target mutations,
+       and translate raw sequence data into predictable, functional
+       phenotypes.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard bioinformatics software and in-silico
+    modeling tools while learning essential professional
+    competencies. We believe in experiential learning and reward
+    breakthroughs in transformation efficiency or metabolic yield
+    with performance-based stipends, ensuring you remain focused
+    on technical excellence.
+
+                                                                                                            EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the Bio-Lifecycle,
+    from initial target identification and vector design to clinical trial
+    regulation and IP filing. Our career guidance includes mock
+    "Genomic Sprints" and technical interviews tailored for top-tier
+    roles in Gene Therapy, Agricultural Biotech, and Synthetic Biology
+    startups.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, technical integrity,
+    and disciplined ethics. You will learn to lead a "bio-sprint,"
+    collaborate across computational and experimental domains, and
+    grow your network within an elite community of researchers and
+    genetic engineers.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                            EDLANX
+Why This Journey
+Matters
+
+ Portfolio-Ready  Every CRISPR strategy you architect, every viral vector you design, and every
+Global Network    metabolic pathway you optimize at Edlanx serves as a high-fidelity
+                  demonstration of your ability to rewrite the code of life with surgical precision
+                  and industrial scalability.
+
+                  Gain exclusive access to the Edlanx alumni community and industry mentors
+                  leading R&D teams at global biopharma giants, agricultural tech pioneers,
+                  and synthetic biology startups.
+
+Career Excellence We move beyond basic wet-lab techniques to provide the deep regulatory
+                            logic and genomic governance needed to solve global crises—from
+                            engineering climate-resilient crops to architecting curative gene therapies
+                            for rare genetic disorders.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in Base and Prime editing, the evolution of non-viral
+delivery systems like LNPs, and the rapid integration of AI-driven protein
+folding. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Engineering biological systems and managing genetic
+                  information requires absolute molecular precision and
+                  ethical integrity. Whether you are navigating a complex off-
+                  target analysis, troubleshooting a low-titer viral production,
+                  or interpreting the regulatory requirements for a new GMO,
+                  our senior Geneticists and Bio-Process Engineers provide
+                  the direct, technical feedback needed to ensure your
+                  designs are safe, effective, and industrially ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                 EDLANX
+

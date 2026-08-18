@@ -1,0 +1,219 @@
+DevOps
+
+Engineering the Structural Logic of Continuous
+Integration & Automated Deployment
+
+A project-first certification designed to master CI/CD Pipelines,
+Containerization, and Infrastructure as Code (IaC). Bridge the gap between code
+and production.
+THE EDLANX
+METHODOLOGY
+
+OUR OPERATIONAL PHILOSOPHY
+
+At Edlanx, we don’t just "teach tools"; we cultivate a Systems Architect's
+mindset. Our program is a deep dive into the logic of automation and the
+structural reliability of high-scale environments. We believe in Operational
+Integrity—moving beyond basic scripting to build a robust understanding of
+Kubernetes orchestration, automated testing, and the rigorous security
+governance required for modern cloud-native enterprises.
+
+THE FOUR PILLARS OF MASTERY
+
+Pipeline Logic  Master the structural flow from "Commit" to "Production."
+
+Container       Learn the logic of isolated, portable environments.
+Governance
+                Master the structural lifecycle of cloud-based resources.
+Infrastructure
+Architecture    Bring systems to life by mastering the structural link
+                between real-time metrics and proactive scaling.
+Observability
+Strategy
+
+                             EDLANX
+04  Containerization Logic: Docker & Image Architecture
+
+    4.1 Container Structural Logic
+
+    4.2 Image Layer Governance
+
+    4.3 Container Networking & Volume Architecture
+
+05  Orchestration Governance: Kubernetes (K8s) Cluster Logic
+
+    5.1 K8s Control Plane Structural Logic
+
+    5.2 Workload Architecture & Pod Logic
+
+06  Infrastructure Architecture: Terraform & Cloud Provisioning
+
+    6.1 Infrastructure as Code (IaC) Structural Logic
+
+    6.2 Terraform Provider Governance
+
+    6.3 State Management Architecture
+
+    6.4 Modular Blueprinting Strategy
+
+    6.5 Resource Lifecycle Governance
+    6.6 Variable & Secret Infrastructure
+    6.7 Multi-Cloud Resilience Logic
+
+07  Configuration Governance: Ansible & Automated Provisioning
+
+    7.1 Push-Based Structural Logic
+
+    7.2 Playbook Architecture
+
+    7.3 Role-Based Strategy
+
+08  Security Architecture: DevSecOps & Vulnerability Scanning
+
+    8.1 Shift-Left Structural Logic
+    8.2 Scanning Governance
+    8.3 Compliance-as-Code Strategy
+
+                                                                 EDLANX
+09  Observability Logic: Monitoring with Prometheus & Grafana
+10  9.1 Metrics Structural Logic
+    9.2 Visualization Governance
+    9.3 Alerting Architecture
+
+    Financial Logic: Cloud Economics & FinOps
+    10.1 Resource Cost Structural Logic
+    10.2 Tagging Governance
+    10.3 Scaling Architecture
+
+11  Regulatory Infrastructure: GVP & ITIL Standards
+    11.1 ITIL Structural Logic
+    11.2 Audit Blueprinting
+    11.3 GVP/Compliance Governance
+
+12  Future Frontiers: AIOps & GitOps Architectures
+    12.1 AIOps Structural Logic
+    12.2 GitOps Governance & Declarative Autonomy
+
+                                                     EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                        EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond basic scripting to bridge the gap between
+     traditional IT and modern Site Reliability Engineering (SRE). Our
+     DevOps syllabus is a deep immersion into Kubernetes, Terraform,
+     and Jenkins—the exact technical pillars used by tech giants and
+     high-scale startups to architect resilient, automated ecosystems.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-fidelity technical environment at our Bangalore
+    Operational Center. At Edlanx, you won't just study "Cloud"; you
+    will be treated as a Systems Architect, working in simulated
+    production environments to master CI/CD pipelines, navigate
+    container orchestration cycles, and manage the structural
+    integrity of "Infrastructure as Code."
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior DevOps Architects and Cloud
+       Engineers through structured mentoring and performance
+       evaluations. We focus on developing your ability to design
+       declarative pipelines, troubleshoot cluster failures, and
+       translate complex infrastructure requirements into clean,
+       version-controlled code.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like Docker, Ansible, and
+    Prometheus while learning essential professional competencies.
+    We believe in experiential learning and reward breakthroughs in
+    deployment speed or system uptime with performance-based
+    stipends, ensuring you remain focused on technical excellence
+
+    EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the Deployment
+    Lifecycle, from initial code commit and automated testing to
+    production scaling and security auditing. Our career guidance
+    includes mock "Incident Response Sprints" and technical interviews
+    tailored for top-tier roles in Cloud Engineering, DevOps, and
+    Platform Engineering.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, technical integrity,
+    and disciplined "blameless" post-mortems. You will learn to lead a
+    "sprint," collaborate across dev and ops domains, and grow your
+    network within an elite community of automation experts and
+    infrastructure leaders.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                           EDLANX
+Why This Journey
+Matters
+
+ Portfolio-Ready  Every Terraform module you write, every Jenkins pipeline you architect, and
+Global Network    every Kubernetes cluster you orchestrate at Edlanx serves as a high-fidelity
+                  demonstration of your ability to manage enterprise-scale systems with code-
+                  driven precision.
+
+                  Gain exclusive access to the Edlanx alumni community and industry mentors
+                  leading infrastructure teams at global tech giants, high-growth SaaS
+                  companies, and cloud-first startups.
+
+Career Excellence We move beyond basic tool tutorials to provide the deep "Design-to-Deploy"
+                            logic needed to solve global engineering challenges—from scaling apps for
+                            millions of users to architecting secure, self-healing environments that never
+                            sleep.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in GitOps workflows, the evolution of Serverless
+architectures, and the rapid integration of AI-driven observability. Your success
+is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Managing high-scale infrastructure and navigating the
+                  complexities of modern cloud environments requires
+                  absolute technical precision and a disciplined operational
+                  mindset. Whether you are troubleshooting a failing
+                  deployment, optimizing a complex Kubernetes network, or
+                  architecting a multi-cloud failover strategy, our senior
+                  DevOps Architects and Cloud Engineers provide the
+                  direct, technical feedback needed to ensure your systems
+                  are resilient, secure, and production-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                             EDLANX
+

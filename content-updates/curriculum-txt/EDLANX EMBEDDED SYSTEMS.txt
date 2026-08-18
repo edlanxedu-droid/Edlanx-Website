@@ -1,0 +1,242 @@
+EMBEDDED LOGIC
+
+Engineering the Structural Logic of Hardware-Software
+Intelligence
+
+A project-first certification designed to master ARM Cortex architecture,
+Real-Time Operating Systems (RTOS), and the structural engineering of
+connected industrial systems.
+THE EDLANX
+METHODOLOGY
+
+OUR EMBEDDED SYSTEMS PHILOSOPHY
+
+At Edlanx, we don’t just teach "coding for boards"; we cultivate a systems-
+architect mindset. Our program is a deep dive into the bridge between physical
+silicon and digital instructions. We believe in Deterministic Precision—moving
+beyond hobbyist modules to build robust, low-latency firmware that ensures
+absolute reliability in mission-critical automotive, medical, and industrial
+applications.
+
+THE FOUR PILLARS OF MASTERY
+
+Architectural Logic Master the core hardware blueprint of microcontrollers,
+                                memory mapping, and registers.
+
+Firmware       Learn the structural logic of Embedded C, interrupt handling, and
+Engineering    driver development.
+
+Communication  Understand the engineering of protocols like I2C, SPI, UART, and
+Logic          CAN-Bus for system-level data flow.
+
+Real-Time      Bring your systems to life by mastering the structural link
+Integration    between RTOS scheduling and physical sensor-actuator
+               loops.
+
+                                                                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The System Blueprint: C for Embedded Logic
+
+    1.1 Memory Architecture
+    1.2 Pointer Logic
+
+02 Microcontroller Architecture: The ARM Logic
+                          2.1 Core Logic
+                          2.2 Register Governance
+                          2.3 Pipeline Engineering
+                          2.4 Memory Mapping Architecture
+
+03 Peripheral Logic: GPIO & Interrupts
+                        3.1 I/O Architecture
+                        3.2 Interrupt Governance
+                        3.3 Event-Driven Engineering
+                        3.4 Clock Tree Architecture
+                        3.5 Debouncing & Edge Logic
+                        3.6 DMA (Direct Memory Access) Logic
+
+                                                              EDLANX
+04  Communication Architecture: Serial Protocols
+
+    4.1 UART Logic
+
+    4.2 I2C & SPI Engineering
+
+    4.3 Protocol Analysis Blueprint
+
+05  Analog Integration: ADC & DAC Logic
+
+    5.1 Sampling Architecture
+
+    5.2 Resolution Governance
+
+06 Timer Architecture: PWM & Capture Logic
+                           6.1 Prescaler Logic
+                           6.2 PWM Architecture
+                           6.3 Input Capture Engineering
+                           6.4 Compare Match Logic
+                           6.5 Encoder Interface Governance
+                           6.6 Watchdog Timer Architecture
+                           6.7 Advanced Synchronization Logic
+
+07  Real-Time Operating Systems (RTOS) Logic
+
+    7.1 Scheduler Architecture
+
+    7.2 Task Governance
+
+    7.3 Inter-Process Logic
+
+08  Connectivity Architecture: IoT & Wireless Logic
+
+    8.1 Wireless Protocol Logic
+    8.2 MQTT Architecture
+    8.3 Edge Security Governance
+
+                                                               EDLANX
+09  Industrial Protocol Logic: CAN & RS485
+10
+    9.1 CAN-Bus Architecture
+    9.2 MODBUS Governance
+    9.3 Error Resilience Logic
+
+    Driver Development: Hardware Abstraction Layers (HAL)
+    10.1 Layered Architecture
+    10.2 Portability Logic
+    10.3 Peripheral Initialization Blueprint
+
+11  System Debugging: Logic Analyzers & JTAG
+
+    11.1 On-Chip Debugging Logic
+    11.2 Waveform Architecture
+    11.3 Memory Leak & Fault Governance
+
+12  Future Frontiers: Edge AI & TinyML
+
+    12.1 Neural Logic
+    12.2 Inference Architecture
+
+                                                           EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                           EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond hobbyist boards to bridge the gap between
+                  "coding" and high-level systems architecture. Our Embedded
+                  Systems syllabus is a deep immersion into ARM Cortex-M logic,
+                  RTOS scheduling, and the deterministic firmware engineering
+                  required by global semiconductor and automotive giants.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at our
+    Bangalore Operational Center. At Edlanx, you won't just write
+    scripts; you will be treated as an Embedded Systems Engineer,
+    working within real organizational frameworks to architect
+    hardware-software interfaces and manage low-latency data flows.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Firmware Architects and Systems
+       Leads through structured mentoring and rigorous performance
+       evaluations. We focus on developing your ability to solve complex
+       interrupt conflicts, memory leaks, and timing violations with the
+       precision required for mission-critical hardware.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools and environments like
+    STM32CubeIDE, Keil uVision, and Logic Analyzers while learning
+    essential professional competencies. We believe in experiential
+    learning and reward innovative firmware or IoT breakthroughs with
+    performance-based stipends, ensuring you remain driven toward
+    technical mastery.
+
+                                                                                                          EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    System Development Lifecycle, from register-level driver
+    development to final cloud integration. Our career guidance
+    includes technical resume engineering and mock "Hardware Design
+    Reviews" designed to help you secure elite roles in R&D centers
+    globally.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead an embedded
+    "sprint," collaborate across hardware and software domains, and
+    grow your network within an elite community of engineers,
+    developers, and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                           EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every register-level driver and RTOS-based application you architect at Edlanx
+                 serves as a live, audit-ready demonstration of your ability to manage the
+                 deterministic complexity of modern electronic systems.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading R&D teams at global semiconductor leaders, automotive OEMs, and
+                 Tier-1 industrial technology firms.
+
+Career Excellence We move beyond basic microcontroller hobbyism to provide the technical
+                            resume engineering and hardware-software co-design logic needed to lead
+                            the future of "Edge Intelligence" and Industry 4.0.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in RISC-V architecture, Edge AI/TinyML integration, and
+secure IoT communication protocols. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                                                                    Engineering a reliable embedded system requires
+                                                                    absolute mathematical and timing precision. Whether
+                                                                    you are debugging a race condition in an RTOS task,
+                                                                    optimizing a CAN-Bus frame for low-latency
+                                                                    transmission, or architecting a low-power sensor
+                                                                    node, our senior Firmware Architects are available to
+                                                                    provide the direct, technical feedback needed to
+                                                                    ensure your systems are production-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                             EDLANX
+

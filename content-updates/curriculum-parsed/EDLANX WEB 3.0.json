@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Web 3.0 Blueprint",
+    "topics": [
+      "Protocol Evolution",
+      "Decentralization Logic"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Blockchain Layer Foundations",
+    "topics": [
+      "Layer 1 Architecture",
+      "Scaling Logic (Layer 2)",
+      "Node & Validator Architecture",
+      "Consensus Engineering"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Smart Contract Engineering",
+    "topics": [
+      "Solidity Logic & Syntax",
+      "Execution Architecture (EVM)",
+      "Deployment Frameworks",
+      "Immutable Design Patterns",
+      "Error Handling & Logic Safety",
+      "Events & Log Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Decentralized Storage",
+    "topics": [
+      "Content-Addressable Logic",
+      "IPFS & Filecoin Architecture",
+      "Metadata Integrity"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Identity & Cryptography",
+    "topics": [
+      "Public-Private Key Logic",
+      "Wallet Architecture"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Tokenomics: Asset Engineering",
+    "topics": [
+      "Fungible Logic (ERC-20)",
+      "Non-Fungible Logic (ERC-721/1155)",
+      "Supply Architecture & Halving",
+      "Incentive Engineering (Game Theory)",
+      "Distribution & Vesting Logic",
+      "Governance Token Logic",
+      "Economic Simulation & Stress-Testing"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "DeFi Architecture (Decentralized Finance)",
+    "topics": [
+      "Liquidity Logic & AMMs",
+      "Yield & Lending Protocols",
+      "Flash Loan Engineering"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "DAO Governance Architecture",
+    "topics": [
+      "Voting Logic & Weighting",
+      "Treasury & Multi-Sig Logic",
+      "Proposal Lifecycle Engineering"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "The Oracle Logic",
+    "topics": [
+      "Data Bridge Engineering",
+      "Hybrid Smart Contract Design",
+      "VRF (Verifiable Randomness)"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "dApp Architecture",
+    "topics": [
+      "Web3 Provider Integration",
+      "Indexing & Subgraph Logic",
+      "State Management & Providers"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Security Governance",
+    "topics": [
+      "Vulnerability Forensic",
+      "Smart Contract Auditing",
+      "Upgradeability & Proxy Logic"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: The Metaverse",
+    "topics": [
+      "Interoperability & Bridge Logic",
+      "Spatial Web & Asset Persistence"
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "num": 1,
+    "title": "Introduction to Cybersecurity",
+    "topics": [
+      "Overview of Cybersecurity",
+      "Threat Landscape and Attack Vectors",
+      "Cybersecurity Frameworks and Standards"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Operating Systems and Networking Fundamentals",
+    "topics": [
+      "Introduction to Operating Systems",
+      "Networking Concepts and Protocols",
+      "Network Security Fundamentals"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Cryptography and Steganography",
+    "topics": [
+      "Cryptography Basics (Symmetric and Asymmetric Encryption,",
+      "Cryptographic Attacks and Countermeasures",
+      "Steganography and Steganalysis"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Ethical Hacking",
+    "topics": [
+      "Introduction to Ethical Hacking",
+      "Reconnaissance Techniques",
+      "Scanning and Enumeration",
+      "Vulnerability Assessment and Penetration Testing",
+      "Exploitation Techniques and Post-Exploitation"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Web Application Security",
+    "topics": [
+      "Common Web Application Vulnerabilities (SQL Injection, Cross-",
+      "Web Application Penetration Testing",
+      "Secure Coding Practices for Web Applications"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Network Security",
+    "topics": [
+      "Network Access Control and Authentication",
+      "Firewall and Intrusion Detection Systems",
+      "Virtual Private Networks (VPNs) and Secure Sockets Layer (SSL)"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Cloud Security",
+    "topics": [
+      "Cloud Computing Fundamentals",
+      "Cloud Security Architecture and Models",
+      "Cloud Security Threats and Countermeasures"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Mobile Security",
+    "topics": [
+      "Mobile Security Fundamentals",
+      "Android and iOS Security Architecture",
+      "Mobile Application Security Testing"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Social Engineering",
+    "topics": [
+      "Introduction to Social Engineering",
+      "Social Engineering Techniques (Phishing, Vishing, Pretexting)",
+      "Social Engineering Countermeasures"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Incident Response and Digital Forensics",
+    "topics": [
+      "Incident Response and Handling",
+      "Digital Forensics Fundamentals",
+      "Forensic Analysis of Digital Evidence"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Cybersecurity Governance and Compliance",
+    "topics": [
+      "Cybersecurity Governance Frameworks and Standards",
+      "Compliance Requirements and Regulations (GDPR, HIPAA, PCI"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Ethics in Cybersecurity",
+    "topics": [
+      "Professional Ethics and Conduct",
+      "Legal and Regulatory Issues",
+      "Ethical Hacking and Responsible Disclosure"
+    ]
+  },
+  {
+    "num": 13,
+    "title": "Advanced Topics in Cybersecurity",
+    "topics": [
+      "Advanced Persistent Threats (APTs)",
+      "Internet of Things (IoT) Security",
+      "Artificial Intelligence (AI) in Cybersecurity",
+      "Blockchain Security"
+    ]
+  }
+]

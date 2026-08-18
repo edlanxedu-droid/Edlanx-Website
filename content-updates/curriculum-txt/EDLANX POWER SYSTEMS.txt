@@ -1,0 +1,248 @@
+POWER SYSTEMS
+
+  Engineering the Structural Logic of Modern Power
+  Systems & Energy Management
+
+   A project-first certification designed to master Power System Analysis,
+   Smart Grid stability, and the structural engineering of high-voltage
+   infrastructure.
+THE EDLANX
+METHODOLOGY
+
+OUR POWER SYSTEMS PHILOSOPHY
+
+At Edlanx, we don’t just teach "wiring and circuits"; we cultivate a grid-
+architect mindset. Our program is a deep dive into the stability and efficiency
+of large-scale energy networks. We believe in Resilient Infrastructure—
+moving beyond basic power flow to build robust, smart systems that ensure
+reliability, sustainability, and load balance across national and industrial grids.
+
+THE FOUR PILLARS OF MASTERY
+
+Analysis Logic  Master the core mathematics of load flow and fault
+                analysis for grid stability.
+Protection
+Governance      Learn the structural logic of relay coordination and circuit breaker
+                synchronization.
+
+Sustainable     Understand the engineering of Solar, Wind, and Battery Storage
+Architecture    integration.
+
+Smart Grid      Bring your systems to life by mastering the structural link
+Integration     between digital monitoring and physical power flow.
+
+                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The System Blueprint: Power Grid Architecture
+
+    1.1 Generation Logic
+    1.2 Transmission Blueprinting
+
+02 Steady-State Logic: Power Flow Analysis
+                          2.1 Nodal Logic
+                          2.2 Numerical Governance
+                          2.3 Voltage Strategy
+                          2.4 Sensitivity Architecture
+
+03 Fault Architecture: Short Circuit Analysis
+                        3.1 Symmetrical Logic
+                        3.2 Symmetrical Components Governance
+                        3.3 Unsymmetrical Fault Engineering
+                        3.4 Transient Stability Logic
+                        3.5 Grounding Architecture
+                        3.6 Sub-transient & Transient Governance
+
+                                                                  EDLANX
+04  Protection Logic: Relaying & Switchgear
+
+    4.1 Relay Architecture
+
+    4.2 Switchgear Governance
+
+    4.3 Coordination Blueprinting
+
+05  Power Electronics: Converters & Inverters
+
+    5.1 Conversion Logic
+
+    5.2 Semiconductor Governance
+
+06  Renewable Architecture: Solar & Wind Integration
+
+    6.1 Photovoltaic (PV) Logic
+
+    6.2 Wind Turbine Governance
+
+    6.3 Grid Synchronization Blueprinting
+
+    6.4 Harmonic Mitigation Strategy
+
+    6.5 LVRT & HVRT Governance
+    6.6 Solar Farm Layout Engineering
+    6.7 Forecasting & Dispatch Logic
+
+07  Battery Energy Storage Systems (BESS) Logic
+
+    7.1 Storage Chemistry Architecture
+
+    7.2 BMS & State Governance
+
+    7.3 Bi-Directional Converter Logic
+
+08  Smart Grid Architecture: SCADA & IoT Integration
+
+    8.1 Monitoring Logic (SCADA)
+    8.2 PMU & Phasor Governance
+    8.3 AMI & Demand-Side Blueprinting
+
+                                                      EDLANX
+09  Control Logic: Frequency & Load Management
+10
+    9.1 Governor & Frequency Logic
+    9.2 LFC & AGC Governance
+    9.3 Load Management Strategy
+
+    Industrial Power Systems: Facility Design & Auditing
+
+    10.1 Load Profiling & Demand Logic
+    10.2 Facility Layout & Distribution Blueprinting
+    10.3 Power Quality & Audit Governance
+
+11  E-Mobility Infrastructure: EV Charging Stations
+
+    11.1 Charging Topology Architecture
+    11.2 Grid Integration & Load Management
+    11.3 Safety & Protocol Governance
+
+12  Future Frontiers: Microgrids & Hydrogen Power
+
+    12.1 Microgrid Control Architecture
+    12.2 Hydrogen Ecosystem Logic
+
+    EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                           EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond basic circuit theory to bridge the gap between
+     "textbook EEE" and high-voltage reality. Our Power Systems syllabus
+     is a deep immersion into Load Flow (Newton-Raphson), Symmetrical
+     Faults, and Relay Coordination—the exact technical pillars used by
+     national grids, utility providers, and renewable energy giants.
+
+02  Real-Time Corporate Exposure
+
+    Step into a professional engineering environment at our
+    Bangalore Operational Center. At Edlanx, you won't just draw
+    diagrams; you will be treated as a Power Systems Engineer,
+    working within real-world constraints to architect stable
+    microgrids, optimize transmission losses, and design resilient
+    protection schemes for industrial facilities.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Electrical Architects and
+       Energy Auditors through structured mentoring and
+       performance evaluations. We focus on developing your ability
+       to perform complex $Y_{bus}$ calculations, stability studies,
+       and grid-integration simulations with the mathematical
+       precision required for modern infrastructure.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools used for grid modeling and
+    simulation, while learning essential professional competencies.
+    We believe in experiential learning and reward innovative
+    breakthroughs in renewable integration or fault-tolerant design
+    with performance-based stipends, ensuring you remain focused
+    on industrial excellence.
+
+                                                                                                            EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete Power
+    Development Lifecycle, from initial load profiling and SLD (Single
+    Line Diagram) blueprinting to final commissioning and energy
+    auditing. Our career guidance includes mock "Technical Design
+    Reviews" tailored for top-tier roles in the energy, EV, and
+    manufacturing sectors.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, technical integrity,
+    and disciplined ethics. You will learn to lead an engineering
+    "sprint," collaborate across power electronics and digital control
+    domains, and grow your network within an elite community of
+    electrical engineers and grid specialists.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                            EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every grid stability study, relay coordination map, and renewable integration
+                 model you architect at Edlanx serves as a high-fidelity demonstration of your
+                 ability to manage the lifeblood of modern civilization.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading engineering teams at national utility providers, global energy
+                 consultants, and pioneering EV infrastructure firms.
+
+Career Excellence We move beyond basic circuit theory to provide the structural engineering
+                            logic and "System Design" mindset needed to lead the global energy
+                            transition and the rise of smart, resilient cities.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in IEC standards, Green Hydrogen integration, and AI-
+driven load forecasting. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Engineering a reliable power system requires
+                  absolute mathematical and physical precision.
+                  Whether you are troubleshooting a transient stability
+                  failure, optimizing a BESS discharge logic, or auditing
+                  an industrial facility for power quality, our senior
+                  Electrical Architects provide the direct, technical
+                  feedback needed to ensure your systems meet utility-
+                  grade standards.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                 EDLANX
+

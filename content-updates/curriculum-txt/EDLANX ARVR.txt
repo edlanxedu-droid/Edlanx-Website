@@ -1,0 +1,243 @@
+AR/VR MASTERY
+
+Engineering the Logic of Spatial Computing & Virtual
+Ecosystems
+
+A project-first certification designed to turn logical thinkers into industry-
+ready AR/VR Engineers and Extended Reality (XR) Architects.
+THE EDLANX
+METHODOLOGY
+
+OUR SPATIAL PHILOSOPHY
+
+At Edlanx, we don’t just teach headsets; we cultivate a spatial mindset. Our
+program is a deep dive into the intersection of 3D physics, real-time rendering,
+and high-concurrency immersive logic. We believe in Project-First Mastery—
+moving beyond basic 3D scenes to build complex, secure, and deployable
+AR/VR applications from Day 1.
+
+THE FOUR PILLARS OF MASTERY
+
+Spatial Blueprint  Master the core foundations of C# and 3D mathematics to
+                   build stable, optimized virtual foundations.
+Sensory Logic
+                   Learn to implement spatial audio and haptic feedback to create
+Scalable           intuitive, high-fidelity immersive experiences.
+Architecture
+                   Understand the relationship between localized hardware
+Dynamic            tracking and cloud-based spatial anchors to design apps that
+Deployment         handle real-time interaction without friction.
+                   Bring your environments to life using industry-standard
+                   game engines and cross-platform SDKs to create secure,
+                   testable XR products.
+
+                             EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Spatial Blueprint: Foundations
+
+    1.1 The Logic of the Void
+    1.2 C# for Immersive Systems
+
+02 Environmental Physics: High-Performance Logic
+                          2.1 Architecting Gravity
+                          2.2 Lumen & Logic
+                          2.3 Scene Optimization
+                          2.4 Procedural World Generation
+
+03 The Developer Edge: Integration & Portfolio
+                        3.1 The Engineer’s Vault: Git LFS Strategy
+                        3.2 Collaborative Huddles & Branch Logic
+                        3.3 Spatial Technical Documentation
+                        3.4 Asset Pipeline Architecture
+                        3.5 Technical Markdown & System Logic
+                        3.6 Portfolio Architecture
+
+                                                                    EDLANX
+04  Sensory Sync: Physics & Interaction
+
+    4.1 Beyond the Screen
+
+    4.2 The Physics of Touch
+
+    4.3 Spatial Audio Architecture
+
+05 Industry Tools & Ecosystems
+                            5.1 The Engine Room
+                            5.2 SDK Command
+
+06  Modular Realities: Building Blocks & Scalable Logic
+
+    6.1 XR Interaction Toolkit (XRI) Mastery
+
+    6.2 The Prefab Architecture Blueprint
+
+    6.3 World-Space UI Engineering
+
+    6.4 Locomotion & Teleportation Logic
+
+    6.5 Asset Optimization & LOD Strategy
+    6.6 Haptic & Audio Prefab Systems
+    6.7 Dynamic Content Loading (Addressables)
+
+07  Living Environments: Automation & API
+
+    7.1 The Pulse of the Metaverse
+
+    7.2 Multi-User Synchronization
+
+    7.3 Dynamic Data Injection
+
+08  Zero Friction: Validation & Standards
+
+    8.1 The Performance Audit
+    8.2 Latency Optimization
+    8.3 Cross-Hardware Validation
+
+                                                 EDLANX
+09  Ghost in the Machine: Backend & Cloud
+10
+    9.1 Persistent Realities
+    9.2 Cloud-Based Rendering
+    9.3 Spatial Data Persistence
+
+    Deploying the Future: Career Launch
+
+    10.1 Global Market Deployment
+    10.2 The XR Architect Portfolio
+    10.3 Technical Interview Simulation
+
+11  The Virtual Guard: Professional Ethics
+
+    11.1 Privacy in Spatial Computing
+    11.2 User Safety Architecture
+    11.3 Intellectual Property in 3D
+
+12  The New Horizon: Future Frontiers
+
+    12.1 WebXR & The Decentralized Web
+    12.2 AI-Driven Environments
+
+                                        EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                            EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond academic theory to bridge the gap between
+                  stagnant education and the fast-moving spatial computing
+                  market. Our Immersive Architecture syllabus is a high-octane
+                  deep dive into the needs of the global XR economy, focusing
+                  on high-fidelity rendering and optimized spatial logic.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as an XR Engineer, working
+    within real organizational workflows on live, high-
+    concurrency AR/VR projects.
+
+03 Mentorship & Continuous Assessment
+
+                   Your growth is guided by senior spatial architects and
+                   technical leads through structured mentoring and regular
+                   performance evaluations. We focus on developing your
+                   ability to solve complex 3D math and physics problems with
+                   the confidence required by global tech giants.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like Unity, Unreal Engine, and
+    C# while learning essential professional competencies. We
+    believe in experiential learning and reward technical
+    breakthroughs with performance-based stipends, ensuring
+    you are motivated to achieve mastery.
+
+                                                                                                           EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Spatial Development Lifecycle, from initial blueprints to final
+    deployment on the Meta Quest and ARCore platforms. Our
+    guidance includes technical resume engineering and mock
+    immersive-coding interviews.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on teamwork, integrity, and
+    disciplined professional ethics. You will learn to lead an "XR sprint,"
+    collaborate across various digital domains, and grow your network
+    within an elite community of spatial developers and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                          EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every virtual environment and spatial system you engineer becomes a
+Global Network   high-performance showcase on your GitHub and Meta Quest profile,
+                 proving you can solve the complex 3D problems of the future.
+
+                 Gain exclusive access to the Edlanx alumni community and
+                 industry mentors currently architecting immersive
+                 platforms at top-tier global firms and disruptive startups.
+
+Career Excellence We move beyond basic code to provide technical resume
+                            engineering, mock XR-coding interviews, and the
+                            leadership skills needed to dominate the high-stakes world
+                            of spatial development.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in Apple Vision Pro development, Mixed Reality (MR)
+Passthrough, and AI-driven 3D world generation. Your success is our shared
+mission.
+
+DIRECT MENTORSHIP
+
+                  our engineering growth shouldn’t happen in
+                  a vacuum. Whether you are stuck on a
+                  complex C# physics script or need feedback
+                  on your environment’s shader optimization,
+                  our senior XR developers are just a message
+                  away. We are here to ensure your transition
+                  into the world of professional Immersive
+                  Architecture is seamless and high-impact.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                        EDLANX
+

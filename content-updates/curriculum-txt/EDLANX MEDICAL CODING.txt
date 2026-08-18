@@ -1,0 +1,264 @@
+MEDICAL CODING
+
+Engineering the Structural Logic of Clinical
+Documentation & Healthcare Revenue
+
+A project-first certification designed to master ICD-10-CM, CPT, and
+HCPCS Level II classification systems. Turn complex medical narratives
+into the universal language of healthcare.
+THE EDLANX
+METHODOLOGY
+
+OUR CODING PHILOSOPHY
+
+At Edlanx, we don’t just "assign numbers"; we cultivate a Nosology Architect's
+mindset. Our program is a deep dive into the anatomical and legal logic of
+clinical data. We believe in Revenue Integrity—moving beyond basic
+memorization to build a robust understanding of medical necessity, regulatory
+compliance, and the structural governance required for global healthcare
+systems.
+
+THE FOUR PILLARS OF MASTERY
+
+Diagnostic Logic     Master the structural classification of diseases and injuries
+                     (ICD-10-CM).
+Procedural
+Governance           Learn the logic of surgical and medical services coding (CPT).
+
+Regulatory           Master the structural lifecycle of HIPAA compliance and medical
+Architecture         auditing.
+
+Analytical Strategy  Bring accuracy to life by mastering the structural link
+                     between physician documentation and insurance
+                     reimbursement.
+
+                                                                              EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Coding Blueprint: Medical Terminology & Anatomy
+
+    1.1 Etymological Logic
+    1.2 Anatomical Governance
+
+02 Diagnostic Architecture: ICD-10-CM Classification
+                          2.1 Alphanumeric Structural Logic
+                          2.2 Tabular & Alpha-Index Governance
+                          2.3 Clinical Sequencing Strategy
+                          2.4 Combination & Manifestation Logic
+
+03 Procedural Logic: CPT & HCPCS Level II
+                        3.1 Evaluation & Management (E/M) Structural Logic
+                        3.2 Surgical Package Governance
+                        3.3 Integumentary & Musculoskeletal Architecture
+                        3.4 Cardiovascular & Respiratory Strategy
+                        3.5 Modifier Governance (The 2-Digit Logic)
+                        3.6 HCPCS Level II & Supply Infrastructure
+
+                                                                            EDLANX
+04  Anatomy Logic: Cardiovascular & Respiratory
+    Systems
+
+    4.1 Hemodynamic Structural Logic
+
+    4.2 Pulmonary Architecture & Gas Exchange
+
+    4.3 Systemic Pathophysiology Strategy
+
+05  Specialty Architecture: Radiology, Pathology &
+    Anesthesia Coding
+
+    5.1 Imaging & Diagnostic Structural Logic
+
+    5.2 Pathology & Lab Governance
+
+06  Safety Governance: HIPAA, Fraud, & Abuse
+    Prevention
+
+    6.1 Privacy Structural Logic (HIPAA)
+
+    6.2 Security & Encryption Governance
+
+    6.3 Compliance Architecture (Fraud vs. Abuse)
+
+    6.4 False Claims Act Strategy
+
+    6.5 Internal Audit Infrastructure
+    6.6 OIG Work Plan Governance
+    6.7 Disclosures & Breach Logic
+
+07  Revenue Cycle Logic: Claims Processing & Denial
+    Management
+
+    7.1 Front-End Structural Logic
+
+    7.2 Adjudication Governance
+
+    7.3 Denial Architecture & Appeals
+
+08  Auditing Architecture: Inpatient (ICD-10-PCS) vs.
+    Outpatient Logic
+
+    8.1 Inpatient Procedural Logic (PCS)
+
+    8.2 DRG Governance & Case Mix
+
+    8.3 Prospective Payment Strategy
+
+                                                       EDLANX
+09  Toolsets Logic: Encoding Software &
+10  Abstracting Systems
+
+    9.1 Logic-Based Encoding
+    9.2 Computer-Assisted Coding (CAC) Governance
+    9.3 Electronic Health Record (EHR) Infrastructure
+
+    Financial Logic: Value-Based Care & HCC Coding
+    10.1 Risk Adjustment Logic (HCC)
+    10.2 Value-Based Governance
+    10.3 Payer Mix Strategy
+
+11  Regulatory Infrastructure: CMS Guidelines &
+    Payer Policy Management
+
+    11.1 CMS National & Local Coverage (NCD/LCD)
+
+    11.2 Correct Coding Initiative (CCI) Governance
+
+    11.3 Federal Regulatory Blueprinting
+
+12  Future Frontiers: AI-Driven Computer-Assisted
+    Coding (CAC)
+
+    12.1 NLP & Automation Structural Logic
+
+    12.2 Predictive Risk Governance
+
+                                                       EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                          EDLANX
+01  Industry-Ready Curriculum
+
+     We move beyond basic code-lookup to bridge the gap between clinical
+     narratives and global financial reimbursement. Our Medical Coding
+     syllabus is a deep immersion into ICD-10-CM, CPT, and HCPCS Level II
+     —the exact technical pillars used by hospitals, insurance payers, and
+     global RCM firms to ensure financial integrity.
+
+02  Real-Time Corporate Exposure
+
+    Step into a professional healthcare-IT environment at our
+    Bangalore Operational Center. At Edlanx, you won't just
+    memorize codes; you will be treated as a Revenue Architect,
+    working in simulated EHR environments to master clinical
+    abstraction, navigate NCCI edits, and manage the structural
+    integrity of a clean claim.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior CPC/COC Certified Coders
+       and Revenue Managers through structured mentoring and
+       performance evaluations. We focus on developing your ability
+       to defend medical necessity, troubleshoot complex surgical
+       cases, and translate raw physician documentation into
+       precise, legally defensible alphanumeric data.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard encoding software and Natural
+    Language Processing (NLP) tools while learning essential
+    professional competencies. We believe in experiential learning
+    and reward breakthroughs in coding accuracy or denial
+    reduction with performance-based stipends, ensuring you
+    remain focused on industrial excellence.
+
+                                                                                                           EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the Revenue
+    Lifecycle, from initial patient encounter and specialty coding to
+    final claim adjudication and denial management. Our career
+    guidance includes mock "Coding Audits" and technical interviews
+    tailored for top-tier roles in Quality Assurance, HIM Management,
+    and Clinical Documentation Improvement (CDI).
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, technical integrity,
+    and disciplined ethics. You will learn to lead a "coding sprint,"
+    collaborate across clinical and administrative domains, and grow
+    your network within an elite community of healthcare-IT
+    professionals and revenue specialists.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                              EDLANX
+Why This Journey
+Matters
+
+ Portfolio-Ready  Every complex surgical case you abstract and every diagnostic sequence you
+Global Network    architect at Edlanx serves as a high-fidelity demonstration of your ability to
+                  safeguard the financial health of global medical institutions with absolute
+                  precision.
+
+                  Gain exclusive access to the Edlanx alumni community and industry mentors
+                  leading Revenue Cycle Management (RCM) teams at top-tier hospitals,
+                  insurance payers, and healthcare-IT giants.
+
+Career Excellence We move beyond simple data entry to provide the deep regulatory logic and
+                            nosology governance needed to bridge the gap between medicine and
+                            finance—ensuring that healthcare providers are fairly reimbursed for the
+                            life-saving work they perform.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in CMS regulatory updates, the annual ICD-10/CPT
+revisions, and the rapid integration of AI-driven Computer-Assisted Coding
+(CAC). Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Engineering healthcare data and managing revenue logic
+                  requires absolute alphanumeric precision and legal
+                  integrity. Whether you are navigating a complex
+                  "Excludes1" note, troubleshooting an NCCI edit failure, or
+                  defending a high-value claim against a payer denial, our
+                  senior CPC/COC Certified Mentors and Revenue Managers
+                  provide the direct, technical feedback needed to ensure
+                  your coding is accurate, compliant, and industrially ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                            EDLANX
+

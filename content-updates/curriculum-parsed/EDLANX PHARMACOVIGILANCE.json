@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Safety Blueprint: Intro to PV & Regulations",
+    "topics": [
+      "Regulatory Logic",
+      "Lifecycle Governance"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "ICSR Logic: Individual Case Safety Reports",
+    "topics": [
+      "Triage Structural Logic",
+      "MedDRA Hierarchical Governance",
+      "Narrative Architecture & Clinical Logic",
+      "Duplicate Search & Data Reconciliation Strategy"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Assessment Logic: Causality & Seriousness",
+    "topics": [
+      "Causality Structural Logic",
+      "Expectedness & Labeling Governance",
+      "Seriousness Architecture",
+      "Medical Coding Validation Logic",
+      "Narrative Analysis Strategy",
+      "Outcome & Action Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Database Logic: Safety System Management",
+    "topics": [
+      "Workflow Structural Logic",
+      "E2B(R3) Data Governance",
+      "Database Configuration Architecture"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Signal Architecture: Detection & Evaluation",
+    "topics": [
+      "Qualitative Signal Logic",
+      "Quantitative Governance (Data Mining)"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Safety Governance: Risk Management Plans (RMP)",
+    "topics": [
+      "RMP Structural Logic",
+      "Risk Minimization Governance",
+      "REMS Architecture (US FDA)",
+      "Benefit-Risk Strategy",
+      "Medication Error Infrastructure",
+      "Post-Authorization Safety Studies (PASS)",
+      "Crisis Governance & Communication"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Periodic Logic: PSUR, PBRER, & PADER Reporting",
+    "topics": [
+      "Aggregate Data Structural Logic",
+      "Line Listing Governance",
+      "Submission Strategy"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Quality Architecture: Audits, Inspections, & SOPs",
+    "topics": [
+      "Compliance Structural Logic",
+      "Audit & Inspection Governance",
+      "Root Cause Analysis (RCA) Strategy"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Toolsets Logic: E2B(R3) Transmission & XML Data",
+    "topics": [
+      "Electronic Reporting Structural Logic",
+      "XML Architecture & Validation",
+      "Interoperability Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Financial Logic: The Economics of Safety & Outsourcing",
+    "topics": [
+      "Unit Cost Structural Logic",
+      "PV Outsourcing Governance (BPO/KPO)",
+      "Regulatory Fine Infrastructure"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Regulatory Infrastructure: GVP Modules & ICH Guidelines",
+    "topics": [
+      "Global Guidelines Structural Logic",
+      "GVP Module Governance",
+      "Health Authority Blueprinting"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Automation in Case Processing",
+    "topics": [
+      "Intelligent Automation Structural Logic",
+      "Social Media & Real-World Evidence Governance"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+CYBER SECURITY CURRICULUM: 13 modules, 41 topics
+EDLANX ACCA: 12 modules, 40 topics
+EDLANX AI: 12 modules, 41 topics
+EDLANX ANDRIOD APP DEVELOPMENT: 12 modules, 41 topics
+EDLANX ARVR: 12 modules, 41 topics
+EDLANX AUTOCAD: 12 modules, 41 topics
+EDLANX AWS: 12 modules, 41 topics
+EDLANX BIOINFORMATICS: 12 modules, 41 topics
+EDLANX Business Analytics: 12 modules, 41 topics
+EDLANX CAR DESIGN: 12 modules, 41 topics
+EDLANX CATIA: 12 modules, 41 topics
+EDLANX CP&SA: 12 modules, 39 topics
+EDLANX DATA SCIENCE: 12 modules, 41 topics
+EDLANX DIGITAL MARKETING: 12 modules, 41 topics
+EDLANX DevOps: 9 modules, 29 topics  MISSING=[1, 2, 3]
+EDLANX EMBEDDED SYSTEMS: 12 modules, 41 topics
+EDLANX FINANCE: 12 modules, 41 topics
+EDLANX FOOD SCIENCE: 12 modules, 41 topics
+EDLANX GENETIC ENGINEERING: 12 modules, 41 topics
+EDLANX GRAPHIC DESIGN: 12 modules, 41 topics
+EDLANX HR MANAGEMENT: 12 modules, 41 topics
+EDLANX HYBRID ELECTRIC VEHICLE: 12 modules, 41 topics
+EDLANX INVESTMENT BANKING: 12 modules, 41 topics
+EDLANX IOT: 12 modules, 41 topics
+EDLANX JAVA: 12 modules, 41 topics
+EDLANX MEDICAL CODING: 12 modules, 41 topics
+EDLANX MICROBIO: 12 modules, 41 topics
+EDLANX ML: 12 modules, 41 topics
+EDLANX MOLECULAR BIOLOGY: 12 modules, 41 topics
+EDLANX NANOSCI&TECH: 12 modules, 41 topics
+EDLANX NUTRITION&HEALTH MANAGEMENT: 12 modules, 41 topics
+EDLANX PHARMACOVIGILANCE: 12 modules, 41 topics
+EDLANX POWER SYSTEMS: 12 modules, 41 topics
+EDLANX PYTHON: 12 modules, 41 topics
+EDLANX ROBOTICS: 12 modules, 40 topics
+EDLANX SALESFORCE: 12 modules, 41 topics
+EDLANX SAP FICO: 12 modules, 41 topics
+EDLANX SELENIUM TESTING: 12 modules, 41 topics
+EDLANX SENSORY SCIENCE: 12 modules, 41 topics
+EDLANX STOCK MARKETING: 12 modules, 41 topics
+EDLANX SUPPLY CHAIN: 12 modules, 41 topics
+EDLANX UIUX: 12 modules, 41 topics
+EDLANX VLSI: 12 modules, 40 topics
+EDLANX WEB 3.0: 12 modules, 41 topics
+EDLANX WEB DEVELOPMENT : 12 modules, 41 topics
+Edlanx Full stack: 12 modules, 41 topics

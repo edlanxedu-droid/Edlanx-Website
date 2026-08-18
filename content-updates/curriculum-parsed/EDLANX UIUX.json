@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Design Blueprint: UX Foundations",
+    "topics": [
+      "Intro to UI/UX Design — Aesthetics vs. User Experience",
+      "The Design Thinking Process — Empathize, Define, Ideate,"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Visual Engineering: High-Fidelity UI",
+    "topics": [
+      "IA & Wireframing Fundamentals",
+      "Principles of Visual Design",
+      "Color Theory & Typography",
+      "Design Systems & Style Guides"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Interactive Edge: Prototyping & Portfolio",
+    "topics": [
+      "High-Fidelity & Prototyping",
+      "Usability Testing Techniques",
+      "Accessibility & Responsive Design",
+      "Design Handoff & UX Writing",
+      "Portfolio Building & Future Trends",
+      "Conclusion & Learning Outcomes"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Wireframing",
+    "topics": [
+      "Low-Fidelity Sketching",
+      "Mid-Fidelity Wireframes",
+      "Rapid Prototyping"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Visual Design Systems",
+    "topics": [
+      "Core UI Principles",
+      "Color Theory Mastery"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Industry Tools & Components",
+    "topics": [
+      "Figma & Adobe XD",
+      "Auto-Layout & Resizing",
+      "Reusable Component Libraries",
+      "High-Fidelity UI Design",
+      "Iconography & Vectors",
+      "Design Systems",
+      "Style Guides"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Interaction & Animation",
+    "topics": [
+      "Interactive Prototyping",
+      "Micro-interactions",
+      "Animation Principles"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Validation & Inclusive Design",
+    "topics": [
+      "Usability Testing Techniques",
+      "Accessibility Standards (WCAG)",
+      "Responsive & Adaptive Design"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "The Human Element: Copy & Emotion",
+    "topics": [
+      "UX Writing Fundamentals",
+      "Guiding the User",
+      "Emotional Design"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Our Design Philosophy",
+    "topics": [
+      "High-Impact Case Studies",
+      "Visual & Strategic Thinking",
+      "The Global Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Ethics, Law & The Developer Bridge",
+    "topics": [
+      "Design Handoff to Developers",
+      "Legal & Privacy Standards",
+      "Ethical Design Practices"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Emerging Tech",
+    "topics": [
+      "AI-Driven Design Tools",
+      "Immersive Environments"
+    ]
+  }
+]

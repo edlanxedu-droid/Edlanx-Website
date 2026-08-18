@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Coding Blueprint: Foundations",
+    "topics": [
+      "Intro to Pythonic Code: Syntax vs. Execution",
+      "The Software Development Lifecycle: Plan, Code, Test, Deploy"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Backend Engineering: High-Performance Logic",
+    "topics": [
+      "Data Structures & Algorithms: The skeleton of efficient software",
+      "OOP Principles: Encapsulation, Inheritance, and Polymorphism",
+      "Error Handling & Debugging: Ensuring system stability",
+      "API & Backend Frameworks — Connecting logic to the digital world"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Career",
+    "topics": [
+      "High-Performance Scripting",
+      "Unit Testing & Validation",
+      "Security & Ethics in Code",
+      "Git & Team Collaboration",
+      "Portfolio & Future Trends",
+      "Conclusion & Learning Outcomes"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Logic: Database & Architecture",
+    "topics": [
+      "Data Modeling & Relationships",
+      "SQL & Relational Databases",
+      "CRUD Operations"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Git Mastery",
+    "topics": [
+      "Git & Version Control",
+      "Virtual Environments"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Professional Tools & Scalable Components",
+    "topics": [
+      "Industry-Standard IDEs",
+      "Version Control with Git",
+      "Reusable Logic Components",
+      "Virtual Environments",
+      "Package Management (PIP)",
+      "Unit Testing Frameworks",
+      "Documentation & PEP 8"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & System Interaction",
+    "topics": [
+      "Script-Based Automation",
+      "API Integration & Requests",
+      "Interactive Command-Line Tools"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Code Validation & Testing Standards",
+    "topics": [
+      "Unit Testing Frameworks",
+      "Debugging & Error Handling",
+      "Industry-Standard Documentation"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Analytical Logic: Data & Visualization",
+    "topics": [
+      "Data Processing with Pandas",
+      "Statistical Visualization",
+      "Algorithmic Efficiency"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & AI Innovation",
+    "topics": [
+      "High-Impact Portfolio Building",
+      "AI-Driven Development & Trends",
+      "The Developer Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "The Developer-Client Bridge",
+      "Legal & Data Privacy Standards",
+      "Ethical Engineering Practices"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Advanced Logic",
+    "topics": [
+      "Machine Learning & AI Integration",
+      "Immersive & Predictive Tech"
+    ]
+  }
+]

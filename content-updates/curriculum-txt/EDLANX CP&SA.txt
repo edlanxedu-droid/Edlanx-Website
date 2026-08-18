@@ -1,0 +1,243 @@
+CONSTRUCTION PLANNING
+AND STRUCTURAL ANALYSIS
+
+  Engineering the Structural Logic of Construction
+  Planning & Analysis
+
+  A project-first certification designed to master BIM integration, Finite
+  Element Analysis (FEA), and the structural engineering of large-scale
+  infrastructure.
+THE EDLANX
+METHODOLOGY
+
+OUR CIVIL ENGINEERING PHILOSOPHY
+
+At Edlanx, we don’t just teach "building software"; we cultivate a project-
+lifecycle mindset. Our program is a deep dive into how modern structures are
+conceived, analyzed, and managed. We believe in Total Integrity—moving
+beyond blueprints to build robust, mathematically sound digital twins that
+ensure real-time safety and strategic efficiency in the global construction
+market.
+
+THE FOUR PILLARS OF MASTERY
+
+Planning Logic    Master the core architecture of project scheduling,
+                  resource allocation, and Critical Path Method (CPM).
+
+Analytical        Learn the structural logic of load paths, seismic analysis, and Finite
+Engineering       Element modeling.
+
+BIM Architecture  Understand the engineering of 3D, 4D (Time), and 5D (Cost) Building
+                  Information Modeling.
+
+Execution Logic   Bring your designs to life by mastering the structural link
+                  between analytical models and on-site construction
+                  standards.
+
+                                                                               EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Project Blueprint: Construction Planning
+
+    1.1 Lifecycle Architecture
+    1.2 WBS Governance
+
+02 Scheduling Logic: Time & Sequence
+                          2.1 CPM Architecture
+                          2.2 Lead & Lag Engineering
+                          2.3 Schedule Optimization Blueprint
+                          2.4 Milestone Governance
+
+03 Structural Fundamentals: Load Path Logic
+                        3.1 Gravity Architecture
+                        3.2 Lateral Engineering
+                        3.3 Equilibrium Logic
+                        3.4 Stress & Strain Governance
+                        3.5 Moment Distribution Architecture
+                        3.6 Truss & Frame Logic
+
+                                                               EDLANX
+04  Analytical Architecture: SAP2000 & ETABS
+
+    4.1 Finite Element Logic
+
+    4.2 Modal Analysis Architecture
+
+    4.3 P-Delta Engineering
+
+05  Concrete Architecture: Reinforced Logic
+
+    5.1 Flexural Engineering
+
+    5.2 Shear & Torsion Governance
+
+06 Steel Architecture: Connection Engineering
+                           6.1 Member Logic
+                           6.2 Connection Architecture
+                           6.3 Buckling Governance
+                           6.4 Plate & Stiffener Logic
+                           6.5 Tension Member Architecture
+                           6.6 Corrosion & Fire Governance
+                           6.7 Fabrication & Erection Logic
+
+07  BIM Architecture: Revit & 4D Sequencing
+
+    7.1 Parametric Building Logic
+
+    7.2 4D Time Integration
+
+    7.3 Clash Detection Logic
+
+08  Geotechnical Logic: Foundation Engineering
+
+    8.1 Soil-Structure Interaction
+    8.2 Shallow & Deep Foundations
+    8.3 Retaining Wall Architecture
+
+                                                             EDLANX
+09  Estimation Logic: 5D Cost Integration
+10
+    9.1 Quantity Take-off Architecture
+    9.2 5D Cost Logic
+    9.3 Tender & Contract Governance
+
+    Quality & Safety Governance: Site Logic
+
+    10.1 HSE Architecture
+    10.2 Quality Assurance (QA/QC)
+    10.3 Site Logistics Architecture
+
+11  Infrastructure Logic: Transportation & Hydraulics
+
+    11.1 Pavement Architecture
+    11.2 Hydraulic Logic
+    11.3 Bridge & Culvert Governance
+
+12  Future Frontiers: Sustainable Building & AI
+
+    12.1 Carbon Logic
+    12.2 Generative Structural Logic
+
+    EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                              EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond basic drafting to bridge the gap between
+                  "drawing" and high-level structural engineering. Our Civil
+                  Engineering syllabus is a deep immersion into BIM (Building
+                  Information Modeling) logic, FEA structural analysis, and the
+                  complex project scheduling required by global infrastructure firms.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at our
+    Bangalore Operational Center. At Edlanx, you won't just learn
+    software; you will be treated as a Structural Engineer or Project
+    Planner, working within real organizational frameworks to architect
+    load-bearing systems and manage 4D/5D construction data.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior Structural Architects and
+       Construction Leads through structured mentoring and rigorous
+       performance evaluations. We focus on developing your ability to
+       solve complex structural stability hurdles and scheduling conflicts
+       with the precision required for live construction environments.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like ETABS, SAP2000, Revit, and
+    Primavera while learning essential professional competencies.
+    We believe in experiential learning and reward innovative
+    structural or planning breakthroughs with performance-based
+    stipends, ensuring you remain driven toward technical mastery.
+
+                                                                                                EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Construction Lifecycle, from initial soil analysis to final structural
+    handover. Our career guidance includes technical resume engineering
+    and mock "Site Coordination" sessions designed to help you secure elite
+    roles in Global EPC (Engineering, Procurement, and Construction) firms.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead a construction
+    "sprint," collaborate across various engineering domains, and grow
+    your network within an elite community of engineers, planners, and
+    mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every structural analysis report and 4D construction schedule you architect at
+                 Edlanx serves as a live, audit-ready demonstration of your ability to manage
+                 the safety and efficiency of multi-million dollar infrastructure.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading project sites at global Engineering, Procurement, and Construction
+                 (EPC) giants and urban development authorities.
+
+Career Excellence We move beyond basic 2D drafting to provide the technical resume
+                            engineering and 5D BIM logic needed to lead digital construction
+                            transformations in the modern "Smart City" era.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in Sustainable Material Science, AI-driven structural
+optimization, and Lean Construction management. Your success is our shared
+mission.
+
+DIRECT MENTORSHIP
+
+                  Architecting a high-rise or a transit system requires
+                  absolute mathematical and temporal precision.
+                  Whether you are debugging a complex FEA mesh,
+                  optimizing a critical path in a project schedule, or
+                  ensuring seismic compliance in a reinforced concrete
+                  design, our senior Structural Architects are available
+                  to provide the direct, technical feedback needed to
+                  ensure your designs are site-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                 EDLANX
+

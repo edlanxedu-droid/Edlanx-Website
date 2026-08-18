@@ -1,0 +1,243 @@
+DATA SCIENCE
+
+Engineering the Logic of Predictive Decisions
+
+ A project-first certification designed to turn analytical thinkers into
+ industry-ready Data Architects and Quantitative Strategists.
+THE EDLANX
+METHODOLOGY
+
+OUR ANALYTICAL PHILOSOPHY
+
+At Edlanx, we don’t just teach tools; we cultivate a data mindset. Our program
+is a deep dive into the intersection of statistical modeling, machine learning,
+and high-performance business intelligence. We believe in Project-First
+Mastery—moving beyond theoretical math to build actionable insights and
+predictive engines from Day 1.
+
+THE FOUR PILLARS OF MASTERY
+
+Statistical Blueprint Master the core principles of probability and inference to
+                                understand the 'why' behind the data 'how'.
+
+Data Architecture    Learn to clean, structure, and manage massive datasets to build
+                     reliable foundations for analysis.
+
+Predictive Logic     Understand how to apply machine learning algorithms to
+Visual Storytelling  design models that anticipate user behavior and market
+                     trends.
+                     Bring your findings to life using industry-standard tools to
+                     create data-driven narratives that stakeholders can act
+                     upon.
+
+                                                                                  EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The Data Blueprint: Foundations
+
+    1.1 Statistical Logic & Probability
+    1.2 The Data Lifecycle
+
+02 Data Engineering: High-Performance Logic
+                          2.1 Data Cleaning & Wrangling
+                          2.2 Feature Engineering Strategy
+                          2.3 ETL Pipeline Architecture
+                          2.4 Data Normalization & Transformation
+
+03 The Analyst Edge: Integration & Portfolio
+                        3.1 SQL & Relational Database Architecture
+                        3.2 Database Schema Design
+                        3.3 NoSQL & Big Data Scalability
+                        3.4 API Data Integration
+                        3.5 Technical Documentation Standards
+                        3.6 GitHub Portfolio Architecture
+
+                                                                    EDLANX
+04  Structural Blueprints: Exploratory Analysis
+
+    4.1 Univariate & Multivariate Analysis
+
+    4.2 Trend & Seasonality Detection
+
+    4.3 Logic Friction Reduction
+
+05  Industry Tools & Ecosystems
+
+    5.1 Python for Data Science
+
+    5.2 R Programming Integration
+
+06  Scalable Components & Libraries
+
+    6.1 NumPy Architecture & Vectorization
+
+    6.2 Pandas for Data Structuring
+
+    6.3 Matplotlib & Seaborn Visualization
+
+    6.4 Scikit-Learn Framework Mastery
+
+    6.5 SciPy for Scientific Computing
+    6.6 Modular Library Management
+    6.7 High-Concurrency Data Handling
+
+07  Automation & Predictive Interaction
+
+    7.1 Machine Learning Pipelines
+
+    7.2 Predictive User Feedback Loops
+
+    7.3 Autonomous Model Deployment
+
+08  Analytical Validation & Testing Standards
+
+    8.1 Cross-Validation Techniques
+    8.2 Bias-Variance Optimization
+    8.3 Model Accuracy Benchmarking
+
+                                                 EDLANX
+09  Visual Logic: Data Storytelling
+10
+    9.1 Tableau & PowerBI Integration
+    9.2 Cognitive Visual Design
+    9.3 Narrative Data Architecture
+
+    Career Launch & Industry Alignment
+
+    10.1 Strategic Resume Engineering
+    10.2 Technical Interview Simulation
+    10.3 The Edlanx Alumni Network
+
+11  Professional Engineering & Ethics
+
+    11.1 Data Privacy & Governance
+    11.2 Algorithmic Fairness
+    11.3 Collaborative Data Leadership
+
+12  Future Frontiers: Big Data & Cloud
+
+    12.1 Hadoop & Spark Integration
+    12.3 The Future of Autonomous Insights
+
+                                            EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                              EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond academic theory to bridge the gap between
+                  stagnant education and fast-moving market requirements.
+                  Our Data Architecture syllabus is a high-octane immersion
+                  into the current and future needs of the global data economy,
+                  focusing on scalable pipelines and predictive precision.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at
+    our Bangalore Operational Center. At Edlanx, you won't
+    just study; you will be treated as a data professional,
+    working within real organizational workflows on live, high-
+    concurrency projects.
+
+03 Mentorship & Continuous Assessment
+
+                   Your growth is guided by senior data scientists through
+                   structured mentoring and regular performance evaluations.
+                   We focus on developing not just your technical eye, but your
+                   ability to solve complex business logic problems with the
+                   confidence required by top-tier firms.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like Python, SQL, and
+    Tableau while learning essential professional competencies.
+    We believe in experiential learning and reward excellence
+    with performance-based stipends, ensuring you are
+    motivated to achieve mastery.
+
+                                                                                                            EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Data Lifecycle, from initial engineering to final predictive
+    deployment. Our career guidance includes resume reviews and
+    mock technical interviews designed to help you secure and
+    sustain meaningful employment in global tech giants.
+
+06   Collaborative Engineering Community
+
+    Join a supportive culture built on teamwork, integrity, and
+    disciplined professional ethics. You will learn to lead the "huddle,"
+    collaborate across various digital domains, and grow your network
+    within an elite community of developers and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                           EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every predictive model, SQL database schema, and automated pipeline you
+                 engineer is designed to be a standout piece in your professional GitHub
+                 repository, proving your ability to solve complex, data-heavy business problems.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and a
+                 powerful network of industry mentors currently engineering data
+                 systems at top-tier global firms and high-growth tech startups.
+
+Career Excellence We don’t just teach Python; we provide technical resume
+                            engineering, mock data-science interviews, and the essential
+                            communication skills needed to present complex insights to
+                            non-technical executive stakeholders.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in Generative AI, Cloud Data Warehousing, and
+Advanced MLOps. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  our analytical growth shouldn’t happen in a
+                  vacuum. Whether you are stuck on a complex
+                  statistical inference logic or need feedback
+                  on a model’s deployment architecture, our
+                  senior data scientists are just a message
+                  away. We are here to ensure your transition
+                  into the world of professional Data
+                  Architecture is seamless and high-impact.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                                                                          EDLANX
+

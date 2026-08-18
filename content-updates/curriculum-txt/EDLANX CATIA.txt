@@ -1,0 +1,249 @@
+CATIA V5
+
+Engineering the Structural Logic of CATIA & Advanced
+Product Lifecycle
+
+A project-first certification designed to master Surface Morphing,
+Assembly Kinematics, and the structural engineering of aerospace-grade
+systems.
+THE EDLANX
+METHODOLOGY
+
+OUR CATIA PHILOSOPHY
+
+At Edlanx, we don’t just teach "3D software"; we cultivate an aerospace-
+standard mindset. Our program is a deep dive into the logic of high-end
+product development. We believe in Structural Fluidity—moving beyond basic
+shapes to build robust, mathematically complex surfaces and mechanical
+systems that ensure real-time performance and strategic scalability in global
+manufacturing.
+
+THE FOUR PILLARS OF MASTERY
+
+Part Logic       Master the core architecture of sketch-based features and
+                 parametric part design.
+
+Surface Engineering Learn the structural logic of Generative Shape Design (GSD) for
+                                complex aerodynamic forms.
+
+Kinematic        Understand the engineering of assembly constraints and digital
+Architecture     mock-up (DMU) motion logic.
+
+PLM Integration  Bring your designs to life by mastering the structural link
+                 between design, engineering analysis, and manufacturing
+                 data.
+
+                                                                              EDLANX
+Table of Contents
+
+    Program Overview
+
+         The Edlanx Methodology
+         Our Development Philosophy
+         The Edlanx Advantage
+
+01  The System Blueprint: Infrastructure & Logic
+
+    1.1 V5/V6 Environment Logic
+    1.2 Specification Tree Architecture
+
+02 Sketcher Architecture
+                          2.1 Profile Logic
+                          2.2 Geometric Constraint Engineering
+                          2.3 Sketch Analysis & Stability
+                          2.4 Transformation Logic
+
+03 Part Design Engineering
+                        3.1 Sketch-Based Feature Logic
+                        3.2 Dress-up Feature Architecture
+                        3.3 Boolean Operation Logic
+                        3.4 Transformation & Pattern Logic
+                        3.5 Material & Mass Property Architecture
+                        3.6 Reference Element Governance
+
+                                                                   EDLANX
+04  Generative Shape Design (GSD)
+
+    4.1 Wireframe Architecture
+
+    4.2 Surface Logic
+
+    4.3 Boundary & Join Logic
+
+05  Surface Morphing & Operations
+
+    5.1 Curvature Architecture
+
+    5.2 Advanced Sweep Logic
+
+06  Assembly Architecture
+
+    6.1 Product Structure Logic
+
+    6.2 Engineering Constraints
+
+    6.3 Contextual Design Architecture
+
+    6.4 Interference & Clearance Logic
+
+    6.5 Bill of Materials (BOM) Engineering
+    6.6 Degree of Freedom (DOF) Logic
+    6.7 Multi-Model Linkage Governance
+
+07  Kinematics & DMU Logic
+
+    7.1 Joint Architecture
+
+    7.2 Simulation Logic
+
+    7.3 Collision & Space Analysis
+
+08  Sheet Metal Architecture
+
+    8.1 Generative Parametric Logic
+    8.2 Wall & Flange Engineering
+    8.3 Corner & Relief Logic
+
+                                             EDLANX
+09  Drafting & Annotation Logic
+10
+    9.1 View Generation Architecture
+    9.2 Geometric Dimensioning (GD&T)
+    9.3 Professional Documentation Governance
+
+    Generative Structural Analysis
+
+    10.1 Meshing Logic
+    10.2 Boundary Condition Architecture
+    10.3 Stress & Deformation Logic
+
+11  Manufacturing Logic: Prismatic Machining
+
+    11.1 Toolpath Architecture
+    11.2 NC Code Logic
+    11.3 Virtual Machining Validation
+
+12  Future Frontiers: Digital Twin Architecture
+
+    12.1 PLM Integration Logic
+    12.2 Virtual Validation Architecture
+
+                                               EDLANX
+WHY CHOOSE
+EDLANX
+
+                                                                                                                            EDLANX
+01 Industry-Ready Curriculum
+
+                  We move beyond basic 3D modeling to bridge the gap between
+                  "drawing" and high-level industrial systems. Our System Design
+                  syllabus is a deep immersion into CATIA V5/V6 logic, PLM data
+                  management, and the structural constraints required by global
+                  aerospace and automotive firms.
+
+02  Real-Time Corporate Exposure
+
+    Step into a high-performance professional environment at our
+    Bangalore Operational Center. At Edlanx, you won't just learn
+    software; you will be treated as a Product Design Engineer,
+    working within real organizational frameworks to architect
+    complex assemblies, manage GSD surface logic, and engineer
+    fabrication-ready blueprints.
+
+03  Mentorship & Continuous Assessment
+
+       Your growth is guided by senior CATIA Architects and
+       Systems Leads through structured mentoring and rigorous
+       performance evaluations. We focus on developing your ability
+       to solve complex surfacing hurdles and structural kinematic
+       errors with the precision required for live production
+       environments.
+
+04  Skill Mastery & Performance Incentives
+
+    Master industry-standard tools like CATIA, DMU Kinematics,
+    and FEA analysis while learning essential professional
+    competencies. We believe in experiential learning and reward
+    innovative structural breakthroughs with performance-based
+    stipends, ensuring you remain driven toward technical mastery.
+
+                                                                                                              EDLANX
+05   Global Career Readiness
+
+    We enhance your employability by focusing on the complete
+    Product Lifecycle, from initial skeleton modeling to final structural
+    analysis. Our career guidance includes technical resume
+    engineering and mock "Design Review" sessions designed to help
+    you secure elite roles in Global Supply Chain and High-End
+    Engineering firms.
+
+06  Collaborative Engineering Community
+
+    Join a supportive culture built on transparency, integrity, and
+    disciplined professional ethics. You will learn to lead a design
+    "sprint," collaborate across various engineering domains, and grow
+    your network within an elite community of architects, engineers,
+    and mentors.
+
+07 Verified Professional Certifications
+
+               At Edlanx, we don’t just issue certificates for attendance; we award
+               them based on verified learning, real-world performance, and practical
+               outcomes. Our credentials are proof of your industry-ready skills and
+               are recognized by institutions and recruiters worldwide.
+
+               We provide four distinct levels of certification:
+
+                    Internship Completion Certificate: Validates your exposure to
+                    professional work culture, verified internship hours, and task-
+                    based mentorship.
+                    Project Completion Certificate: Proof of your hands-on
+                    implementation and problem-solving skills in real-world industry
+                    projects.
+                    Training Completion Certificate: Issued upon mastering our
+                    industry-aligned curriculum and passing skill-based assessments.
+                    Certificate of Excellence: A prestigious award reserved for top-
+                    performing candidates who demonstrate an advanced
+                    understanding.
+
+                                                                                                                             EDLANX
+Why This Journey
+Matters
+
+Portfolio-Ready  Every complex aerodynamic surface and kinematic assembly you architect at
+                 Edlanx serves as a live, audit-ready demonstration of your ability to manage
+                 the most sophisticated engineering data in the world.
+
+Global Network   Gain exclusive access to the Edlanx alumni community and industry mentors
+                 leading system implementations at global automotive leaders, aerospace
+                 giants, and Tier-1 industrial suppliers.
+
+Career Excellence We move beyond simple modeling to provide the technical resume
+                            engineering and Product Lifecycle Management (PLM) logic needed to lead
+                            digital engineering transformations in the Industry 4.0 era.
+
+This course is a living ecosystem. We constantly update our curriculum to
+reflect the latest shifts in S/4HANA engineering integration, Generative Shape
+Design, and Digital Twin architecture. Your success is our shared mission.
+
+DIRECT MENTORSHIP
+
+                  Navigating an enterprise-grade system stack
+                  requires absolute mathematical precision. Whether
+                  you are debugging a surface continuity error
+                  (G2/G3), optimizing a complex kinematic joint, or
+                  architecting a top-down assembly skeleton, our
+                  senior CATIA System Architects are available to
+                  provide the direct, technical feedback needed to
+                  ensure your designs are aerospace-ready.
+
+                  Address Lotus Square, 9th cross Rd, 7th
+                                Sector, HSR Layout, Bengaluru
+
+                  Phone  +91 93608 40496
+                  Email
+                         www.edlanx.com
+                         support@edlanx.com
+
+                                             EDLANX
+

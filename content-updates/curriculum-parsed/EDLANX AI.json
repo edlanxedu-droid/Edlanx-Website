@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The AI Blueprint: Foundations",
+    "topics": [
+      "The Intelligence Lifecycle",
+      "Supervised vs. Unsupervised Learning"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Data Engineering: High-Performance Logic",
+    "topics": [
+      "Statistical Strategy",
+      "Feature Engineering",
+      "Exploratory Data Analysis (EDA)",
+      "Data Scalability & Pipeline Management"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Developer Edge: Integration & Portfolio",
+    "topics": [
+      "Model Integration & API Architecture",
+      "Performance Metrics & Logic Validation",
+      "Hyperparameter Tuning & Efficiency",
+      "Model Deployment & Scalability",
+      "Technical Documentation Standards",
+      "GitHub Architecture for AI"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Neural Architecture",
+    "topics": [
+      "Deep Learning Frameworks",
+      "Convolutional Neural Networks (CNN)",
+      "Recurrent Neural Networks (RNN)"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Ecosystems",
+    "topics": [
+      "Tensor-Flow & PyTorch Mastery",
+      "Cloud AI Environments"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Professional Tools & Scalable Components",
+    "topics": [
+      "Generative AI & LLMs",
+      "Transfer Learning Strategy",
+      "Reusable AI Modules",
+      "Model Versioning & DVC",
+      "Automated Pipeline Components",
+      "API Deployment for AI",
+      "Coding Standards & Optimization"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & Interaction",
+    "topics": [
+      "Autonomous Workflow Logic",
+      "Micro-interactions in AI",
+      "Predictive Interaction Design"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Model Validation & Testing Standards",
+    "topics": [
+      "A/B Testing for AI",
+      "Bias Detection & Mitigation",
+      "Ethical Code Validation"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Analytical Logic: Performance & Optimization",
+    "topics": [
+      "Algorithmic Efficiency",
+      "Scalable Inference Pipelines",
+      "Computational Load Management"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & Global Industry Alignment",
+    "topics": [
+      "High-Impact AI Case Studies",
+      "Portfolio Storytelling",
+      "The AI Alumni Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "The Architect-Client Bridge",
+      "Legal & Data Privacy (GDPR/AI Act)",
+      "Ethical AI Frameworks"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Immersive AI & Quantum Logic",
+    "topics": [
+      "Immersive Cognitive Tech",
+      "Emerging AI Trends"
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The System Blueprint: C for Embedded Logic",
+    "topics": [
+      "Memory Architecture",
+      "Pointer Logic"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Microcontroller Architecture: The ARM Logic",
+    "topics": [
+      "Core Logic",
+      "Register Governance",
+      "Pipeline Engineering",
+      "Memory Mapping Architecture"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Peripheral Logic: GPIO & Interrupts",
+    "topics": [
+      "I/O Architecture",
+      "Interrupt Governance",
+      "Event-Driven Engineering",
+      "Clock Tree Architecture",
+      "Debouncing & Edge Logic",
+      "DMA (Direct Memory Access) Logic"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Communication Architecture: Serial Protocols",
+    "topics": [
+      "UART Logic",
+      "I2C & SPI Engineering",
+      "Protocol Analysis Blueprint"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Analog Integration: ADC & DAC Logic",
+    "topics": [
+      "Sampling Architecture",
+      "Resolution Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Timer Architecture: PWM & Capture Logic",
+    "topics": [
+      "Prescaler Logic",
+      "PWM Architecture",
+      "Input Capture Engineering",
+      "Compare Match Logic",
+      "Encoder Interface Governance",
+      "Watchdog Timer Architecture",
+      "Advanced Synchronization Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Real-Time Operating Systems (RTOS) Logic",
+    "topics": [
+      "Scheduler Architecture",
+      "Task Governance",
+      "Inter-Process Logic"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Connectivity Architecture: IoT & Wireless Logic",
+    "topics": [
+      "Wireless Protocol Logic",
+      "MQTT Architecture",
+      "Edge Security Governance"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Industrial Protocol Logic: CAN & RS485",
+    "topics": [
+      "CAN-Bus Architecture",
+      "MODBUS Governance",
+      "Error Resilience Logic"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Driver Development: Hardware Abstraction Layers (HAL)",
+    "topics": [
+      "Layered Architecture",
+      "Portability Logic",
+      "Peripheral Initialization Blueprint"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "System Debugging: Logic Analyzers & JTAG",
+    "topics": [
+      "On-Chip Debugging Logic",
+      "Waveform Architecture",
+      "Memory Leak & Fault Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Edge AI & TinyML",
+    "topics": [
+      "Neural Logic",
+      "Inference Architecture"
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Leads | Edlanx Admin</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body class="admin-body">
+
+<div class="admin-shell">
+  <aside class="admin-sidebar">
+    <img class="admin-logo" src="/assets/logo/edlanx-logo-on-dark.png" alt="Edlanx">
+    <nav class="admin-nav">
+      <a href="index.html" class="is-active"><i class="ph ph-users"></i> Leads</a>
+      <a href="settings.html"><i class="ph ph-gear-six"></i> Brevo settings</a>
+      <a href="emails.html"><i class="ph ph-envelope-simple"></i> Email templates</a>
+    </nav>
+    <div class="admin-sidebar-footer">
+      <div style="margin-bottom:8px;">Signed in as <strong id="admin-username">…</strong></div>
+      <button id="admin-logout">Log out</button>
+    </div>
+  </aside>
+
+  <main class="admin-main">
+    <div class="admin-header">
+      <h1 class="text-h2">Leads</h1>
+      <div style="display:flex; gap:8px; align-items:center;">
+        <input id="search-input" type="text" placeholder="Search name, email, phone…" style="padding:8px 12px; border:1px solid var(--color-border); border-radius:var(--radius-sm); min-width:220px;">
+        <select id="status-filter" style="padding:8px 12px; border:1px solid var(--color-border); border-radius:var(--radius-sm);">
+          <option value="">All statuses</option>
+          <option value="new">New</option>
+          <option value="contacted">Contacted</option>
+          <option value="enrolled">Enrolled</option>
+          <option value="closed">Closed</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="admin-card">
+      <div style="overflow-x:auto;">
+        <table class="admin-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Contact</th>
+              <th>Course interest</th>
+              <th>Source</th>
+              <th>Status</th>
+              <th>Received</th>
+            </tr>
+          </thead>
+          <tbody id="leads-tbody">
+            <tr><td colspan="6" style="color:var(--color-text-muted);">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-top:var(--space-3);">
+        <span id="leads-count" class="text-caption" style="text-transform:none; letter-spacing:0;"></span>
+        <div style="display:flex; gap:8px;">
+          <button class="admin-btn admin-btn-secondary" id="prev-page">Previous</button>
+          <button class="admin-btn admin-btn-secondary" id="next-page">Next</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="admin.js"></script>
+<script>
+let page = 1;
+const pageSize = 25;
+let total = 0;
+
+function escapeHtml(str) {
+  return String(str ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+async function loadLeads() {
+  const tbody = document.getElementById("leads-tbody");
+  tbody.innerHTML = `<tr><td colspan="6" style="color:var(--color-text-muted);">Loading…</td></tr>`;
+  const status = document.getElementById("status-filter").value;
+  const q = document.getElementById("search-input").value.trim();
+  const params = new URLSearchParams({ page, pageSize, status, q });
+  const data = await adminApi(`/api/admin/leads?${params}`);
+  total = data.total;
+
+  if (!data.leads.length) {
+    tbody.innerHTML = `<tr><td colspan="6" style="color:var(--color-text-muted);">No leads found.</td></tr>`;
+  } else {
+    tbody.innerHTML = data.leads.map((l) => `
+      <tr>
+        <td><strong>${escapeHtml(l.full_name)}</strong>${l.message ? `<div class="text-caption" style="text-transform:none; letter-spacing:0; color:var(--color-text-muted); margin-top:2px;">${escapeHtml(l.message)}</div>` : ""}</td>
+        <td>${escapeHtml(l.email)}<br>${escapeHtml(l.phone)}</td>
+        <td>${escapeHtml(l.course_interest || "—")}</td>
+        <td>${escapeHtml(l.source)}</td>
+        <td><span class="admin-badge">${escapeHtml(l.status)}</span></td>
+        <td>${new Date(l.created_at).toLocaleString()}</td>
+      </tr>
+    `).join("");
+  }
+
+  const from = total === 0 ? 0 : (page - 1) * pageSize + 1;
+  const to = Math.min(page * pageSize, total);
+  document.getElementById("leads-count").textContent = `${from}–${to} of ${total}`;
+  document.getElementById("prev-page").disabled = page <= 1;
+  document.getElementById("next-page").disabled = to >= total;
+}
+
+document.getElementById("prev-page").addEventListener("click", () => { if (page > 1) { page--; loadLeads(); } });
+document.getElementById("next-page").addEventListener("click", () => { page++; loadLeads(); });
+document.getElementById("status-filter").addEventListener("change", () => { page = 1; loadLeads(); });
+let searchTimer;
+document.getElementById("search-input").addEventListener("input", () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => { page = 1; loadLeads(); }, 300);
+});
+
+requireAdminAuth().then(loadLeads);
+</script>
+</body>
+</html>

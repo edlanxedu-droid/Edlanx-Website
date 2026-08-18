@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin Login | Edlanx</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body class="admin-body">
+
+<div class="admin-login-shell">
+  <div class="admin-login-card">
+    <img src="/assets/logo/edlanx-logo-on-light.png" alt="Edlanx" style="height:28px; margin-bottom: var(--space-4);">
+    <h1 class="text-h3" style="margin-bottom: var(--space-3);">Admin sign in</h1>
+    <form id="login-form">
+      <div class="admin-field">
+        <label>Username</label>
+        <input type="text" name="username" required autofocus autocomplete="username">
+      </div>
+      <div class="admin-field">
+        <label>Password</label>
+        <input type="password" name="password" required autocomplete="current-password">
+      </div>
+      <button type="submit" class="admin-btn" style="width:100%; justify-content:center;">Sign in</button>
+      <div class="admin-status" id="login-status"></div>
+    </form>
+  </div>
+</div>
+
+<script>
+document.getElementById("login-form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const statusEl = document.getElementById("login-status");
+  const form = e.target;
+  const btn = form.querySelector("button[type=submit]");
+  btn.disabled = true;
+  statusEl.className = "admin-status";
+  statusEl.textContent = "Signing in…";
+  try {
+    const res = await fetch("/api/admin/login", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ username: form.username.value, password: form.password.value }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || "Invalid credentials");
+    window.location.href = "/admin/index.html";
+  } catch (err) {
+    statusEl.className = "admin-status is-error";
+    statusEl.textContent = err.message;
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>

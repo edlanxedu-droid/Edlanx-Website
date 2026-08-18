@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Data Blueprint: Foundations",
+    "topics": [
+      "Statistical Logic & Probability",
+      "The Data Lifecycle"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Data Engineering: High-Performance Logic",
+    "topics": [
+      "Data Cleaning & Wrangling",
+      "Feature Engineering Strategy",
+      "ETL Pipeline Architecture",
+      "Data Normalization & Transformation"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Analyst Edge: Integration & Portfolio",
+    "topics": [
+      "SQL & Relational Database Architecture",
+      "Database Schema Design",
+      "NoSQL & Big Data Scalability",
+      "API Data Integration",
+      "Technical Documentation Standards",
+      "GitHub Portfolio Architecture"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Exploratory Analysis",
+    "topics": [
+      "Univariate & Multivariate Analysis",
+      "Trend & Seasonality Detection",
+      "Logic Friction Reduction"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Industry Tools & Ecosystems",
+    "topics": [
+      "Python for Data Science",
+      "R Programming Integration"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Components & Libraries",
+    "topics": [
+      "NumPy Architecture & Vectorization",
+      "Pandas for Data Structuring",
+      "Matplotlib & Seaborn Visualization",
+      "Scikit-Learn Framework Mastery",
+      "SciPy for Scientific Computing",
+      "Modular Library Management",
+      "High-Concurrency Data Handling"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation & Predictive Interaction",
+    "topics": [
+      "Machine Learning Pipelines",
+      "Predictive User Feedback Loops",
+      "Autonomous Model Deployment"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation & Testing Standards",
+    "topics": [
+      "Cross-Validation Techniques",
+      "Bias-Variance Optimization",
+      "Model Accuracy Benchmarking"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Visual Logic: Data Storytelling",
+    "topics": [
+      "Tableau & PowerBI Integration",
+      "Cognitive Visual Design",
+      "Narrative Data Architecture"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch & Industry Alignment",
+    "topics": [
+      "Strategic Resume Engineering",
+      "Technical Interview Simulation",
+      "The Edlanx Alumni Network"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Data Privacy & Governance",
+      "Algorithmic Fairness",
+      "Collaborative Data Leadership"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Big Data & Cloud",
+    "topics": [
+      "Hadoop & Spark Integration",
+      "The Future of Autonomous Insights"
+    ]
+  }
+]

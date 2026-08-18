@@ -1,0 +1,115 @@
+[
+  {
+    "num": 1,
+    "title": "The Digital Blueprint: Foundations",
+    "topics": [
+      "Market DNA & Psychographics",
+      "Competitor Architecture"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Discovery Logic: SEO Mastery",
+    "topics": [
+      "Technical SEO Architecture",
+      "Semantic & On-Page Logic",
+      "Authority & Backlink Ecosystems",
+      "Local Discovery & Global Reach"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "The Professional Edge: Content Strategy",
+    "topics": [
+      "Psychological Scripting & Hooks",
+      "Visual Logic & Design Hierarchy",
+      "Content Pillars & Topical Authority",
+      "Multi-Channel Storytelling",
+      "Video Architecture & Pacing",
+      "The Creator’s Portfolio"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Structural Blueprints: Social Ecosystems",
+    "topics": [
+      "Meta & LinkedIn Architecture",
+      "Community Engineering",
+      "The Social Pulse"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Traffic Engineering: Search Engine Ads",
+    "topics": [
+      "Intent-Based Bidding",
+      "Quality Score Optimization"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Scalable Influence: Performance Marketing",
+    "topics": [
+      "Paid Social Logic & Algorithmic Bidding",
+      "Audience Segmentation & Lookalike Modeling",
+      "The Retargeting Shield",
+      "Creative A/B Testing Frameworks",
+      "Dynamic Creative Optimization (DCO)",
+      "Attribution Modeling & ROI Validation",
+      "Scaling Infrastructure"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Automation Logic: Email & CRM",
+    "topics": [
+      "Lead Nurturing Architecture",
+      "Segmentation Logic",
+      "Retention Engineering"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Analytical Validation: Data Intelligence",
+    "topics": [
+      "Google Analytics 4 (GA4)",
+      "Attribution Modeling",
+      "Data Storytelling"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Viral Mechanics: Video & Influencer Logic",
+    "topics": [
+      "The Creator Economy",
+      "Short-Form Video Mastery",
+      "Live Stream Strategy"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Career Launch: The Growth Lead",
+    "topics": [
+      "The 360° Strategy Project",
+      "Client Management Logic",
+      "The Edlanx Huddle"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Professional Engineering & Ethics",
+    "topics": [
+      "Digital Privacy Standards",
+      "Ethical Growth Hacks",
+      "Collaborative Governance"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: AI & Predictive Marketing",
+    "topics": [
+      "Generative Content Logic",
+      "Predictive Analytics"
+    ]
+  }
+]

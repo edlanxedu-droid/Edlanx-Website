@@ -1,0 +1,114 @@
+[
+  {
+    "num": 1,
+    "title": "The System Blueprint: Robotics Architecture",
+    "topics": [
+      "Component Logic",
+      "Communication Blueprinting"
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Kinematic Architecture: Motion Mathematics",
+    "topics": [
+      "Coordinate Logic",
+      "Forward & Inverse Kinematics",
+      "Degrees of Freedom (DoF) Governance",
+      "Trajectory Blueprinting"
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Actuation Logic: Motors & Drives",
+    "topics": [
+      "Servo & Stepper Architecture",
+      "Torque & Speed Governance",
+      "Feedback Architecture",
+      "H-Bridge & PWM Logic",
+      "Harmonic Drive Engineering",
+      "Power Distribution Governance"
+    ]
+  },
+  {
+    "num": 4,
+    "title": "The Operating System: ROS 2 Architecture",
+    "topics": [
+      "Node & Topic Logic",
+      "Service & Action Governance",
+      "Workspace Engineering"
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Perception Architecture: Sensors & Vision",
+    "topics": [
+      "Sensor Fusion Logic",
+      "LiDAR & Ranging Governance"
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Navigation Logic: Path Planning & SLAM",
+    "topics": [
+      "SLAM Architecture",
+      "Probabilistic Logic",
+      "Global Path Planning Governance",
+      "Local Planner Engineering",
+      "Costmap Architecture",
+      "Behavior Tree Governance",
+      "Odometry Integration Logic"
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Control Architecture: PID & State Space",
+    "topics": [
+      "PID Governance",
+      "State-Space Logic",
+      "Feedback Loop Architecture"
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Industrial Robotics: PLC & Cobot Integration",
+    "topics": [
+      "Cobot Governance",
+      "PLC Logic Integration",
+      "End-Effector Architecture"
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Simulation Logic: Gazebo & URDF Modeling",
+    "topics": [
+      "URDF Blueprinting",
+      "Gazebo Environment Logic"
+    ]
+  },
+  {
+    "num": 10,
+    "title": "Embedded Robotics: Real-Time Hardware Interfacing",
+    "topics": [
+      "Real-Time Kernel Logic",
+      "Communication Bus Architecture",
+      "Micro-Architectural Interfacing"
+    ]
+  },
+  {
+    "num": 11,
+    "title": "Swarm Logic: Multi-Robot Coordination",
+    "topics": [
+      "Decentralized Governance",
+      "Multi-Agent Communication Logic",
+      "Collaborative Task Architecture"
+    ]
+  },
+  {
+    "num": 12,
+    "title": "Future Frontiers: Humanoid Logic & AI Robotics",
+    "topics": [
+      "Bipedal Stability Architecture",
+      "Foundation Model Integration"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+<!--
+  RECREATED LOGO — NOT the original artwork file.
+  This SVG was hand-built to match the wordmark supplied by the brand team
+  (lowercase "edlanx", "an" + rocket-swoosh mark in the accent color, rest of
+  the wordmark in the neutral/contrast color). Chat-uploaded images are not
+  accessible on disk in this environment, so exact original vector paths
+  could not be extracted. REPLACE THIS FILE with the true production logo
+  (AI/EPS/SVG master) as soon as it's available; keep the filename the same
+  so every reference below keeps working.
+
+  Usage: wrap in a container that sets these two custom properties for the
+  surface it sits on:
+    --logo-color-neutral   ("ed", "l", "x")
+    --logo-color-accent    ("an" + rocket-swoosh)
+
+  Dark surface   -> neutral: #FFFFFF (var(--color-text-primary-inverse)), accent: var(--color-cta)
+  Light surface  -> neutral: #0A0A0A (var(--color-text-primary)),          accent: var(--color-cta)
+  Orange surface -> neutral: #0A0A0A (var(--color-text-primary)),          accent: #FFFFFF (inverted, since accent can't be orange-on-orange)
+-->
+<svg viewBox="0 0 560 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Edlanx logo">
+  <style>
+    .logo-neutral { fill: var(--logo-color-neutral, #0A0A0A); }
+    .logo-accent { fill: var(--logo-color-accent, #FF4800); }
+    .logo-word { font-family: 'Agern', 'Sora', 'Manrope', -apple-system, sans-serif; font-weight: 800; font-size: 140px; }
+  </style>
+  <text x="0" y="128" class="logo-word">
+    <tspan class="logo-neutral">ed</tspan><tspan class="logo-neutral" dx="-6">l</tspan><tspan class="logo-accent" dx="2">an</tspan><tspan class="logo-neutral" dx="0">x</tspan>
+  </text>
+  <!-- rocket + swoosh mark -->
+  <g class="logo-accent" transform="translate(478, 84) rotate(28)">
+    <path d="M0 24c0-24 20-40 40-40s10 22-2 34c-6 6-14 8-22 8-8 0-16-1-16-2z" />
+    <circle cx="30" cy="6" r="5" fill="var(--logo-color-neutral, #0A0A0A)" />
+    <path d="M-6 22 L4 30 L-4 34 Z" />
+  </g>
+  <path class="logo-accent" d="M20 150 C 140 176, 340 176, 470 128" fill="none" stroke="var(--logo-color-accent, #FF4800)" stroke-width="7" stroke-linecap="round" />
+</svg>
