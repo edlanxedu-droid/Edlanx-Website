@@ -47,7 +47,7 @@ document.getElementById("login-form").addEventListener("submit", async (e) => {
     });
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || "Invalid credentials");
-    window.location.href = "/admin/index.html";
+    window.location.href = "/admin";
   } catch (err) {
     statusEl.className = "admin-status is-error";
     statusEl.textContent = err.message;
