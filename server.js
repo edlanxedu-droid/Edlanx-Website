@@ -11,6 +11,7 @@ const http = require("http");
 const fs = require("fs");
 const path = require("path");
 const { URL } = require("url");
+const { getSession } = require("./lib/auth");
 
 const ROOT = __dirname;
 const PORT = process.env.PORT || 4173;
@@ -26,7 +27,6 @@ const REWRITES = [
   { test: /^\/departments\/?$/, dest: "/departments/index.html" },
   { test: /^\/departments\/([^/]+)\/?$/, dest: (m) => `/departments/department.html?slug=${m[1]}` },
   { test: /^\/courses\/([^/]+)\/?$/, dest: (m) => `/course.html?slug=${m[1]}` },
-  { test: /^\/admin\/?$/, dest: "/admin/index.html" },
 ];
 
 function readBody(req) {
@@ -95,6 +95,13 @@ const server = http.createServer(async (req, res) => {
 
   if (pathname.startsWith("/api/")) {
     return handleApi(req, res, urlObj);
+  }
+
+  if (/^\/admin\/?$/.test(pathname)) {
+    let loggedIn = false;
+    try { loggedIn = Boolean(getSession(req)); } catch { /* no/invalid session secret configured */ }
+    res.writeHead(302, { Location: loggedIn ? "/admin/index.html" : "/admin/login.html" });
+    return res.end();
   }
 
   for (const rule of REWRITES) {
