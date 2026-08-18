@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Account | Edlanx Admin</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body class="admin-body">
+
+<div class="admin-shell">
+  <aside class="admin-sidebar">
+    <img class="admin-logo" src="/assets/logo/edlanx-logo-on-dark.png" alt="Edlanx">
+    <nav class="admin-nav">
+      <a href="index.html"><i class="ph ph-users"></i> Leads</a>
+      <a href="settings.html"><i class="ph ph-gear-six"></i> Brevo settings</a>
+      <a href="emails.html"><i class="ph ph-envelope-simple"></i> Email templates</a>
+      <a href="account.html" class="is-active"><i class="ph ph-user-circle"></i> Account</a>
+    </nav>
+    <div class="admin-sidebar-footer">
+      <div style="margin-bottom:8px;">Signed in as <strong id="admin-username">…</strong></div>
+      <button id="admin-logout">Log out</button>
+    </div>
+  </aside>
+
+  <main class="admin-main">
+    <div class="admin-header">
+      <h1 class="text-h2">Account</h1>
+    </div>
+
+    <div class="admin-card" style="max-width:480px;">
+      <p class="text-body" style="color:var(--color-text-secondary); margin-bottom: var(--space-4);">
+        Change your admin username and/or password. Your current password is required to confirm any change.
+      </p>
+      <form id="account-form">
+        <div class="admin-field">
+          <label>Username</label>
+          <input type="text" name="new_username" id="new_username" autocomplete="username">
+        </div>
+        <div class="admin-field">
+          <label>New password</label>
+          <input type="password" name="new_password" placeholder="Leave blank to keep current password" autocomplete="new-password">
+          <div class="admin-hint">At least 8 characters.</div>
+        </div>
+        <div class="admin-field">
+          <label>Confirm new password</label>
+          <input type="password" name="confirm_password" placeholder="Repeat new password" autocomplete="new-password">
+        </div>
+        <div class="admin-field">
+          <label>Current password <span style="font-weight:400; color:var(--color-text-muted);">(required to save)</span></label>
+          <input type="password" name="current_password" required autocomplete="current-password">
+        </div>
+        <button type="submit" class="admin-btn">Save changes</button>
+        <div class="admin-status" id="save-status"></div>
+      </form>
+    </div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="admin.js"></script>
+<script>
+const form = document.getElementById("account-form");
+
+async function load() {
+  const data = await adminApi("/api/admin/account");
+  form.new_username.value = data.username;
+}
+
+form.addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const statusEl = document.getElementById("save-status");
+  statusEl.className = "admin-status";
+
+  const newPassword = form.new_password.value;
+  const confirmPassword = form.confirm_password.value;
+  if (newPassword && newPassword !== confirmPassword) {
+    statusEl.className = "admin-status is-error";
+    statusEl.textContent = "New password and confirmation don't match.";
+    return;
+  }
+
+  statusEl.textContent = "Saving…";
+  try {
+    const data = await adminApi("/api/admin/account", {
+      method: "POST",
+      body: JSON.stringify({
+        current_password: form.current_password.value,
+        new_username: form.new_username.value,
+        new_password: newPassword,
+      }),
+    });
+    document.getElementById("admin-username").textContent = data.username;
+    form.current_password.value = "";
+    form.new_password.value = "";
+    form.confirm_password.value = "";
+    statusEl.className = "admin-status is-ok";
+    statusEl.textContent = "Saved.";
+  } catch (err) {
+    statusEl.className = "admin-status is-error";
+    statusEl.textContent = err.message;
+  }
+});
+
+requireAdminAuth().then(load);
+</script>
+</body>
+</html>
