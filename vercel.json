@@ -1,4 +1,5 @@
 {
+  "cleanUrls": true,
   "rewrites": [
     { "source": "/departments", "destination": "/departments/index.html" },
     { "source": "/departments/:slug", "destination": "/departments/department.html?slug=:slug" },
