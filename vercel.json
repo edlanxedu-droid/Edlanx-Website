@@ -1,10 +1,11 @@
 {
   "cleanUrls": true,
-  "rewrites": [
-    { "source": "/departments", "destination": "/departments/index.html" },
-    { "source": "/departments/:slug", "destination": "/departments/department.html?slug=:slug" },
-    { "source": "/courses/:slug", "destination": "/course.html?slug=:slug" },
-    { "source": "/admin", "destination": "/admin/index.html" }
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/departments", "dest": "/departments/index.html" },
+    { "src": "/departments/(?<slug>[^/]+)", "dest": "/departments/department.html?slug=$slug" },
+    { "src": "/courses/(?<slug>[^/]+)", "dest": "/course.html?slug=$slug" },
+    { "src": "/admin", "dest": "/admin/index.html" }
   ],
   "headers": [
     {
