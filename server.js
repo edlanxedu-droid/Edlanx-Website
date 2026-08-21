@@ -71,14 +71,24 @@ async function handleApi(req, res, urlObj) {
 
 function serveStatic(req, res, pathname) {
   let filePath = path.join(ROOT, decodeURIComponent(pathname));
-  if (pathname.endsWith("/") || !path.extname(pathname)) {
+  const ext = path.extname(pathname);
+
+  if (pathname.endsWith("/") || !ext) {
     const asDir = path.join(filePath, "index.html");
     filePath = fs.existsSync(asDir) ? asDir : `${filePath}.html`;
+    if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) {
+      filePath = path.join(ROOT, "index.html");
+    }
   }
+
   if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) {
-    const fallback = path.join(ROOT, "index.html");
-    filePath = fs.existsSync(filePath + ".html") ? filePath + ".html" : fallback;
+    if (pathname.startsWith("/admin")) {
+      res.setHeader("X-Robots-Tag", "noindex, nofollow");
+    }
+    res.statusCode = 404;
+    return res.end("404 Not Found");
   }
+
   if (pathname.startsWith("/admin")) {
     res.setHeader("X-Robots-Tag", "noindex, nofollow");
   }
