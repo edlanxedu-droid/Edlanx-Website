@@ -14,6 +14,7 @@ const { URL } = require("url");
 const { getSession } = require("./lib/auth");
 
 const ROOT = __dirname;
+const PUBLIC_ROOT = fs.existsSync(path.join(__dirname, "public")) ? path.join(__dirname, "public") : __dirname;
 const PORT = process.env.PORT || 4173;
 const isProd = process.env.NODE_ENV === "production";
 
@@ -70,14 +71,14 @@ async function handleApi(req, res, urlObj) {
 }
 
 function serveStatic(req, res, pathname) {
-  let filePath = path.join(ROOT, decodeURIComponent(pathname));
+  let filePath = path.join(PUBLIC_ROOT, decodeURIComponent(pathname));
   const ext = path.extname(pathname);
 
   if (pathname.endsWith("/") || !ext) {
     const asDir = path.join(filePath, "index.html");
     filePath = fs.existsSync(asDir) ? asDir : `${filePath}.html`;
     if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) {
-      filePath = path.join(ROOT, "index.html");
+      filePath = path.join(PUBLIC_ROOT, "index.html");
     }
   }
 
