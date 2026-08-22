@@ -108,8 +108,28 @@ const server = http.createServer(async (req, res) => {
     return handleApi(req, res, urlObj);
   }
 
-  if (/^\/blank-[0-9]+$/i.test(pathname)) {
+  if (pathname === "/blank-1") {
+    res.writeHead(301, { Location: "/about" });
+    return res.end();
+  }
+  if (pathname === "/blank-2") {
     res.writeHead(301, { Location: "/pricing" });
+    return res.end();
+  }
+  if (pathname === "/blank-3") {
+    res.writeHead(301, { Location: "/register" });
+    return res.end();
+  }
+  if (pathname === "/blank-4") {
+    res.writeHead(301, { Location: "/departments" });
+    return res.end();
+  }
+  if (pathname === "/blank-5") {
+    res.writeHead(301, { Location: "/departments/cse-it" });
+    return res.end();
+  }
+  if (/^\/blank-[0-9]+$/i.test(pathname)) {
+    res.writeHead(301, { Location: "/" });
     return res.end();
   }
   if (/^\/contact-us\/?$/i.test(pathname) || /^\/contact\/?$/i.test(pathname)) {
@@ -120,7 +140,11 @@ const server = http.createServer(async (req, res) => {
     res.writeHead(301, { Location: "/departments" });
     return res.end();
   }
-  if (/^\/careers\/?$/i.test(pathname) || /^\/about-us\/?$/i.test(pathname)) {
+  if (/^\/careers\/?$/i.test(pathname)) {
+    res.writeHead(301, { Location: "/" });
+    return res.end();
+  }
+  if (/^\/about-us\/?$/i.test(pathname)) {
     res.writeHead(301, { Location: "/about" });
     return res.end();
   }
