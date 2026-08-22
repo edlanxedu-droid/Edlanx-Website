@@ -1,18 +1,25 @@
-/* ============================================================
-   POST /api/admin/login  { username, password }
-   Verifies against admin_users and sets a signed session cookie.
-   ============================================================ */
-
-const { query } = require("../lib/db");
-const { verifyPassword, createSessionCookie } = require("../lib/auth");
+let db, auth, initError;
+try {
+  db = require("../lib/db");
+  auth = require("../lib/auth");
+} catch (e) {
+  initError = e;
+}
 
 module.exports = async (req, res) => {
+  if (initError) {
+    return res.status(500).json({ error: "Init error", message: initError.message, stack: initError.stack });
+  }
+
   if (req.method !== "POST") {
     res.setHeader("Allow", "POST");
     return res.status(405).json({ error: "Method not allowed" });
   }
 
   try {
+    const { query } = db;
+    const { verifyPassword, createSessionCookie } = auth;
+
     let body = req.body;
     if (typeof body === "string") {
       try { body = JSON.parse(body); } catch { body = {}; }
@@ -37,6 +44,6 @@ module.exports = async (req, res) => {
     return res.status(200).json({ ok: true, username: user.username });
   } catch (err) {
     console.error("Login API error:", err);
-    return res.status(500).json({ error: err.message || "Internal server error" });
+    return res.status(500).json({ error: "Runtime error", message: err.message, stack: err.stack });
   }
 };
