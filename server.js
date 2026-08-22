@@ -108,6 +108,23 @@ const server = http.createServer(async (req, res) => {
     return handleApi(req, res, urlObj);
   }
 
+  if (/^\/blank-[0-9]+$/i.test(pathname)) {
+    res.writeHead(301, { Location: "/pricing" });
+    return res.end();
+  }
+  if (/^\/contact-us\/?$/i.test(pathname) || /^\/contact\/?$/i.test(pathname)) {
+    res.writeHead(301, { Location: "/register" });
+    return res.end();
+  }
+  if (/^\/our-career-domains\/?$/i.test(pathname) || /^\/career-domains\/?$/i.test(pathname)) {
+    res.writeHead(301, { Location: "/departments" });
+    return res.end();
+  }
+  if (/^\/careers\/?$/i.test(pathname) || /^\/about-us\/?$/i.test(pathname)) {
+    res.writeHead(301, { Location: "/about" });
+    return res.end();
+  }
+
   if (/^\/admin\/?$/.test(pathname)) {
     let loggedIn = false;
     try { loggedIn = Boolean(getSession(req)); } catch { /* no/invalid session secret configured */ }

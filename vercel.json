@@ -1,5 +1,19 @@
 {
   "cleanUrls": true,
+  "redirects": [
+    { "source": "/blank-1", "destination": "/pricing", "permanent": true },
+    { "source": "/blank-2", "destination": "/pricing", "permanent": true },
+    { "source": "/blank-3", "destination": "/pricing", "permanent": true },
+    { "source": "/blank-4", "destination": "/about", "permanent": true },
+    { "source": "/blank-5", "destination": "/register", "permanent": true },
+    { "source": "/blank-6", "destination": "/register", "permanent": true },
+    { "source": "/contact-us", "destination": "/register", "permanent": true },
+    { "source": "/contact", "destination": "/register", "permanent": true },
+    { "source": "/our-career-domains", "destination": "/departments", "permanent": true },
+    { "source": "/career-domains", "destination": "/departments", "permanent": true },
+    { "source": "/careers", "destination": "/about", "permanent": true },
+    { "source": "/about-us", "destination": "/about", "permanent": true }
+  ],
   "rewrites": [
     { "source": "/departments", "destination": "/departments/index.html" },
     { "source": "/departments/:slug", "destination": "/departments/department.html?slug=:slug" },
