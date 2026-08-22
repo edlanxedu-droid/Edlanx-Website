@@ -1,10 +1,5 @@
 {
   "cleanUrls": true,
-  "functions": {
-    "api/**/*.js": {
-      "includeFiles": "api/_lib/**"
-    }
-  },
   "redirects": [
     { "source": "/blank-1", "destination": "/about", "permanent": true },
     { "source": "/blank-2", "destination": "/pricing", "permanent": true },
