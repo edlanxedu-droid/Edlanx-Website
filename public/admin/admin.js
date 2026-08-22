@@ -33,9 +33,14 @@ async function requireAdminAuth() {
 function wireLogout() {
   const btn = document.getElementById("admin-logout");
   if (!btn) return;
-  btn.addEventListener("click", async () => {
-    await fetch("/api/admin/logout", { method: "POST" });
-    window.location.href = "/admin/login.html";
+  btn.addEventListener("click", async (e) => {
+    e.preventDefault();
+    try {
+      await fetch("/api/admin/logout", { method: "POST" });
+    } catch (err) {
+      console.error("Logout request failed:", err);
+    }
+    window.location.replace("/admin/login.html");
   });
 }
 
