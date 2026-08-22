@@ -3,8 +3,9 @@
    POST /api/admin/settings   -> update it (partial allowed)
    ============================================================ */
 
-const { requireAdmin } = require("../../lib/auth");
-const { getSettings, setSettings } = require("../../lib/settings");
+const path = require("path");
+const { requireAdmin } = require(path.join(process.cwd(), "lib", "auth"));
+const { getSettings, setSettings } = require(path.join(process.cwd(), "lib", "settings"));
 
 module.exports = requireAdmin(async (req, res) => {
   if (req.method === "GET") {

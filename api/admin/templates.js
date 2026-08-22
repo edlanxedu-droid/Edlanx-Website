@@ -6,8 +6,9 @@
         -> render with sample data, no save (used by the live preview pane)
    ============================================================ */
 
-const { requireAdmin } = require("../../lib/auth");
-const { getAllTemplates, setTemplate, renderPreview, TEMPLATE_KEYS } = require("../../lib/templates");
+const path = require("path");
+const { requireAdmin } = require(path.join(process.cwd(), "lib", "auth"));
+const { getAllTemplates, setTemplate, renderPreview, TEMPLATE_KEYS } = require(path.join(process.cwd(), "lib", "templates"));
 
 module.exports = requireAdmin(async (req, res) => {
   if (req.method === "GET") {

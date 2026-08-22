@@ -3,8 +3,9 @@
    Verifies against admin_users and sets a signed session cookie.
    ============================================================ */
 
-const { query } = require("../../lib/db");
-const { verifyPassword, createSessionCookie } = require("../../lib/auth");
+const path = require("path");
+const { query } = require(path.join(process.cwd(), "lib", "db"));
+const { verifyPassword, createSessionCookie } = require(path.join(process.cwd(), "lib", "auth"));
 
 module.exports = async (req, res) => {
   if (req.method !== "POST") {

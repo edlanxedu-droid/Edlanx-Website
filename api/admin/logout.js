@@ -1,4 +1,5 @@
-const { clearSessionCookie } = require("../../lib/auth");
+const path = require("path");
+const { clearSessionCookie } = require(path.join(process.cwd(), "lib", "auth"));
 
 module.exports = async (req, res) => {
   if (req.method !== "POST") {

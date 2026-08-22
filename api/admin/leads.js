@@ -3,8 +3,9 @@
    Paginated lead listing for the admin dashboard.
    ============================================================ */
 
-const { query } = require("../../lib/db");
-const { requireAdmin } = require("../../lib/auth");
+const path = require("path");
+const { query } = require(path.join(process.cwd(), "lib", "db"));
+const { requireAdmin } = require(path.join(process.cwd(), "lib", "auth"));
 
 module.exports = requireAdmin(async (req, res) => {
   if (req.method !== "GET") {

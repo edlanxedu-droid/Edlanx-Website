@@ -7,8 +7,9 @@
         admin out mid-edit.
    ============================================================ */
 
-const { query } = require("../../lib/db");
-const { requireAdmin, verifyPassword, hashPassword, createSessionCookie } = require("../../lib/auth");
+const path = require("path");
+const { query } = require(path.join(process.cwd(), "lib", "db"));
+const { requireAdmin, verifyPassword, hashPassword, createSessionCookie } = require(path.join(process.cwd(), "lib", "auth"));
 
 module.exports = requireAdmin(async (req, res) => {
   if (req.method === "GET") {

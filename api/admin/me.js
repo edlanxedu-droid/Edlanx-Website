@@ -1,4 +1,5 @@
-const { getSession } = require("../../lib/auth");
+const path = require("path");
+const { getSession } = require(path.join(process.cwd(), "lib", "auth"));
 
 module.exports = async (req, res) => {
   const session = getSession(req);
