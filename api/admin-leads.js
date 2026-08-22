@@ -1,5 +1,5 @@
-const { query } = require("../lib/db");
-const { requireAdmin } = require("../lib/auth");
+const { query } = require("./_lib/db");
+const { requireAdmin } = require("./_lib/auth");
 
 module.exports = requireAdmin(async (req, res) => {
   if (req.method !== "GET") {

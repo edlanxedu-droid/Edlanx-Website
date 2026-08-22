@@ -1,5 +1,5 @@
-const { requireAdmin } = require("../lib/auth");
-const { getSettings, setSettings } = require("../lib/settings");
+const { requireAdmin } = require("./_lib/auth");
+const { getSettings, setSettings } = require("./_lib/settings");
 
 module.exports = requireAdmin(async (req, res) => {
   if (req.method === "GET") {

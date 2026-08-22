@@ -1,18 +1,7 @@
-/* ============================================================
-   Vercel serverless function: POST /api/lead
-   Inserts a website lead into self-hosted Postgres and sends two
-   Brevo emails: an internal notification to the team, and a
-   thank-you email to the student. Brevo config + both email
-   templates are admin-panel-configurable (lib/settings.js,
-   lib/templates.js), with env vars as a fallback for the Brevo
-   settings so the form still works before anyone logs into the
-   admin panel.
-   ============================================================ */
-
-const { query } = require("../lib/db");
-const { getSettings } = require("../lib/settings");
-const { getTemplate, render } = require("../lib/templates");
-const { sendEmail } = require("../lib/brevo");
+const { query } = require("./_lib/db");
+const { getSettings } = require("./_lib/settings");
+const { getTemplate, render } = require("./_lib/templates");
+const { sendEmail } = require("./_lib/brevo");
 
 function isValidEmail(v) { return typeof v === "string" && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v); }
 function isValidPhone(v) { return typeof v === "string" && /^[0-9+\-\s()]{7,15}$/.test(v); }
