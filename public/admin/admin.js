@@ -1,7 +1,6 @@
-/* ============================================================
-   Shared helpers for every admin/*.html page: auth guard,
-   fetch wrapper, and logout wiring.
-   ============================================================ */
+if (window.location.hostname === "edlanx.com") {
+  window.location.replace("https://www.edlanx.com" + window.location.pathname + window.location.search);
+}
 
 async function adminApi(path, options = {}) {
   const res = await fetch(path, {
