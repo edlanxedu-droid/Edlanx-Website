@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "functions": {
     "api/**/*.js": {
-      "includeFiles": "lib/**"
+      "includeFiles": "api/_lib/**"
     }
   },
   "redirects": [
@@ -20,13 +20,6 @@
     { "source": "/about-us", "destination": "/about", "permanent": true }
   ],
   "rewrites": [
-    { "source": "/api/admin/login", "destination": "/api/admin-login" },
-    { "source": "/api/admin/logout", "destination": "/api/admin-logout" },
-    { "source": "/api/admin/me", "destination": "/api/admin-me" },
-    { "source": "/api/admin/leads", "destination": "/api/admin-leads" },
-    { "source": "/api/admin/account", "destination": "/api/admin-account" },
-    { "source": "/api/admin/settings", "destination": "/api/admin-settings" },
-    { "source": "/api/admin/templates", "destination": "/api/admin-templates" },
     { "source": "/departments", "destination": "/departments/index.html" },
     { "source": "/departments/:slug", "destination": "/departments/department.html?slug=:slug" },
     { "source": "/courses/:slug", "destination": "/course.html?slug=:slug" },

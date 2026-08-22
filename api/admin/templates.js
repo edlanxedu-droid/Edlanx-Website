@@ -1,5 +1,5 @@
-const { requireAdmin } = require("./_lib/auth");
-const { getAllTemplates, setTemplate, renderPreview, TEMPLATE_KEYS } = require("./_lib/templates");
+const { requireAdmin } = require("../_lib/auth");
+const { getAllTemplates, setTemplate, renderPreview, TEMPLATE_KEYS } = require("../_lib/templates");
 
 module.exports = requireAdmin(async (req, res) => {
   if (req.method === "GET") {
