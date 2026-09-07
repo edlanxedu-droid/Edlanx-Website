@@ -417,6 +417,11 @@
     </div>
     <div class="footer-bottom">
       <span>&copy; 2026 Edlanx Private Limited. All rights reserved.</span>
+      <nav class="footer-legal-links" id="footer-legal-links" aria-label="Legal">
+        <a href="/privacy-policy" data-legal-key="privacy-policy" hidden>Privacy Policy</a>
+        <a href="/terms-and-conditions" data-legal-key="terms-and-conditions" hidden>Terms &amp; Conditions</a>
+        <a href="/user-agreement" data-legal-key="user-agreement" hidden>User Agreement</a>
+      </nav>
     </div>
   </div>
 </footer>
@@ -424,9 +429,10 @@
 <script src="/js/courses-data.js"></script>
 <script src="/js/main.js"></script>
 <script>
+(async () => {
+  await loadCourseOverrides();
   const trendingSlugs = ["full-stack-web-development", "data-science", "cyber-security"];
-  const trendingHtml = trendingSlugs.map((slug, i) => {
-    const c = getCourse(slug);
+  const trendingHtml = trendingSlugs.map((slug) => getCourse(slug)).filter(Boolean).map((c, i) => {
     return `<a class="card course-card reveal" href="/courses/${c.slug}">
       ${courseThumbHtml(c, i)}
       <span class="course-tag">${DEPARTMENTS.find(d => d.slug === c.departments[0]).name}</span>
@@ -437,6 +443,7 @@
     </a>`;
   }).join("");
   document.getElementById("trending-courses").innerHTML = trendingHtml;
+})();
 </script>
 </body>
 </html>

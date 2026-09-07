@@ -1235,6 +1235,42 @@ const COURSES_RAW = [
 
 const COURSES = COURSES_RAW.map(c => ({ ...c, curriculum: c.modules }));
 
+/* Admin-panel overrides (enabled/disabled + replacement curriculum), loaded at
+   runtime from /api/course-overrides so a toggle takes effect without a
+   redeploy. Pages must `await loadCourseOverrides()` before calling
+   getCourse()/getCoursesByDepartment() for the toggle to be respected. */
+let COURSE_OVERRIDES = {};
+
+async function loadCourseOverrides() {
+  try {
+    const res = await fetch("/api/course-overrides");
+    if (res.ok) COURSE_OVERRIDES = await res.json();
+  } catch {
+    /* fail open: leave COURSE_OVERRIDES empty so every course stays enabled/default */
+  }
+}
+
+function applyOverride(course) {
+  const override = COURSE_OVERRIDES[course.slug];
+  if (!override) return course;
+  if (override.curriculum) return { ...course, curriculum: override.curriculum };
+  return course;
+}
+
 function getDepartment(slug) { return DEPARTMENTS.find(d => d.slug === slug); }
-function getCoursesByDepartment(slug) { return COURSES.filter(c => c.departments.includes(slug)); }
-function getCourse(slug) { return COURSES.find(c => c.slug === slug); }
+function getCoursesByDepartment(slug) {
+  return COURSES
+    .filter(c => c.departments.includes(slug) && COURSE_OVERRIDES[c.slug]?.enabled !== false)
+    .map(applyOverride);
+}
+function getCourse(slug) {
+  const course = COURSES.find(c => c.slug === slug);
+  if (!course || COURSE_OVERRIDES[slug]?.enabled === false) return undefined;
+  return applyOverride(course);
+}
+
+if (typeof window !== "undefined") window.loadCourseOverrides = loadCourseOverrides;
+
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = { COURSES, DEPARTMENTS, getCourse, getCoursesByDepartment, getDepartment };
+}

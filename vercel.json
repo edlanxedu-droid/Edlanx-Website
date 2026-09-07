@@ -18,7 +18,10 @@
     { "source": "/departments", "destination": "/departments/index.html" },
     { "source": "/departments/:slug", "destination": "/departments/department.html?slug=:slug" },
     { "source": "/courses/:slug", "destination": "/course.html?slug=:slug" },
-    { "source": "/admin", "destination": "/admin/index.html" }
+    { "source": "/admin", "destination": "/admin/index.html" },
+    { "source": "/privacy-policy", "destination": "/legal.html?key=privacy-policy" },
+    { "source": "/terms-and-conditions", "destination": "/legal.html?key=terms-and-conditions" },
+    { "source": "/user-agreement", "destination": "/legal.html?key=user-agreement" }
   ],
   "headers": [
     {

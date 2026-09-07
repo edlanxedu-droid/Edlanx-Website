@@ -255,6 +255,11 @@
     </div>
     <div class="footer-bottom">
       <span>&copy; 2026 Edlanx Private Limited. All rights reserved.</span>
+      <nav class="footer-legal-links" id="footer-legal-links" aria-label="Legal">
+        <a href="/privacy-policy" data-legal-key="privacy-policy" hidden>Privacy Policy</a>
+        <a href="/terms-and-conditions" data-legal-key="terms-and-conditions" hidden>Terms &amp; Conditions</a>
+        <a href="/user-agreement" data-legal-key="user-agreement" hidden>User Agreement</a>
+      </nav>
     </div>
   </div>
 </footer>
@@ -262,6 +267,8 @@
 <script src="/js/courses-data.js"></script>
 <script src="/js/main.js"></script>
 <script>
+(async () => {
+  await loadCourseOverrides();
   const params = new URLSearchParams(window.location.search);
   const pathSlug = window.location.pathname.match(/^\/courses\/([^/]+)\/?$/);
   const slug = params.get("slug") || (pathSlug ? decodeURIComponent(pathSlug[1]) : null);
@@ -334,6 +341,7 @@
       </a>
     `).join("");
   }
+})();
 </script>
 </body>
 </html>

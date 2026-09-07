@@ -164,6 +164,22 @@
     });
   });
 
+  /* ---------- Footer legal links (Privacy Policy / Terms / User Agreement) ----------
+     Hidden by default in the HTML; only unhidden once the admin has enabled that
+     page, so a footer link never points at content that isn't there yet. */
+  const legalLinks = document.querySelectorAll("[data-legal-key]");
+  if (legalLinks.length) {
+    fetch("/api/legal-pages")
+      .then((res) => (res.ok ? res.json() : {}))
+      .then((pages) => {
+        legalLinks.forEach((a) => {
+          const page = pages[a.dataset.legalKey];
+          a.hidden = !(page && page.enabled);
+        });
+      })
+      .catch(() => { /* fail closed: links stay hidden */ });
+  }
+
   /* ---------- Active nav link ---------- */
   const path = window.location.pathname.replace(/\/index\.html$/, "/");
   document.querySelectorAll(".nav-links a, .mobile-nav > ul > li > a").forEach((a) => {

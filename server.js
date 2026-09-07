@@ -28,6 +28,9 @@ const REWRITES = [
   { test: /^\/departments\/?$/, dest: "/departments/index.html" },
   { test: /^\/departments\/([^/]+)\/?$/, dest: (m) => `/departments/department.html?slug=${m[1]}` },
   { test: /^\/courses\/([^/]+)\/?$/, dest: (m) => `/course.html?slug=${m[1]}` },
+  { test: /^\/privacy-policy\/?$/, dest: "/legal.html?key=privacy-policy" },
+  { test: /^\/terms-and-conditions\/?$/, dest: "/legal.html?key=terms-and-conditions" },
+  { test: /^\/user-agreement\/?$/, dest: "/legal.html?key=user-agreement" },
 ];
 
 function readBody(req) {

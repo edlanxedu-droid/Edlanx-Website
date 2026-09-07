@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Legal Pages | Edlanx Admin</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="/admin/admin.css">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="/admin/admin.js"></script>
+</head>
+<body class="admin-body">
+
+<div class="admin-shell">
+  <aside class="admin-sidebar">
+    <img class="admin-logo" src="/assets/logo/edlanx-logo-on-dark.png" alt="Edlanx">
+    <nav class="admin-nav">
+      <a href="/admin"><i class="ph ph-users"></i> Leads</a>
+      <a href="/admin/courses"><i class="ph ph-graduation-cap"></i> Courses</a>
+      <a href="/admin/legal" class="is-active"><i class="ph ph-shield-check"></i> Legal pages</a>
+      <a href="/admin/settings"><i class="ph ph-gear-six"></i> Brevo settings</a>
+      <a href="/admin/emails"><i class="ph ph-envelope-simple"></i> Email templates</a>
+      <a href="/admin/account"><i class="ph ph-user-circle"></i> Account</a>
+    </nav>
+    <div class="admin-sidebar-footer">
+      <div style="margin-bottom:8px;">Signed in as <strong id="admin-username">…</strong></div>
+      <button id="admin-logout">Log out</button>
+    </div>
+  </aside>
+
+  <main class="admin-main">
+    <div class="admin-header">
+      <h1 class="text-h2">Legal pages</h1>
+    </div>
+
+    <p class="text-body" style="color:var(--color-text-secondary); margin-bottom: var(--space-3);">
+      Each page is hidden from the site (no footer link, and its URL shows "Page not available") until you switch it on. Add the content, save, then turn it on when it's ready.
+    </p>
+
+    <div class="admin-tabs">
+      <button type="button" data-key="privacy-policy" class="is-active">Privacy Policy</button>
+      <button type="button" data-key="terms-and-conditions">Terms & Conditions</button>
+      <button type="button" data-key="user-agreement">User Agreement</button>
+    </div>
+
+    <div class="admin-card">
+      <div class="admin-header" style="margin-bottom: var(--space-3);">
+        <div style="display:flex; align-items:center; gap:12px;">
+          <label class="admin-switch">
+            <input type="checkbox" id="enabled-toggle">
+            <span class="admin-switch-track"></span>
+          </label>
+          <span class="text-caption" style="text-transform:none; letter-spacing:0;" id="visibility-label">Hidden</span>
+        </div>
+        <span class="admin-hint" id="updated-at-label"></span>
+      </div>
+
+      <div class="admin-field">
+        <label>Page title</label>
+        <input type="text" id="title-input">
+      </div>
+
+      <div class="admin-editor-grid">
+        <div class="admin-field" style="margin-bottom:0;">
+          <label>HTML content</label>
+          <textarea id="html-input" class="admin-code" spellcheck="false" placeholder="&lt;h2&gt;Section heading&lt;/h2&gt;&#10;&lt;p&gt;Paragraph text…&lt;/p&gt;"></textarea>
+          <div class="admin-hint">Plain HTML: use &lt;h2&gt;, &lt;h3&gt;, &lt;p&gt;, &lt;ul&gt;/&lt;li&gt; etc. No template tokens here, this content is shown as-is.</div>
+        </div>
+        <div class="admin-field" style="margin-bottom:0;">
+          <label>Live preview</label>
+          <iframe id="preview-frame" class="admin-preview-frame"></iframe>
+        </div>
+      </div>
+
+      <button type="button" id="save-btn" class="admin-btn" style="margin-top: var(--space-3);">Save</button>
+      <div class="admin-status" id="save-status"></div>
+    </div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="admin.js"></script>
+<script>
+let currentKey = "privacy-policy";
+let pages = {};
+let previewTimer;
+
+const PREVIEW_STYLE = `
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; padding: 16px; color: #1a1a1a; line-height: 1.6; }
+    h2 { font-size: 1.3rem; margin: 20px 0 8px; }
+    h3 { font-size: 1.05rem; margin: 16px 0 6px; }
+    p { margin: 0 0 12px; }
+    ul, ol { margin: 0 0 12px; padding-left: 1.25em; }
+    a { color: #FF4800; }
+  </style>
+`;
+
+async function loadPages() {
+  const data = await adminApi("/api/admin/legal-pages");
+  pages = Object.fromEntries(data.pages.map((p) => [p.key, p]));
+  showPage(currentKey);
+}
+
+function showPage(key) {
+  currentKey = key;
+  document.querySelectorAll(".admin-tabs button").forEach((b) => b.classList.toggle("is-active", b.dataset.key === key));
+  const p = pages[key] || { title: "", content_html: "", enabled: false, updated_at: null };
+  document.getElementById("title-input").value = p.title;
+  document.getElementById("html-input").value = p.content_html;
+  document.getElementById("enabled-toggle").checked = p.enabled;
+  document.getElementById("visibility-label").textContent = p.enabled ? "Visible on site" : "Hidden";
+  document.getElementById("updated-at-label").textContent = p.updated_at ? `Last saved ${new Date(p.updated_at).toLocaleString()}` : "";
+  refreshPreview();
+}
+
+function refreshPreview() {
+  document.getElementById("preview-frame").srcdoc = PREVIEW_STYLE + (document.getElementById("html-input").value || "<p style=\"color:#999;\">Nothing written yet.</p>");
+}
+
+document.querySelectorAll(".admin-tabs button").forEach((btn) => {
+  btn.addEventListener("click", () => showPage(btn.dataset.key));
+});
+
+document.getElementById("html-input").addEventListener("input", () => {
+  clearTimeout(previewTimer);
+  previewTimer = setTimeout(refreshPreview, 300);
+});
+
+document.getElementById("enabled-toggle").addEventListener("change", async (e) => {
+  const enabled = e.target.checked;
+  e.target.disabled = true;
+  try {
+    await adminApi("/api/admin/legal-pages-toggle", { method: "POST", body: JSON.stringify({ key: currentKey, enabled }) });
+    pages[currentKey] = { ...pages[currentKey], enabled };
+    document.getElementById("visibility-label").textContent = enabled ? "Visible on site" : "Hidden";
+  } catch (err) {
+    e.target.checked = !enabled;
+    alert(`Could not update: ${err.message}`);
+  } finally {
+    e.target.disabled = false;
+  }
+});
+
+document.getElementById("save-btn").addEventListener("click", async () => {
+  const statusEl = document.getElementById("save-status");
+  const title = document.getElementById("title-input").value.trim();
+  const content_html = document.getElementById("html-input").value;
+  if (!title) {
+    statusEl.className = "admin-status is-error";
+    statusEl.textContent = "Title is required.";
+    return;
+  }
+  statusEl.className = "admin-status";
+  statusEl.textContent = "Saving…";
+  try {
+    await adminApi("/api/admin/legal-pages", { method: "POST", body: JSON.stringify({ key: currentKey, title, content_html }) });
+    pages[currentKey] = { ...pages[currentKey], title, content_html, updated_at: new Date().toISOString() };
+    document.getElementById("updated-at-label").textContent = `Last saved ${new Date().toLocaleString()}`;
+    statusEl.className = "admin-status is-ok";
+    statusEl.textContent = "Saved.";
+  } catch (err) {
+    statusEl.className = "admin-status is-error";
+    statusEl.textContent = err.message;
+  }
+});
+
+requireAdminAuth().then(loadPages);
+</script>
+</body>
+</html>

@@ -59,6 +59,16 @@ create table if not exists email_templates (
 
 comment on table email_templates is 'Editable HTML email templates. {{placeholder}} tokens are substituted at send time; see lib/templates.js for the allowed token list per key.';
 
+-- ---------- Per-course admin overrides (on/off toggle + curriculum) ----------
+create table if not exists course_overrides (
+  slug text primary key,
+  enabled boolean not null default true,
+  curriculum jsonb,
+  updated_at timestamptz not null default now()
+);
+
+comment on table course_overrides is 'Admin-panel overrides for courses defined in public/js/courses-data.js. A missing row means the course is enabled with its default (in-file) curriculum. enabled=false hides the course everywhere on the public site. curriculum, when set, is an array of {title, topics[]} that replaces the course''s built-in modules.';
+
 insert into email_templates (key, subject, html_body) values
 (
   'internal_notification',
@@ -90,4 +100,24 @@ insert into email_templates (key, subject, html_body) values
   </p>
 </div>'
 )
+on conflict (key) do nothing;
+
+-- ---------- Legal pages (Privacy Policy, Terms & Conditions, User Agreement) ----------
+-- Fixed set of pages, content edited from the admin panel and added later.
+-- enabled=false (the default) hides a page everywhere on the public site until
+-- an admin has actually filled it in and switched it on.
+create table if not exists legal_pages (
+  key text primary key,
+  title text not null,
+  content_html text not null default '',
+  enabled boolean not null default false,
+  updated_at timestamptz not null default now()
+);
+
+comment on table legal_pages is 'Privacy Policy / Terms & Conditions / User Agreement pages, edited from the admin panel. enabled=false hides the page from the footer and makes its URL show "not available" until content is added and it is switched on.';
+
+insert into legal_pages (key, title, content_html) values
+  ('privacy-policy', 'Privacy Policy', ''),
+  ('terms-and-conditions', 'Terms & Conditions', ''),
+  ('user-agreement', 'User Agreement', '')
 on conflict (key) do nothing;

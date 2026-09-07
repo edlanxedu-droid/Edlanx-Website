@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title id="page-title">Department | Edlanx</title>
-<meta id="page-description" name="description" content="Explore courses from Edlanx.">
+<title id="page-title">Edlanx</title>
+<meta id="page-description" name="description" content="Edlanx legal information.">
+<meta name="robots" content="noindex">
 <link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/css/tokens.css">
 <link rel="stylesheet" href="/css/style.css">
@@ -20,7 +21,7 @@
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
         <li class="nav-dropdown">
-          <button class="nav-dropdown-toggle" aria-current="page">Departments <i class="ph ph-caret-down"></i></button>
+          <button class="nav-dropdown-toggle">Departments <i class="ph ph-caret-down"></i></button>
           <div class="nav-dropdown-panel">
             <a class="nav-dropdown-item" href="/departments/cse-it"><strong>CSE / IT</strong><span>Software, AI, data & cloud</span></a>
             <a class="nav-dropdown-item" href="/departments/ece"><strong>ECE</strong><span>Electronics, IoT & robotics</span></a>
@@ -64,36 +65,10 @@
 </div>
 
 <main>
-  <section class="dept-hero" id="dept-hero-section">
-    <div class="container dept-hero-grid">
-      <div>
-        <div class="dept-hero-crumb"><a href="/departments">Departments</a> <i class="ph ph-caret-right"></i> <span id="crumb-name"></span></div>
-        <h1 class="text-display" id="dept-name"></h1>
-        <p id="dept-description"></p>
-      </div>
-      <div class="dept-hero-photo"><img id="dept-hero-img" src="" alt=""></div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="section-head reveal">
-        <span class="eyebrow">Department courses</span>
-        <h2 class="text-h1">Select a course to view the full curriculum</h2>
-      </div>
-      <div class="course-grid reveal-stagger" id="course-grid"></div>
-    </div>
-  </section>
-
-  <section class="section section-alt">
-    <div class="container">
-      <div class="cta-band reveal">
-        <div>
-          <h2 class="text-h2">Not sure which course fits you?</h2>
-          <p style="margin-top:8px; opacity:0.92;">Talk to an academic counsellor and get a personalised recommendation.</p>
-        </div>
-        <a class="btn btn-dark" href="#" data-open-register>Register Now</a>
-      </div>
+  <section class="section" style="padding-top: calc(var(--nav-height) + var(--space-6));">
+    <div class="container" style="max-width: 760px;">
+      <h1 class="text-h1" id="legal-title">Loading…</h1>
+      <div class="legal-content" id="legal-content"></div>
     </div>
   </section>
 </main>
@@ -103,12 +78,17 @@
     <button class="modal-close" aria-label="Close"><i class="ph ph-x"></i></button>
     <h3 id="modal-title" class="text-h2" style="margin-bottom:4px;">Talk to a counsellor</h3>
     <p class="text-body" style="color:var(--color-text-secondary); margin-bottom:var(--space-4);">Leave your details and we'll call you back within one business day.</p>
-    <form data-lead-form data-source="department_page">
+    <form data-lead-form data-source="register_modal">
       <div class="form-grid">
         <div class="form-field full"><label>Full name</label><input type="text" name="full_name" required placeholder="Your full name"><span class="form-error"></span></div>
         <div class="form-field"><label>Email</label><input type="email" name="email" required placeholder="you@email.com"><span class="form-error"></span></div>
         <div class="form-field"><label>Phone</label><input type="tel" name="phone" required placeholder="10-digit mobile number"><span class="form-error"></span></div>
-        <div class="form-field full"><label>Course interested in</label><input type="text" name="course_interest" placeholder="e.g. Full Stack Web Development"></div>
+        <div class="form-field full"><label>Course interested in</label>
+          <select name="course_interest">
+            <option value="">Not sure yet</option>
+            <option>CSE / IT</option><option>ECE</option><option>Mechanical</option><option>Civil</option><option>Management & Commerce</option><option>Bio & Life Sciences</option>
+          </select>
+        </div>
       </div>
       <button type="submit" class="btn btn-primary btn-block" style="margin-top: var(--space-3);">Submit</button>
       <div class="form-status"></div>
@@ -164,46 +144,32 @@
 <script src="/js/courses-data.js"></script>
 <script src="/js/main.js"></script>
 <script>
-(async () => {
-  await loadCourseOverrides();
   const params = new URLSearchParams(window.location.search);
-  const pathSlug = window.location.pathname.match(/^\/departments\/([^/]+)\/?$/);
-  const slug = params.get("slug") || (pathSlug ? decodeURIComponent(pathSlug[1]) : null) || "cse-it";
-  const dept = getDepartment(slug);
+  const PATH_KEYS = { "/privacy-policy": "privacy-policy", "/terms-and-conditions": "terms-and-conditions", "/user-agreement": "user-agreement" };
+  const pathKey = PATH_KEYS[window.location.pathname.replace(/\/$/, "")];
+  const key = params.get("key") || pathKey || "";
 
-  if (!dept) {
-    document.getElementById("dept-name").textContent = "Department not found";
-    document.getElementById("dept-description").textContent = "That department doesn't exist. Browse all departments instead.";
-  } else {
-    document.title = dept.name + " | Edlanx";
-    document.getElementById("page-title").textContent = dept.name + " | Edlanx";
-    document.getElementById("page-description").setAttribute("content", dept.description);
-    document.getElementById("crumb-name").textContent = dept.name;
-    document.getElementById("dept-name").innerHTML = `<i class="ph ph-${dept.icon}" style="color:var(--orange-500); font-size: 0.7em; vertical-align: -0.05em;"></i> ${dept.name}`;
-    document.getElementById("dept-description").textContent = dept.description;
+  (async () => {
+    try {
+      const res = await fetch("/api/legal-pages");
+      const pages = res.ok ? await res.json() : {};
+      const page = pages[key];
 
-    const DEPT_COVER = {
-      "cse-it": "tech", "ece": "hardware", "mechanical": "hardware",
-      "civil": "hardware", "management": "business", "bio-life-sciences": "bio",
-    };
-    const coverKey = DEPT_COVER[slug] || "tech";
-    const deptImg = document.getElementById("dept-hero-img");
-    deptImg.src = `/assets/images/covers/cover-${coverKey}.jpg`;
-    deptImg.alt = dept.name;
+      if (!page || !page.enabled) {
+        document.getElementById("legal-title").textContent = "Page not available";
+        document.getElementById("legal-content").innerHTML = "<p>This page isn't available yet. Please check back later.</p>";
+        return;
+      }
 
-    const courses = getCoursesByDepartment(slug);
-    document.getElementById("course-grid").innerHTML = courses.map((c, i) => `
-      <a class="card course-card reveal" href="/courses/${c.slug}">
-        ${courseThumbHtml(c, i)}
-        <span class="course-tag">${dept.name}</span>
-        <h3 class="text-h3">${c.name}</h3>
-        <p>${c.shortDescription}</p>
-        <div class="course-meta"><i class="ph ph-clock"></i> ${c.duration}</div>
-        <span class="course-link">View curriculum <i class="ph ph-arrow-right"></i></span>
-      </a>
-    `).join("");
-  }
-})();
+      document.title = page.title + " | Edlanx";
+      document.getElementById("page-title").textContent = page.title + " | Edlanx";
+      document.getElementById("legal-title").textContent = page.title;
+      document.getElementById("legal-content").innerHTML = page.content_html || "<p>This page isn't available yet. Please check back later.</p>";
+    } catch {
+      document.getElementById("legal-title").textContent = "Page not available";
+      document.getElementById("legal-content").innerHTML = "<p>This page isn't available yet. Please check back later.</p>";
+    }
+  })();
 </script>
 </body>
 </html>
