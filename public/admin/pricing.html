@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pricing | Edlanx Admin</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/assets/logo/edlanx-logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="/admin/admin.css">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="/admin/admin.js"></script>
+</head>
+<body class="admin-body">
+
+<div class="admin-shell">
+  <aside class="admin-sidebar">
+    <img class="admin-logo" src="/assets/logo/edlanx-logo-on-dark.png" alt="Edlanx">
+    <nav class="admin-nav">
+      <a href="/admin"><i class="ph ph-users"></i> Leads</a>
+      <a href="/admin/courses"><i class="ph ph-graduation-cap"></i> Courses</a>
+      <a href="/admin/pricing" class="is-active"><i class="ph ph-tag"></i> Pricing</a>
+      <a href="/admin/legal"><i class="ph ph-shield-check"></i> Legal pages</a>
+      <a href="/admin/settings"><i class="ph ph-gear-six"></i> Brevo settings</a>
+      <a href="/admin/emails"><i class="ph ph-envelope-simple"></i> Email templates</a>
+      <a href="/admin/account"><i class="ph ph-user-circle"></i> Account</a>
+    </nav>
+    <div class="admin-sidebar-footer">
+      <div style="margin-bottom:8px;">Signed in as <strong id="admin-username">…</strong></div>
+      <button id="admin-logout">Log out</button>
+    </div>
+  </aside>
+
+  <main class="admin-main">
+    <div class="admin-header">
+      <h1 class="text-h2">Pricing</h1>
+    </div>
+
+    <p class="text-body" style="color:var(--color-text-secondary); margin-bottom: var(--space-3);">
+      Turn a feature on or off for a plan and the pricing page updates immediately, no redeploy needed. The wording on the page (e.g. "Placement support (6 months)") doesn't change here, only whether that row shows as included or not.
+    </p>
+
+    <div class="admin-card">
+      <div style="overflow-x:auto;">
+        <table class="admin-table" id="pricing-table">
+          <thead>
+            <tr><th>Feature</th></tr>
+          </thead>
+          <tbody>
+            <tr><td style="color:var(--color-text-muted);">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<script src="admin.js"></script>
+<script>
+async function loadPricing() {
+  const data = await adminApi("/api/admin/pricing");
+  renderTable(data.plans, data.features, data.matrix);
+}
+
+function renderTable(plans, features, matrix) {
+  const table = document.getElementById("pricing-table");
+  const planByKey = Object.fromEntries(matrix.map((p) => [p.key, p]));
+
+  const thead = table.querySelector("thead");
+  thead.innerHTML = `<tr><th>Feature</th>${plans.map((p) => `<th>${escapeHtmlP(p.name)}</th>`).join("")}</tr>`;
+
+  const tbody = table.querySelector("tbody");
+  tbody.innerHTML = features.map((f) => `
+    <tr>
+      <td><strong>${escapeHtmlP(f.label)}</strong></td>
+      ${plans.map((p) => {
+        const enabled = planByKey[p.key].features.find((x) => x.key === f.key).enabled;
+        return `<td>
+          <label class="admin-switch">
+            <input type="checkbox" data-plan="${p.key}" data-feature="${f.key}" ${enabled ? "checked" : ""}>
+            <span class="admin-switch-track"></span>
+          </label>
+        </td>`;
+      }).join("")}
+    </tr>
+  `).join("");
+
+  tbody.querySelectorAll("input[type=checkbox]").forEach((input) => {
+    input.addEventListener("change", () => onToggle(input));
+  });
+}
+
+function escapeHtmlP(str) {
+  return String(str ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+async function onToggle(input) {
+  const plan = input.dataset.plan;
+  const feature = input.dataset.feature;
+  const enabled = input.checked;
+  input.disabled = true;
+  try {
+    await adminApi("/api/admin/pricing-toggle", { method: "POST", body: JSON.stringify({ plan, feature, enabled }) });
+  } catch (err) {
+    input.checked = !enabled;
+    alert(`Could not update: ${err.message}`);
+  } finally {
+    input.disabled = false;
+  }
+}
+
+requireAdminAuth().then(loadPricing);
+</script>
+</body>
+</html>

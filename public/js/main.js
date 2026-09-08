@@ -180,6 +180,29 @@
       .catch(() => { /* fail closed: links stay hidden */ });
   }
 
+  /* ---------- Pricing plan feature toggles ----------
+     Each <li> in a pricing card is server-rendered with its current
+     is-yes/is-off state as a safe default; this only flips it when an
+     admin override actually says otherwise, so the page still looks
+     right with JS disabled or if the fetch fails. */
+  const pricingFeatureEls = document.querySelectorAll("[data-plan][data-feature]");
+  if (pricingFeatureEls.length) {
+    fetch("/api/pricing-overrides")
+      .then((res) => (res.ok ? res.json() : {}))
+      .then((overrides) => {
+        pricingFeatureEls.forEach((li) => {
+          const key = `${li.dataset.plan}:${li.dataset.feature}`;
+          if (!(key in overrides)) return;
+          const enabled = overrides[key];
+          li.classList.toggle("is-yes", enabled);
+          li.classList.toggle("is-off", !enabled);
+          const icon = li.querySelector("i");
+          if (icon) icon.className = enabled ? "ph ph-check-circle" : "ph ph-x-circle";
+        });
+      })
+      .catch(() => { /* fail open: keep the server-rendered defaults */ });
+  }
+
   /* ---------- Active nav link ---------- */
   const path = window.location.pathname.replace(/\/index\.html$/, "/");
   document.querySelectorAll(".nav-links a, .mobile-nav > ul > li > a").forEach((a) => {

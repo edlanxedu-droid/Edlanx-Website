@@ -121,3 +121,16 @@ insert into legal_pages (key, title, content_html) values
   ('terms-and-conditions', 'Terms & Conditions', ''),
   ('user-agreement', 'User Agreement', '')
 on conflict (key) do nothing;
+
+-- ---------- Pricing plan feature overrides ----------
+-- A missing row means "use the default from api/_lib/pricing-catalog.js".
+-- Only cells an admin has actually toggled get a row here.
+create table if not exists pricing_overrides (
+  plan_key text not null,
+  feature_key text not null,
+  enabled boolean not null default true,
+  updated_at timestamptz not null default now(),
+  primary key (plan_key, feature_key)
+);
+
+comment on table pricing_overrides is 'Admin toggles for whether a given pricing plan (public/pricing.html) includes a given feature row, e.g. FlexLearn + mock-interview. Defaults live in api/_lib/pricing-catalog.js.';
